@@ -1,0 +1,8 @@
+{
+    "layers_num": 1,
+    "first_multifn_switch_num": 21,
+    "mod_src_num": 1,
+    "patch_modified_threshold": 120,
+    "demo_mode": false,
+    "demo_mode_timeout": 300
+}

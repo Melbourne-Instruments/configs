@@ -1,0 +1,10 @@
+[
+    {
+        "param": "/daw/main/ninavst/VCF_Env_Mod",
+        "alias": "/alias/VCF_Env_Mod"
+    },
+    {
+        "param": "/daw/main/ninavst/Mod_Key_Pitch:Filter_Cutoff",
+        "alias": "/alias/Key_Track"
+    }
+]

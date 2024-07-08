@@ -1,0 +1,8 @@
+[Unit]
+Description=Run Script
+
+[Service]
+ExecStart=/udata/nina_test.sh
+
+[Install]
+WantedBy=multi-user.target

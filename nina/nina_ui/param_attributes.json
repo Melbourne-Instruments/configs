@@ -1,0 +1,2164 @@
+[
+    {
+        "param_path": "/daw/main/pan.*",
+        "patch_state_param": false
+    },
+    {
+        "param_path": "/daw/main/gain_.*",
+        "patch_state_param": false
+    },
+    {
+        "param_path": "/cmn/.*",
+        "patch_state_param": false
+    },
+    {
+        "param_path": "/cmn/wt_name",
+        "patch_state_param": true
+    },
+    {
+        "param_path": "/cmn/system_colour",
+        "display_name": "System Color",
+        "param_list": "param_list_global_settings"
+    },    
+    {
+        "param_path": "/seq/.*",
+        "patch_state_param": false
+    },
+    {
+        "param_path": "/arp/.*",
+        "patch_state_param": false
+    },
+    {
+        "param_path": "/daw/main/ninavst/Layer_Num_Voices",
+        "ref": "Layer_Num_Voices",
+        "display_name": "Layer Voices",
+        "num_positions": 13,
+        "display_range_min": 0,
+        "display_range_max": 12,
+        "numeric_enum_param": true,
+        "param_list": "param_list_layer",
+        "patch_state_param": false,
+        "patch_layer_param": true,
+        "patch": true
+    },
+    {
+		"param_path": "/daw/main/ninavst/Current_Layer",
+        "ref": "Current_Layer",
+        "num_positions": 4,
+        "display_range_min": 1,
+        "display_range_max": 4,
+        "numeric_enum_param": true,
+        "param_list": "param_list_layer",
+        "patch_state_param": false,
+        "patch": false,
+        "value_tags": [
+            {"string": ""},
+            {"string": ""},
+            {"string": ""},
+            {"string": ""}
+        ]        
+    },
+    {
+		"param_path": "/daw/main/ninavst/Midi_Low_Note_Filter",
+        "ref": "Midi_Low_Note_Filter",
+        "display_name": "Low Note",
+        "num_positions": 128,
+        "display_range_min": 0,
+        "display_range_max": 127,
+        "numeric_enum_param": true,
+        "param_list": "param_list_layer",
+        "patch_state_param": false,
+        "patch_layer_param": true,
+        "patch": true,
+        "value_tags": [
+            {"string": "C-1"},
+            {"string": "C#-1"},
+            {"string": "D-1"},
+            {"string": "D#-1"},
+            {"string": "E-1"},
+            {"string": "F-1"},
+            {"string": "F#-1"},
+            {"string": "G-1"},
+            {"string": "G#-1"},
+            {"string": "A0"},
+            {"string": "A#0"},
+            {"string": "B0"},
+            {"string": "C0"},
+            {"string": "C#0"},
+            {"string": "D0"},
+            {"string": "D#0"},
+            {"string": "E0"},
+            {"string": "F0"},
+            {"string": "F#0"},
+            {"string": "G0"},
+            {"string": "G#0"},
+            {"string": "A1"},
+            {"string": "A#1"},
+            {"string": "B1"},
+            {"string": "C1"},
+            {"string": "C#1"},
+            {"string": "D1"},
+            {"string": "D#1"},
+            {"string": "E1"},
+            {"string": "F1"},
+            {"string": "F#1"},
+            {"string": "G1"},
+            {"string": "G#1"},
+            {"string": "A2"},
+            {"string": "A#2"},
+            {"string": "B2"},
+            {"string": "C2"},
+            {"string": "C#2"},
+            {"string": "D2"},
+            {"string": "D#2"},
+            {"string": "E2"},
+            {"string": "F2"},
+            {"string": "F#2"},
+            {"string": "G2"},
+            {"string": "G#2"},
+            {"string": "A3"},
+            {"string": "A#3"},
+            {"string": "B3"},
+            {"string": "C3"},
+            {"string": "C#3"},
+            {"string": "D3"},
+            {"string": "D#3"},
+            {"string": "E3"},
+            {"string": "F3"},
+            {"string": "F#3"},
+            {"string": "G3"},
+            {"string": "G#3"},
+            {"string": "A4"},
+            {"string": "A#4"},
+            {"string": "B4"},
+            {"string": "C4"},
+            {"string": "C#4"},
+            {"string": "D4"},
+            {"string": "D#4"},
+            {"string": "E4"},
+            {"string": "F4"},
+            {"string": "F#4"},
+            {"string": "G4"},
+            {"string": "G#4"},
+            {"string": "A5"},
+            {"string": "A#5"},
+            {"string": "B5"},
+            {"string": "C5"},
+            {"string": "C#5"},
+            {"string": "D5"},
+            {"string": "D#5"},
+            {"string": "E5"},
+            {"string": "F5"},
+            {"string": "F#5"},
+            {"string": "G5"},
+            {"string": "G#5"},
+            {"string": "A6"},
+            {"string": "A#6"},
+            {"string": "B6"},
+            {"string": "C6"},
+            {"string": "C#6"},
+            {"string": "D6"},
+            {"string": "D#6"},
+            {"string": "E6"},
+            {"string": "F6"},
+            {"string": "F#6"},
+            {"string": "G6"},
+            {"string": "G#6"},
+            {"string": "A7"},
+            {"string": "A#7"},
+            {"string": "B7"},
+            {"string": "C7"},
+            {"string": "C#7"},
+            {"string": "D7"},
+            {"string": "D#7"},
+            {"string": "E7"},
+            {"string": "F7"},
+            {"string": "F#7"},
+            {"string": "G7"},
+            {"string": "G#7"},
+            {"string": "A8"},
+            {"string": "A#8"},
+            {"string": "B8"},
+            {"string": "C8"},
+            {"string": "C#8"},
+            {"string": "D8"},
+            {"string": "D#8"},
+            {"string": "E8"},
+            {"string": "F8"},
+            {"string": "F#8"},
+            {"string": "G8"},
+            {"string": "G#8"},
+            {"string": "A9"},
+            {"string": "A#9"},
+            {"string": "B9"},
+            {"string": "C9"},
+            {"string": "C#9"},
+            {"string": "D9"},
+            {"string": "D#9"},
+            {"string": "E9"},
+            {"string": "F9"},
+            {"string": "F#9"},
+            {"string": "G9"}
+        ]
+    },
+    {
+		"param_path": "/daw/main/ninavst/Midi_High_Note_Filter",
+        "ref": "Midi_High_Note_Filter",
+        "display_name": "High Note",
+        "num_positions": 128,
+        "display_range_min": 0,
+        "display_range_max": 127,
+        "numeric_enum_param": true,
+        "param_list": "param_list_layer",
+        "patch_state_param": false,
+        "patch_layer_param": true,
+        "patch": true,
+        "value_tags": [
+            {"string": "C-1"},
+            {"string": "C#-1"},
+            {"string": "D-1"},
+            {"string": "D#-1"},
+            {"string": "E-1"},
+            {"string": "F-1"},
+            {"string": "F#-1"},
+            {"string": "G-1"},
+            {"string": "G#-1"},
+            {"string": "A0"},
+            {"string": "A#0"},
+            {"string": "B0"},
+            {"string": "C0"},
+            {"string": "C#0"},
+            {"string": "D0"},
+            {"string": "D#0"},
+            {"string": "E0"},
+            {"string": "F0"},
+            {"string": "F#0"},
+            {"string": "G0"},
+            {"string": "G#0"},
+            {"string": "A1"},
+            {"string": "A#1"},
+            {"string": "B1"},
+            {"string": "C1"},
+            {"string": "C#1"},
+            {"string": "D1"},
+            {"string": "D#1"},
+            {"string": "E1"},
+            {"string": "F1"},
+            {"string": "F#1"},
+            {"string": "G1"},
+            {"string": "G#1"},
+            {"string": "A2"},
+            {"string": "A#2"},
+            {"string": "B2"},
+            {"string": "C2"},
+            {"string": "C#2"},
+            {"string": "D2"},
+            {"string": "D#2"},
+            {"string": "E2"},
+            {"string": "F2"},
+            {"string": "F#2"},
+            {"string": "G2"},
+            {"string": "G#2"},
+            {"string": "A3"},
+            {"string": "A#3"},
+            {"string": "B3"},
+            {"string": "C3"},
+            {"string": "C#3"},
+            {"string": "D3"},
+            {"string": "D#3"},
+            {"string": "E3"},
+            {"string": "F3"},
+            {"string": "F#3"},
+            {"string": "G3"},
+            {"string": "G#3"},
+            {"string": "A4"},
+            {"string": "A#4"},
+            {"string": "B4"},
+            {"string": "C4"},
+            {"string": "C#4"},
+            {"string": "D4"},
+            {"string": "D#4"},
+            {"string": "E4"},
+            {"string": "F4"},
+            {"string": "F#4"},
+            {"string": "G4"},
+            {"string": "G#4"},
+            {"string": "A5"},
+            {"string": "A#5"},
+            {"string": "B5"},
+            {"string": "C5"},
+            {"string": "C#5"},
+            {"string": "D5"},
+            {"string": "D#5"},
+            {"string": "E5"},
+            {"string": "F5"},
+            {"string": "F#5"},
+            {"string": "G5"},
+            {"string": "G#5"},
+            {"string": "A6"},
+            {"string": "A#6"},
+            {"string": "B6"},
+            {"string": "C6"},
+            {"string": "C#6"},
+            {"string": "D6"},
+            {"string": "D#6"},
+            {"string": "E6"},
+            {"string": "F6"},
+            {"string": "F#6"},
+            {"string": "G6"},
+            {"string": "G#6"},
+            {"string": "A7"},
+            {"string": "A#7"},
+            {"string": "B7"},
+            {"string": "C7"},
+            {"string": "C#7"},
+            {"string": "D7"},
+            {"string": "D#7"},
+            {"string": "E7"},
+            {"string": "F7"},
+            {"string": "F#7"},
+            {"string": "G7"},
+            {"string": "G#7"},
+            {"string": "A8"},
+            {"string": "A#8"},
+            {"string": "B8"},
+            {"string": "C8"},
+            {"string": "C#8"},
+            {"string": "D8"},
+            {"string": "D#8"},
+            {"string": "E8"},
+            {"string": "F8"},
+            {"string": "F#8"},
+            {"string": "G8"},
+            {"string": "G#8"},
+            {"string": "A9"},
+            {"string": "A#9"},
+            {"string": "B9"},
+            {"string": "C9"},
+            {"string": "C#9"},
+            {"string": "D9"},
+            {"string": "D#9"},
+            {"string": "E9"},
+            {"string": "F9"},
+            {"string": "F#9"},
+            {"string": "G9"}
+        ]
+    },
+    {
+		"param_path": "/daw/main/ninavst/Midi_Channel_Filter",
+        "ref": "Midi_Channel_Filter",
+        "display_name": "MIDI Channel",
+        "num_positions": 17,
+        "numeric_enum_param": true,
+        "param_list": "param_list_layer",
+        "patch_state_param": false,
+        "patch_layer_param": true,
+        "patch": true,
+        "value_tags": [
+            {"string": "Omni"}
+        ]
+    },
+    {
+		"param_path": "/daw/main/ninavst/Octave_Offset",
+        "display_name": "Octave Offset",
+        "num_positions": 11,
+        "display_range_min" : -5,
+        "display_range_max" : 5,
+        "numeric_enum_param": true,
+        "param_list": "param_list_layer",
+        "patch_state_param": false,
+        "patch_layer_param": true,
+        "patch": true
+    },
+    {
+        "param_path": "/daw/main/ninavst/MPE_Mode",
+        "ref": "MPE_Mode",
+        "num_positions": 3,
+        "param_list": "param_list_layer",
+        "patch_state_param": false,
+        "patch_layer_param": true,
+        "patch": true,
+        "display_strings": [
+            {"string": "Off"},
+            {"string": "On:Master Ch1"},
+            {"string": "On:Master Ch16"}
+        ]
+    },
+    {
+	    "param_path": "/daw/main/ninavst/MPE_Y_Bipolar_Mode",
+        "display_name": "MPE CC Polarity",
+        "num_positions": 2,
+        "param_list": "param_list_global_settings",
+        "patch_state_param": false,
+        "patch_layer_param": false,
+        "patch": false,
+        "global_param" :true,
+        "display_strings": [
+            {"string": "Bipolar"},
+            {"string": "Unipolar"}
+        ]
+    },
+    {
+        "param_path": "/daw/main/ninavst/MPE_Lower_Zone_Num_Channels",
+        "ref": "MPE_Lower_Zone_Num_Channels",
+        "display_name": "MPE Num Channels",
+        "num_positions": 16,
+        "display_range_min": 0,
+        "display_range_max": 15,
+        "numeric_enum_param": true,
+        "param_list": "param_list_layer",
+        "patch_state_param": false,
+        "patch_layer_param": true,
+        "patch_common_layer_param": true,
+        "patch": true
+    },
+    {
+        "param_path": "/daw/main/ninavst/MPE_Y_Fall_Time",
+        "display_name": "MPE CC74 Decay",
+        "param_list": "param_list_layer",
+        "patch_state_param": false
+    },
+    {
+        "param_path": "/daw/main/ninavst/MPE_Z_Fall_Time",
+        "display_name": "MPE After Decay",
+        "param_list": "param_list_layer",
+        "patch_state_param": false
+    },
+    {
+        "param_path": "/daw/main/ninavst/MPE_Upper_Zone_Num_Channels",
+        "ref": "MPE_Upper_Zone_Num_Channels",
+        "display_name": "MPE Num Channels",
+        "num_positions": 16,
+        "display_range_min": 0,
+        "display_range_max": 15,
+        "numeric_enum_param": true,
+        "param_list": "param_list_layer",
+        "patch_state_param": false,
+        "patch_layer_param": true,
+        "patch_common_layer_param": true,
+        "patch": true
+    },
+    {
+        "param_path": "/daw/main/ninavst/MPE_Lower_Zone_Pitchbend_Range",
+        "display_name": "MPE LZ PB Range",
+        "num_positions": 97,
+        "display_range_min": 0,
+        "display_range_max": 96,
+        "numeric_enum_param": true,
+        "patch" : false,
+        "global_param": true,
+        "param_list": "param_list_global_settings"
+    },
+    {
+        "param_path": "/daw/main/ninavst/MPE_Upper_Zone_Pitchbend_Range",
+        "display_name": "MPE UZ PB Range",
+        "num_positions": 97,
+        "display_range_min": 0,
+        "display_range_max": 96,
+        "numeric_enum_param": true,
+        "patch" : false,
+        "global_param": true,
+        "param_list": "param_list_global_settings"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Master_Tune",
+        "display_range_min": -200,
+        "display_range_max": 200,
+        "value_tag": "Cents",
+        "patch" : false,
+        "global_param": true,
+        "param_list": "param_list_global_settings"
+    },
+    {
+        "param_path": "/daw/main/ninavst/MPE_X",
+        "patch" : false,
+        "ref": "MPE_X"
+    },
+    {
+        "param_path": "/daw/main/ninavst/MPE_Y",
+        "patch" : false,
+        "ref": "MPE_Y"
+    },
+    {
+        "param_path": "/daw/main/ninavst/MPE_Z",
+        "patch" : false,
+        "ref": "MPE_Z"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Morphing",
+        "patch_state_param": false,
+        "patch": false
+    },
+    {
+        "param_path": "/daw/main/ninavst/Morph_Value",
+        "ref": "Morph_Value",
+        "display_name": "Position",
+        "patch_state_param": false,
+        "param_list": "param_list_morph"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Layer_Load",
+        "ref": "Layer_Load",
+        "patch_state_param": false,
+        "patch": false
+    },
+    {
+		"param_path": "/daw/main/ninavst/All_Notes_Off",
+        "ref": "All_Notes_Off",
+        "patch_state_param": false,
+        "patch": false       
+    },    
+    {
+        "param_path": "/daw/main/ninavst/Morph_Mode",
+        "ref": "Morph_Mode",
+        "display_name": "Mode",
+        "patch_state_param": false,
+        "patch": false,
+        "num_positions" : 2,
+        "display_strings" :[
+            {"string": "Dance"},
+            {"string": "DJ"}
+        ],
+        "param_list": "param_list_morph"  
+    },
+    {
+        "param_path": "/daw/main/ninavst/Layer_State",
+        "ref": "Layer_State",
+        "patch_state_param": false
+    },   
+    {
+        "param_path": "/daw/main/ninavst/Unison_Pan",
+        "patch_state_param": false
+    },
+    {
+        "param_path": "/daw/main/ninavst/Pitch_Bend",
+        "patch_state_param": false,
+        "patch": false
+    },                 
+    {
+        "param_path": "/daw/main/ninavst/Pitch_Bend_Range",
+        "patch_state_param": false,
+        "numeric_enum_param": true,
+        "display_range_min": 0,
+        "num_positions" : 13,
+        "display_range_max": 12,
+        "value_tag": "semitones",
+        "param_list": "param_list_layer"
+    },                 
+    {
+        "param_path": "/daw/main/ninavst/CV_Offset_1",
+        "display_name": "CV 1 Offset",
+        "patch_state_param": false,
+        "patch" : false,
+        "global_param": true,
+        "display_range_min": -100,
+        "display_range_max": 100,
+        "param_list": "param_list_global_settings"
+    },
+    {
+        "param_path": "/daw/main/ninavst/CV_Gain_1",
+        "display_name": "CV 1 Gain",
+        "patch_state_param": false,
+        "patch" : false,
+        "global_param": true,
+        "display_range_min": -100,
+        "display_range_max": 100,
+        "param_list": "param_list_global_settings"
+    },
+    {
+        "param_path": "/daw/main/ninavst/CV_Input_Mode_1",
+        "display_name": "CV 1 Mode",
+        "patch_state_param": false,
+        "patch" : false,
+        "global_param": true,
+        "num_positions" : 4,
+        "display_strings" :[
+            {"string": "-10:10"},
+            {"string": "0:10"},
+            {"string": "-5:5"},
+            {"string": "0:5"}
+        ],
+        "param_list": "param_list_global_settings"
+    },
+    {
+        "param_path": "/daw/main/ninavst/CV_Offset_2",
+        "ref": "CV_Offset_2",
+        "display_name": "CV 2 Offset",
+        "patch_state_param": false,
+        "patch" : false,
+        "global_param": true,
+        "display_range_min": -100,
+        "display_range_max": 100,
+        "param_list": "param_list_global_settings"
+    },
+    {
+        "param_path": "/daw/main/ninavst/CV_Gain_2",
+        "display_name": "CV 2 Gain",
+        "patch_state_param": false,
+        "patch" : false,
+        "global_param": true,
+        "display_range_min": -100,
+        "display_range_max": 100,
+        "param_list": "param_list_global_settings"
+    },
+    {
+        "param_path": "/daw/main/ninavst/CV_Input_Mode_2",
+        "display_name": "CV 2 Mode",
+        "patch_state_param": false,
+        "patch" : false,
+        "global_param": true,
+        "num_positions" : 4,
+        "display_strings" :[
+            {"string": "-10:10"},
+            {"string": "0:10"},
+            {"string": "-5:5"},
+            {"string": "0:5"}
+        ],
+        "param_list": "param_list_global_settings"
+    },
+    {
+        "param_path": "/daw/main/ninavst/CV_Offset_3",
+        "ref": "CV_Offset_3",
+        "display_name": "CV 3 Offset",
+        "patch_state_param": false,
+        "patch" : false,
+        "global_param": true,
+        "display_range_min": -100,
+        "display_range_max": 100,
+        "param_list": "param_list_global_settings"
+    },
+    {
+        "param_path": "/daw/main/ninavst/CV_Gain_3",
+        "display_name": "CV 3 Gain",
+        "patch_state_param": false,
+        "patch" : false,
+        "global_param": true,
+        "display_range_min": -100,
+        "display_range_max": 100,
+        "param_list": "param_list_global_settings"
+    },
+    {
+        "param_path": "/daw/main/ninavst/CV_Input_Mode_3",
+        "display_name": "CV 3 Mode",
+        "patch_state_param": false,
+        "patch" : false,
+        "global_param": true,
+        "num_positions" : 4,
+        "display_strings" :[
+            {"string": "-10:10"},
+            {"string": "0:10"},
+            {"string": "-5:5"},
+            {"string": "0:5"}
+        ],
+        "param_list": "param_list_global_settings"
+    },
+    {
+        "param_path": "/daw/main/ninavst/CV_Offset_4",
+        "ref": "CV_Offset_4",
+        "display_name": "CV 4 Offset",
+        "patch_state_param": false,
+        "patch" : false,
+        "global_param": true,
+        "display_range_min": -100,
+        "display_range_max": 100,
+        "param_list": "param_list_global_settings"
+    },
+    {
+        "param_path": "/daw/main/ninavst/CV_Gain_4",
+        "display_name": "CV 4 Gain",
+        "patch_state_param": false,
+        "patch" : false,
+        "global_param": true,
+        "display_range_min": -100,
+        "display_range_max": 100,
+        "param_list": "param_list_global_settings"
+    },
+    {
+        "param_path": "/daw/main/ninavst/CV_Input_Mode_4",
+        "display_name": "CV 4 Mode",
+        "patch_state_param": false,
+        "patch" : false,
+        "global_param": true,
+        "num_positions" : 4,
+        "display_strings" :[
+            {"string": "-10:10"},
+            {"string": "0:10"},
+            {"string": "-5:5"},
+            {"string": "0:5"}
+        ],
+        "param_list": "param_list_global_settings"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mod_Wheel",
+        "patch_state_param": false,
+        "patch": false
+    },               
+    {
+        "param_path": "/daw/main/ninavst/Expression",
+        "patch_state_param": false,
+        "patch": false
+    },               
+    {
+        "param_path": "/daw/main/ninavst/Midi_Mod_Source",
+        "patch_state_param": false,
+        "patch": false
+    },               
+    {
+        "param_path": "/daw/main/ninavst/Aftertouch",
+        "patch_state_param": false,
+        "patch": false
+    },               
+    {
+        "param_path": "/daw/main/ninavst/Sustain",
+        "patch_state_param": false,
+        "patch": false
+    },
+    {
+        "param_path": "/daw/main/ninavst/Run_Tuning",
+        "patch_state_param": false
+    },
+    {
+        "param_path": "/daw/main/ninavst/vca_offset_\\d{1}",
+        "patch_state_param": false
+    },
+    {
+        "param_path": "/daw/main/ninavst/vca_left_offset",
+        "patch_state_param": false
+    },
+    {
+        "param_path": "/daw/main/ninavst/vca_right_offset",
+        "patch_state_param": false
+    },    
+    {
+        "param_path": "/daw/main/ninavst/filter_offset",
+        "patch_state_param": false
+    },
+    {
+        "param_path": "/daw/main/ninavst/filter_scale",
+        "patch_state_param": false
+    },
+    {
+        "param_path": "/daw/main/ninavst/filter_t_track",
+        "patch_state_param": false
+    },
+    {
+        "param_path": "/daw/main/ninavst/voice_select",
+        "patch_state_param": false
+    },
+    {
+        "param_path": "/daw/main/ninavst/voice_cal_write",
+        "patch_state_param": false
+    },                 
+    {
+        "param_path": "/daw/main/ninavst/res_high_cal",
+        "patch_state_param": false
+    },                 
+    {
+        "param_path": "/daw/main/ninavst/res_low_cal",
+        "patch_state_param": false
+    },               
+    {
+        "param_path": "/daw/main/ninavst/Trigger_Print",
+        "patch_state_param": false,
+        "patch": false
+    },               
+    {
+        "param_path": "/daw/main/ninavst/Misc_Scale",
+        "patch_state_param": false,
+        "patch": false
+    },               
+    {
+        "param_path": "/daw/main/ninavst/VCO_1_Tune_Fine",
+        "display_name": "Fine Tune",
+        "haptic_mode": "300_deg_with_top_indent",
+        "display_range_min": -700,
+        "display_range_max": 700,
+        "value_tag": "Cents",
+        "param_list": "param_list_osc_1"
+    },
+    {
+        "param_path": "/daw/main/ninavst/VCO_1_Tune_Octave",
+        "display_name": "OSC 1 Octave",
+        "num_positions": 5,
+        "display_range_min": -2,
+        "display_range_max": 2,
+        "numeric_enum_param": true,
+        "ref": "VCO_1_Tune_Octave",
+        "param_list": "param_list_osc_1_coarse",
+        "value_tags": [
+            {"string": "32'"},
+            {"string": "16'"},
+            {"string": "8'"},
+            {"string": "4'"},
+            {"string": "2'"}
+                ]
+    },
+    {
+        "param_path": "/daw/main/ninavst/VCO_1_Tune_Semitone",
+        "display_name": "Semitone Tune",
+        "num_positions": 12,
+        "display_range_min": 0,
+        "display_range_max": 11,
+        "numeric_enum_param": true,
+        "value_tags": [
+            {"string": ""},
+            {"string": ""},
+            {"string": ""},
+            {"string": "Min 3rd"},
+            {"string": "Maj 3rd"},
+            {"string": "4th"},
+            {"string": ""},
+            {"string": "5th"},
+            {"string": "Min 6th"},
+            {"string": "Maj 6th"},
+            {"string": "Min 7th"},
+            {"string": "Maj 7th"}
+        ],
+        "param_list": "param_list_osc_1_coarse"
+    },    
+    {
+        "param_path": "/daw/main/ninavst/VCO_1_Width",
+        "display_name": "Width",
+        "param_list": "param_list_osc_1"
+    },
+    {
+        "param_path": "/daw/main/ninavst/VCO_1_Blend",
+        "display_name": "Blend",
+        "param_list": "param_list_osc_1"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mix_VCO_1",
+        "display_name": "Level",
+        "param_list": "param_list_osc_1"
+    },        
+    {
+        "param_path": "/daw/main/ninavst/Filt_Env_Velocity_Sense",
+        "display_range_min": -100,
+        "display_range_max": 100,
+        "display_name": "EG1 Vel Sense",
+        "param_list": "param_list_mod_src_key_vel"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Amp_Env_Velocity_Sense",
+        "ref": "Amp_Env_Velocity_Sense",
+        "display_range_min": -100,
+        "display_range_max": 100,
+        "display_name": "EG2 Vel Sense",
+        "param_list": "param_list_mod_src_key_vel"
+    },
+    {
+        "param_path": "/daw/main/ninavst/VCO_2_Tune_Fine",
+        "display_name": "Fine Tune",
+        "haptic_mode": "300_deg_with_top_indent",
+        "display_range_min": -700,
+        "display_range_max": 700,
+        "value_tag": "Cents",
+        "param_list": "param_list_osc_2"
+    },
+    {
+        "param_path": "/daw/main/ninavst/VCO_2_Tune_Octave",
+        "display_name": "OSC 2 Octave",
+        "num_positions": 5,
+        "display_range_min": -2,
+        "display_range_max": 2,
+        "numeric_enum_param": true,
+        "ref": "VCO_2_Tune_Octave",
+        "value_tags": [
+            {"string": "32'"},
+            {"string": "16'"},
+            {"string": "8'"},
+            {"string": "4'"},
+            {"string": "2'"}
+                ],
+        "param_list": "param_list_osc_1_coarse"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Wave_Tune_Coarse",
+        "display_name": "Wave Octave",
+        "num_positions": 5,
+        "display_range_min": -2,
+        "display_range_max": 2,
+        "numeric_enum_param": true,
+        "ref": "Wave_Tune_Coarse",
+        "value_tags": [
+            {"string": "32'"},
+            {"string": "16'"},
+            {"string": "8'"},
+            {"string": "4'"},
+            {"string": "2'"}
+                ],
+        "param_list": "param_list_osc_1_coarse"
+    },
+    {
+        "param_path": "/daw/main/ninavst/VCO_2_Tune_Semitone",
+        "display_name": "Semitone Tune",
+        "num_positions": 12,
+        "display_range_min": 0,
+        "display_range_max": 11,
+        "numeric_enum_param": true,
+        "value_tags": [
+            {"string": ""},
+            {"string": ""},
+            {"string": ""},
+            {"string": "Min 3rd"},
+            {"string": "Maj 3rd"},
+            {"string": "4th"},
+            {"string": ""},
+            {"string": "5th"},
+            {"string": "Min 6th"},
+            {"string": "Maj 6th"},
+            {"string": "Min 7th"},
+            {"string": "Maj 7th"}
+        ],        
+        "param_list": "param_list_osc_2_coarse"
+    },     
+    {
+        "param_path": "/daw/main/ninavst/VCO_2_Width",
+        "display_name": "Width",
+        "param_list": "param_list_osc_2"
+    },
+    {
+        "param_path": "/daw/main/ninavst/VCO_2_Blend",
+        "display_name": "Blend",
+        "param_list": "param_list_osc_2"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mix_VCO_2",
+        "display_name": "Level",
+        "param_list": "param_list_osc_2"
+    },      
+    {
+        "param_path": "/daw/main/ninavst/Wave_Tune_Fine",
+        "display_name": "Tune Fine",
+        "haptic_mode": "300_deg_with_top_indent",
+        "display_range_min": -700,
+        "display_range_max": 700,
+        "value_tag": "Cents",
+        "param_list": "param_list_osc_3"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Wave_Shape",
+        "display_name": "Position",
+        "param_list": "param_list_osc_3"
+    },    
+    {
+        "param_path": "/daw/main/ninavst/Mix_Wave",
+        "display_name": "Level",
+        "param_list": "param_list_osc_3"
+    },    
+    {
+        "param_path": "/daw/main/ninavst/Wavetable_Interpolate",
+        "display_name": "Interpolate",
+        "param_list": "param_list_osc_3",
+        "num_positions" : 2,
+        "patch_state_param":false,
+        "display_strings" :[
+            {"string": "Off"},
+            {"string": "On"}
+        ]
+    },
+    {
+        "param_path": "/daw/main/ninavst/Wave_Slow_Mode",
+        "display_name": "LFO Mode",
+        "param_list": "param_list_osc_3",
+        "num_positions" : 2,
+        "display_strings" :[
+            {"string": "Off"},
+            {"string": "On"}
+        ]
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mix_XOR",
+        "display_name": "Level",
+        "param_list": "param_list_noise"
+    },    
+    {
+        "param_path": "/daw/main/ninavst/Ex_Input_Gain",
+        "display_name": "Ex Input Gain",
+        "param_list": "param_list_noise"
+    },    
+    {
+        "param_path": "/daw/main/ninavst/Noise_Mode",
+        "ref": "Noise_Type",
+        "display_name": "Type",
+        "param_list": "param_list_noise",
+        "num_positions" : 4,
+        "display_strings" :[
+            {"string": "XOR"},
+            {"string": "White"},
+            {"string": "Pink"},
+            {"string": "Aux In"}
+        ]
+    },
+    {
+        "param_path": "/daw/main/ninavst/Output_Routing",
+        "display_name": "Output Routing",
+        "param_list": "param_list_layer",
+        "patch_state_param": false,
+        "patch_layer_param": true,
+        "patch": true,
+        "num_positions" : 7,
+        "display_strings" :[
+            {"string": "1"},
+            {"string": "2"},
+            {"string": "3"},
+            {"string": "4"},
+            {"string": "1-2"},
+            {"string": "3-4"},
+            {"string": "1-2-3-4"}
+        ]
+    },
+    {
+        "param_path": "/daw/main/ninavst/CV_A_Select",
+        "display_name": "CV A Source",
+        "param_list": "param_list_layer",
+        "patch_state_param": false,
+        "patch_layer_param": true,
+        "patch":true,
+        "numeric_enum_param":true,
+        "num_positions" : 4,
+        "display_strings" :[
+            {"string": "1"},
+            {"string": "2"},
+            {"string": "3"},
+            {"string": "4"}
+        ]
+    },
+    {
+        "param_path": "/daw/main/ninavst/CV_B_Select",
+        "display_name": "CV B Source",
+        "param_list": "param_list_layer",
+        "patch_state_param": false,
+        "patch_layer_param": true,
+        "patch":true,
+        "numeric_enum_param":true,
+        "num_positions" : 4,
+        "display_strings" :[
+            {"string": "1"},
+            {"string": "2"},
+            {"string": "3"},
+            {"string": "4"}
+        ]
+    },
+    {
+        "param_path": "/daw/main/ninavst/Ex_Input_Mode",
+        "display_name": "Input Select",
+        "param_list": "param_list_noise",
+        "num_positions" : 7,
+        "display_strings" :[
+            {"string": "1"},
+            {"string": "2"},
+            {"string": "3"},
+            {"string": "4"},
+            {"string": "Stereo 1-2"},
+            {"string": "Stereo 3-4"},
+            {"string": "Stereo Out 1-2"}
+        ]
+    },
+    {
+        "param_path": "/daw/main/ninavst/Glide",
+        "param_list": "param_list_glide"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Glide_Mode",
+        "param_list": "param_list_glide",
+        "patch_state_param": false,
+        "display_name": "Glide Type",
+        "num_positions": 3,
+        "display_strings": [
+			{ "string": "Logarithmic" },
+			{ "string": "Linear" },
+			{ "string": "Legato Linear" }
+        ]
+    },
+    {
+        "param_path": "/daw/main/ninavst/VCF_Resonance",
+        "display_name": "Resonance",
+        "param_list": "param_list_vcf_filter"
+    },
+    {
+        "param_path": "/daw/main/ninavst/VCF_Cutoff",
+        "display_name": "Cutoff",
+        "param_list": "param_list_vcf_filter"
+    },
+    {
+        "param_path": "/daw/main/ninavst/VCF_Env_Mod",
+        "display_name": "EG1 Cutoff",
+        "param_list": "param_list_vcf_filter",
+        "display_range_min": -100,
+        "display_range_max": 100
+    },
+    {
+        "param_path": "/alias/VCF_Env_Mod",
+        "display_name": "Cutoff",
+        "display_range_min": -100,
+        "display_range_max": 100,
+        "param_list": "param_list_mod_src_filt_env"
+    },               
+    {
+        "param_path": "/daw/main/ninavst/VCF_Attack",
+        "display_name": "Attack",
+        "param_list": "param_list_vcf_env"
+    },    
+    {
+        "param_path": "/daw/main/ninavst/VCF_Decay",
+        "display_name": "Decay",
+        "param_list": "param_list_vcf_env"
+    },    
+    {
+        "param_path": "/daw/main/ninavst/VCF_Sustain",
+        "display_name": "Sustain",
+        "param_list": "param_list_vcf_env"
+    },    
+    {
+        "param_path": "/daw/main/ninavst/VCF_Release",
+        "display_name": "Release",
+        "param_list": "param_list_vcf_env"
+    },
+    {
+        "param_path": "/daw/main/ninavst/VCA_Attack",
+        "display_name": "Attack",
+        "param_list": "param_list_vca_env"
+    },    
+    {
+        "param_path": "/daw/main/ninavst/VCA_Decay",
+        "display_name": "Decay",
+        "param_list": "param_list_vca_env"
+    },    
+    {
+        "param_path": "/daw/main/ninavst/VCA_Sustain",
+        "display_name": "Sustain",
+        "param_list": "param_list_vca_env"
+    },    
+    {
+        "param_path": "/daw/main/ninavst/VCA_Release",
+        "display_name": "Release",
+        "param_list": "param_list_vca_env"
+    },        
+    {
+        "param_path": "/cmn/tempo_bpm",
+        "layer_1_param": true,
+        "display_range_min": 10,
+        "display_range_max": 240,
+        "value_tag": "BPM",
+        "param_list": "param_list_tempo"
+    },
+    {
+        "param_path": "/cmn/midi_clk_in",
+        "display_name": "MIDI Clock In",
+        "num_positions": 2,
+        "display_strings": [
+            {"string": "Off"},
+            {"string": "On"}
+		],
+        "param_list": "param_list_global_settings"
+    },
+    {
+        "param_path": "/cmn/midi_echo_filter",
+        "display_name": "MIDI Echo Filter",
+        "num_positions": 3,
+        "display_strings": [
+            {"string": "No Filter"},
+            {"string": "Echo Filter"},
+            {"string": "Filter All"}
+		],
+        "param_list": "param_list_global_settings"
+    },       
+    {
+        "param_path": "/arp/tempo_note_value",
+        "patch_state_param": false,
+        "layer_1_param": true,
+        "display_name": "Note Value",
+        "num_positions": 8,
+        "display_strings": [
+			{ "string": "1/4" },
+            { "string": "1/8" },
+            { "string": "1/16" },
+            { "string": "1/32" },
+            { "string": "1/4T" },
+            { "string": "1/8T" },
+            { "string": "1/16T" },
+            { "string": "1/32T" }
+		],
+        "param_list": "param_list_arp"
+    },
+    {
+        "param_path": "/arp/hold",
+        "display_name": "Hold",
+        "layer_1_param": true,
+        "param_list": "param_list_arp",
+        "num_positions" : 2,
+        "display_strings" :[
+            {"string": "Off"},
+            {"string": "On"}
+        ]
+    },
+    {
+        "param_path": "/daw/effects/effectsvst/Tempo_Sync",
+        "layer_1_param": true,
+        "display_name": "Sync",
+        "param_list": "param_list_fx",
+        "num_positions" : 2,
+        "display_strings" :[
+            {"string": "Off"},
+            {"string": "On"}
+        ]
+    },
+    {
+        "param_path": "/daw/effects/effectsvst/Reverb_Level",
+        "ref": "Reverb_Level",
+        "param_list": "param_list_fx"
+    },
+    {
+        "param_path": "/daw/effects/effectsvst/Reverb_Slot",
+        "num_positions" : 3,
+        "layer_1_param": true,
+        "numeric_enum_param":true,
+        "display_strings" :[
+            {"string": "1"},
+            {"string": "2"},
+            {"string": "3"}
+        ],
+        "param_list": "param_list_fx"
+    },
+    {
+        "param_path": "/daw/effects/effectsvst/Chorus_Level",
+        "ref": "Chorus_Level",
+        "param_list": "param_list_fx"
+    },        
+    {
+        "param_path": "/daw/effects/effectsvst/Chorus_Slot",
+        "num_positions" : 3,
+        "layer_1_param": true,
+        "numeric_enum_param":true,
+        "display_strings" :[
+            {"string": "1"},
+            {"string": "2"},
+            {"string": "3"}
+        ],
+        "param_list": "param_list_fx"
+    },
+    {
+        "param_path": "/daw/effects/effectsvst/Delay_Level",
+        "ref": "Delay_Level",
+        "param_list": "param_list_fx"
+    },          
+    {
+        "param_path": "/daw/effects/effectsvst/Delay_Slot",
+        "num_positions" : 3,
+        "layer_1_param": true,
+        "numeric_enum_param":true,
+        "display_strings" :[
+            {"string": "1"},
+            {"string": "2"},
+            {"string": "3"}
+        ],
+        "param_list": "param_list_fx"
+    },    
+    {
+        "param_path": "/seq/tempo_note_value",
+        "layer_1_param": true,
+        "patch_state_param": false,
+        "display_name": "Note Value",
+        "num_positions": 8,
+        "display_strings": [
+			{ "string": "1/4" },
+            { "string": "1/8" },
+            { "string": "1/16" },
+            { "string": "1/32" },
+            { "string": "1/4T" },
+            { "string": "1/8T" },
+            { "string": "1/16T" },
+            { "string": "1/32T" }
+		],
+        "param_list": "param_list_seq"
+    },
+    {
+        "param_path": "/seq/hold",
+        "layer_1_param": true,
+        "display_name": "Hold",
+        "param_list": "param_list_seq",
+        "num_positions" : 2,
+        "display_strings" :[
+            {"string": "Off"},
+            {"string": "On"}
+        ]
+    },    
+    {
+        "param_path": "/daw/main/ninavst/LFO_1_Rate",
+        "display_name": "Rate",
+        "haptic_mode": "300_deg_with_top_indent",
+        "ref": "LFO_1_Rate",
+        "param_list": "param_list_lfo_1"
+    },
+    {
+        "param_path": "/daw/main/ninavst/LFO_1_Sync_Rate",
+        "display_name": "Sync Rate",
+        "ref": "LFO_1_Sync_Rate",
+        "param_list": "param_list_lfo_1",
+        "num_positions" : 16,
+        "numeric_enum_param":true,
+        "display_strings" :[
+
+            {"string": "0.125"},
+            {"string": "0.25"},
+            {"string": "0.5"},
+            {"string": "1D"},
+            {"string": "1"},
+            {"string": "2D"},
+            {"string": "2"},
+            {"string": "4D"},
+            {"string": "4"},
+            {"string": "8D"},
+            {"string": "8"},
+            {"string": "8T"},
+            {"string": "16"},
+            {"string": "16T"},
+            {"string": "32"},
+            {"string": "32T"}
+
+        ]
+    },         
+    {
+        "param_path": "/daw/main/ninavst/LFO_2_Rate",
+        "display_name": "Rate",
+        "haptic_mode": "300_deg_with_top_indent",
+        "ref": "LFO_2_Rate",
+        "param_list": "param_list_lfo_2"
+    },    
+    {
+        "param_path": "/daw/main/ninavst/LFO_2_Sync_Rate",
+        "display_name": "Sync Rate",
+        "num_positions": 16,
+        "display_range_min": 1,
+        "display_range_max": 16,
+        "numeric_enum_param": true,
+        "display_strings" :[
+            {"string": "0.125"},
+            {"string": "0.25"},
+            {"string": "0.5"},
+            {"string": "1D"},
+            {"string": "1"},
+            {"string": "2D"},
+            {"string": "2"},
+            {"string": "4D"},
+            {"string": "4"},
+            {"string": "8D"},
+            {"string": "8"},
+            {"string": "8T"},
+            {"string": "16"},
+            {"string": "16T"},
+            {"string": "32"},
+            {"string": "32T"}
+        ],
+        "ref": "LFO_2_Sync_Rate",
+        "param_list": "param_list_lfo_2"
+    },        
+    {
+        "param_path": "/daw/main/ninavst/LFO_Slew",
+        "display_name": "Slew",
+        "param_list": "param_list_lfo_1"
+    },    
+    {
+        "param_path": "/daw/main/ninavst/LFO_2_Slew",
+        "display_name": "Slew",
+        "param_list": "param_list_lfo_2"
+    },    
+    {
+        "param_path": "/daw/main/ninavst/LFO_Retrigger",
+        "display_name": "Retrigger",
+        "param_list": "param_list_lfo_1",
+        "num_positions" : 3,
+        "display_strings" :[
+            {"string": "Off"},
+            {"string": "On"},
+            {"string": "Global"}
+        ]
+    },
+    {
+        "param_path": "/daw/main/ninavst/LFO_2_Retrigger",
+        "display_name": "Retrigger",
+        "param_list": "param_list_lfo_2",
+        "num_positions" : 3,
+        "display_strings" :[
+            {"string": "Off"},
+            {"string": "On"},
+            {"string": "Global"}
+        ]
+    },         
+    {
+        "param_path": "/daw/main/ninavst/Lfo_1_Tempo_Sync",
+        "ref": "LFO_1_Tempo_Sync",
+        "patch_state_param": false,
+        "display_name": "Tempo Sync",
+        "param_list": "param_list_lfo_1",
+        "num_positions" : 2,
+        "display_strings" :[
+            {"string": "Off"},
+            {"string": "On"}
+        ]
+    },
+    {
+        "param_path": "/daw/main/ninavst/Lfo_2_Tempo_Sync",
+        "ref": "LFO_2_Tempo_Sync",
+        "patch_state_param": false,
+        "display_name": "Tempo Sync",
+        "param_list": "param_list_lfo_2",
+        "num_positions" : 2,
+        "display_strings" :[
+            {"string": "Off"},
+            {"string": "On"}
+        ]
+    },
+    {
+        "param_path": "/daw/main/ninavst/LFO_1_Gain",
+        "display_name": "Level",
+        "haptic_mode": "300_deg_with_top_indent",
+        "display_range_min": 0,
+        "display_range_max": 100,
+        "param_list": "param_list_lfo_1"
+    },
+    {
+        "param_path": "/daw/main/ninavst/LFO_2_Gain",
+        "display_name": "Level",
+        "haptic_mode": "300_deg_with_top_indent",
+        "display_range_min": 0,
+        "display_range_max": 100,
+        "param_list": "param_list_lfo_2"
+    },
+    {
+        "param_path": "/daw/main/ninavst/LFO_Shape",
+        "ref": "LFO_Shape",
+        "display_name": "Shape",
+        "num_positions": 6,
+        "display_strings": [
+			{ "string": "Sine" },
+            { "string": "Triangle" },
+            { "string": "Square" },
+            { "string": "Ramp Up" },
+            { "string": "Ramp Down" },
+            { "string": "Random" }
+		],
+        "param_list": "param_list_lfo_1"
+    },
+    {
+        "param_path": "/daw/main/ninavst/LFO_2_Shape",
+        "ref": "LFO_2_Shape",
+        "display_name": "Shape",
+        "num_positions": 6,
+        "display_strings": [
+			{ "string": "Sine" },
+            { "string": "Triangle" },
+            { "string": "Square" },
+            { "string": "Ramp Up" },
+            { "string": "Ramp Down" },
+            { "string": "Random" }
+		],
+        "param_list": "param_list_lfo_2"
+    },
+    {
+        "param_path": "/daw/main/ninavst/WT_Select",
+        "ref": "WT_Select",
+        "patch": false,
+        "patch_state_param": true,
+        "display_name": "Shape",
+        "param_list": "param_list_osc_3"        
+    },
+    {
+        "param_path": "/daw/main/ninavst/Tuning_Gain",
+        "display_name": "Tune Slop",
+        "display_range_min": 100,
+        "display_range_max": 0
+    },
+    {
+        "param_path": "/daw/main/ninavst/Patch_Volume",
+        "display_name": "Volume",
+        "patch_state_param": false,
+        "patch_layer_param": true,
+        "display_range_min": 0,
+        "display_range_max": 100,
+        "param_list": "param_list_layer"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Legato",
+        "patch_state_param": false,
+        "display_name": "Poly Mode",
+        "num_positions": 3,
+        "display_strings": [
+            { "string": "Legato" },
+			{ "string": "Mono" },
+            { "string": "Poly" }
+		],
+        "param_list": "param_list_layer"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Unison",
+        "patch_state_param": false,
+        "display_name": "Unison Voices",
+        "num_positions": 12,
+        "display_range_min": 1,
+        "display_range_max": 12,
+        "numeric_enum_param": true,
+        "param_list": "param_list_layer"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Unison_Spread",
+        "display_name": "Unison Detune",
+        "param_list": "param_list_layer"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Sub_Osc",
+        "display_switch": true,
+        "display_strings": [
+			{ "string": "Off" },
+            { "string": "On" }
+		],
+        "param_list": "param_list_osc_1"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Hard_Sync",
+        "display_switch": true,
+        "display_strings": [
+			{ "string": "Off" },
+            { "string": "On" }
+		],
+        "param_list": "param_list_osc_2"
+    },          
+    {
+        "param_path": "/daw/main/ninavst/VCF_Overdrive",
+        "display_name": "Overdrive",
+        "patch_state_param": false,
+        "display_switch": true,
+        "display_strings": [
+			{ "string": "Off" },
+            { "string": "On" }
+		],
+        "param_list": "param_list_vcf_filter"
+    },
+    {
+        "param_path": "/seq/num_steps",
+        "layer_1_param": true,
+        "patch_state_param": false,
+        "display_name": "Num Steps",
+        "num_positions": 16,
+        "display_range_min": 1,
+        "display_range_max": 16,
+        "numeric_enum_param": true,
+        "param_list": "param_list_seq"
+    },          
+    {
+        "param_path": "/arp/enable",
+        "display_name": "Enable",
+        "patch_state_param": false,
+        "display_switch": true,
+        "layer_1_param": true,
+        "display_strings": [
+			{ "string": "Off" },
+            { "string": "On" }
+		],
+        "param_list": "param_list_arp"
+    },      
+    {
+        "param_path": "/arp/dirmode",
+        "display_name": "Dir Mode",
+        "layer_1_param": true,
+        "patch_state_param": false,
+        "num_positions": 5,
+        "display_strings": [
+			{ "string": "Up" },
+            { "string": "Down" },
+            { "string": "Up-down" },
+            { "string": "Random" },
+            { "string": "Assigned" }
+        ],
+        "param_list": "param_list_arp"
+    },
+    {
+		"param_path": "/kbd/first_note",
+        "display_name": "First Note",
+        "num_positions": 128,
+        "display_range_min": 0,
+        "display_range_max": 127,
+        "numeric_enum_param": true,
+        "patch_state_param": false,
+        "patch_layer_param": false,
+        "patch": false,
+        "global_param": true,
+        "param_list": "param_list_kbd",
+        "value_tags": [
+            {"string": "C-1"},
+            {"string": "C#-1"},
+            {"string": "D-1"},
+            {"string": "D#-1"},
+            {"string": "E-1"},
+            {"string": "F-1"},
+            {"string": "F#-1"},
+            {"string": "G-1"},
+            {"string": "G#-1"},
+            {"string": "A0"},
+            {"string": "A#0"},
+            {"string": "B0"},
+            {"string": "C0"},
+            {"string": "C#0"},
+            {"string": "D0"},
+            {"string": "D#0"},
+            {"string": "E0"},
+            {"string": "F0"},
+            {"string": "F#0"},
+            {"string": "G0"},
+            {"string": "G#0"},
+            {"string": "A1"},
+            {"string": "A#1"},
+            {"string": "B1"},
+            {"string": "C1"},
+            {"string": "C#1"},
+            {"string": "D1"},
+            {"string": "D#1"},
+            {"string": "E1"},
+            {"string": "F1"},
+            {"string": "F#1"},
+            {"string": "G1"},
+            {"string": "G#1"},
+            {"string": "A2"},
+            {"string": "A#2"},
+            {"string": "B2"},
+            {"string": "C2"},
+            {"string": "C#2"},
+            {"string": "D2"},
+            {"string": "D#2"},
+            {"string": "E2"},
+            {"string": "F2"},
+            {"string": "F#2"},
+            {"string": "G2"},
+            {"string": "G#2"},
+            {"string": "A3"},
+            {"string": "A#3"},
+            {"string": "B3"},
+            {"string": "C3"},
+            {"string": "C#3"},
+            {"string": "D3"},
+            {"string": "D#3"},
+            {"string": "E3"},
+            {"string": "F3"},
+            {"string": "F#3"},
+            {"string": "G3"},
+            {"string": "G#3"},
+            {"string": "A4"},
+            {"string": "A#4"},
+            {"string": "B4"},
+            {"string": "C4"},
+            {"string": "C#4"},
+            {"string": "D4"},
+            {"string": "D#4"},
+            {"string": "E4"},
+            {"string": "F4"},
+            {"string": "F#4"},
+            {"string": "G4"},
+            {"string": "G#4"},
+            {"string": "A5"},
+            {"string": "A#5"},
+            {"string": "B5"},
+            {"string": "C5"},
+            {"string": "C#5"},
+            {"string": "D5"},
+            {"string": "D#5"},
+            {"string": "E5"},
+            {"string": "F5"},
+            {"string": "F#5"},
+            {"string": "G5"},
+            {"string": "G#5"},
+            {"string": "A6"},
+            {"string": "A#6"},
+            {"string": "B6"},
+            {"string": "C6"},
+            {"string": "C#6"},
+            {"string": "D6"},
+            {"string": "D#6"},
+            {"string": "E6"},
+            {"string": "F6"},
+            {"string": "F#6"},
+            {"string": "G6"},
+            {"string": "G#6"},
+            {"string": "A7"},
+            {"string": "A#7"},
+            {"string": "B7"},
+            {"string": "C7"},
+            {"string": "C#7"},
+            {"string": "D7"},
+            {"string": "D#7"},
+            {"string": "E7"},
+            {"string": "F7"},
+            {"string": "F#7"},
+            {"string": "G7"},
+            {"string": "G#7"},
+            {"string": "A8"},
+            {"string": "A#8"},
+            {"string": "B8"},
+            {"string": "C8"},
+            {"string": "C#8"},
+            {"string": "D8"},
+            {"string": "D#8"},
+            {"string": "E8"},
+            {"string": "F8"},
+            {"string": "F#8"},
+            {"string": "G8"},
+            {"string": "G#8"},
+            {"string": "A9"},
+            {"string": "A#9"},
+            {"string": "B9"},
+            {"string": "C9"},
+            {"string": "C#9"},
+            {"string": "D9"},
+            {"string": "D#9"},
+            {"string": "E9"},
+            {"string": "F9"},
+            {"string": "F#9"},
+            {"string": "G9"}
+        ]
+    },
+    {
+        "param_path": "/kbd/midi_channel",
+        "display_name": "KBD MIDI Channel",
+        "patch_state_param": false,
+        "patch_layer_param": false,
+        "patch": false,
+        "global_param": true,
+        "num_positions" : 18,
+        "display_strings" :[
+            {"string": "Current Layer"},
+            {"string": "Layer 1"},
+            {"string": "1"},
+            {"string": "2"},
+            {"string": "3"},
+            {"string": "4"},
+            {"string": "5"},
+            {"string": "6"},
+            {"string": "7"},
+            {"string": "8"},
+            {"string": "9"},
+            {"string": "10"},
+            {"string": "11"},
+            {"string": "12"},
+            {"string": "13"},
+            {"string": "14"},
+            {"string": "15"},
+            {"string": "16"}
+        ],
+        "param_list": "param_list_kbd"  
+    },
+    {
+		"param_path": "/daw/effects/effectsvst/Reverb_Preset" ,
+        "num_positions" : 5,
+        "layer_1_param": true,
+        "display_strings" :[
+            {"string": "room"},
+            {"string": "plate 1"},
+            {"string": "plate 2"},
+            {"string": "hall 1"},
+            {"string": "hall 2"}
+        ]
+    },
+    {
+		"param_path": "/daw/effects/effectsvst/Chorus_Mode",
+        "num_positions" : 3,
+        "layer_1_param": true,
+        "display_strings" :[
+            {"string": "I"},
+            {"string": "II"},
+            {"string": "I + II"}
+        ]
+    },
+    {
+	    "param_path": "/daw/effects/effectsvst/FX_Type_Select",
+        "ref": "FX_Type_Select",
+        "display_name": "Type",
+        "layer_1_param": true,
+        "num_positions" : 3,
+        "display_strings" :[
+            {"string": "Chorus"},
+            {"string": "Delay"},
+            {"string": "Reverb"}
+        ]
+    },
+    {
+        "param_path": "/daw/effects/effectsvst/Delay_Time",
+        "layer_1_param": true
+    },    
+    {
+        "param_path": "/daw/effects/effectsvst/Delay_Time_Sync",
+        "num_positions" : 16,
+        "layer_1_param": true,
+        "numeric_enum_param":true,
+        "display_strings" :[
+            {"string": "32T"},
+            {"string": "32"},
+            {"string": "16T"},
+            {"string": "16"},
+            {"string": "8T"},
+            {"string": "8"},
+            {"string": "8D"},
+            {"string": "4"},
+            {"string": "4D"},
+            {"string": "2"},
+            {"string": "2D"},
+            {"string": "1"},
+            {"string": "1D"},
+            {"string": "0.5"},
+            {"string": "0.25"},
+            {"string": "0.125"}
+        ]
+    },    
+    {
+        "param_path": "/daw/effects/effectsvst/FX_Send_Level",
+        "layer_1_param": true,
+        "display_name": "Effects Send"
+    },    
+    {
+        "param_path": "/daw/effects/pan.*",
+        "patch_state_param": false
+    },
+    {
+        "param_path": "/daw/effects/gain.*",
+        "patch_state_param": false
+    },    
+    {
+        "param_path": "/daw/effects/effectsvst/.*",
+        "patch_state_param": false,
+        "layer_1_param": true,
+        "param_list": "param_list_fx"
+    },
+    {
+			"param_path": "/daw/main/ninavst/Time_Rate",
+        "display_name": "Time Mod Rate",
+        "param_list": "param_list_layer"
+    },
+    {
+		"param_path": "/daw/main/ninavst/Midi_Source_Vel_Mode",
+        "display_name": "Midi Mod Source",
+        "num_positions" : 2,
+        "display_strings" :[
+            {"string": "Midi CC 2"},
+            {"string": "Rel Velocity"}],
+        "param_list": "param_list_layer"
+    },
+    {
+		"param_path": "/daw/main/ninavst/Spin_Rate",
+        "display_name": "Rate",
+        "display_range_min": -100,
+        "display_range_max": 100,
+        "param_list": "param_list_spin"
+    },
+    {
+		"param_path": "/daw/main/ninavst/Amp_Env_Reset",
+        "display_name": "Reset",
+        "num_positions" : 2,
+        "display_strings" :[
+            {"string": "Off"},
+            {"string": "On"}
+        ],
+        "param_list": "param_list_vca_env"
+    },
+    {
+		"param_path": "/daw/main/ninavst/Amp_Env_Drone",
+        "display_name": "Drone",
+        "patch_state_param": false,
+        "num_positions" : 2,
+        "display_strings" :[
+            {"string": "Off"},
+            {"string": "On"}
+        ],
+        "param_list": "param_list_vca_env"
+    },
+    {
+		"param_path": "/daw/main/ninavst/Filt_Env_Reset",
+        "display_name": "Reset",
+        "num_positions" : 2,
+        "display_strings" :[
+            {"string": "Off"},
+            {"string": "On"}
+        ],
+        "param_list": "param_list_vcf_env"
+    },
+    {
+		"param_path": "/daw/main/ninavst/Spin_Reset",
+        "display_name": "Retrigger",
+        "num_positions" : 2,
+        "display_strings" :[
+            {"string": "Off"},
+            {"string": "On"}
+        ],
+        "param_list": "param_list_spin"
+    },
+    {
+		"param_path": "/daw/main/ninavst/Pan_Number",
+        "display_name": "Panner Voices",
+        "param_list": "param_list_layer",
+        "display_range_min": 1,
+        "display_range_max": 12,
+        "num_positions": 12,
+        "numeric_enum_param": true     
+    },
+    {
+		"param_path": "/daw/main/ninavst/Pan_Mode",
+        "display_name": "Panner Mode",
+        "param_list": "param_list_layer",
+        "num_positions" : 3,
+        "display_strings" :[
+            {"string": "Off"},
+            {"string": "Ping Pong"},
+            {"string": "Spread"}
+        ]
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mod_\\w{1,}:\\w{1,}",
+        "display_name": "MOD AMOUNT",
+        "display_range_min": -100,
+        "display_range_max": 100
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mod_\\w{1,}:Morph",
+        "display_name": "Morph",
+        "patch_state_param" : false
+    },  
+    {
+        "param_path": "/daw/main/ninavst/Mod_\\w{1,}:DummyMorph",
+        "patch": false
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mod_Setting:Drive",
+        "display_name": "Drive",
+        "param_list": "param_list_vcf_filter"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mod_\\w{1,}:VCF_Level",
+        "display_name": "EG1 Level",
+        "param_list": "param_list_vcf_env"
+    },    
+    {
+        "param_path": "/daw/main/ninavst/Mod_Setting:VCF_Level",
+        "param_list": "param_list_vcf_env",
+        "display_name": "Level"
+    },    
+    {
+        "param_path": "/daw/main/ninavst/Mod_\\w{1,}:OSC_1_Pitch",
+        "display_name": "OSC 1 Tune"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mod_\\w{1,}:OSC_1_Width",
+        "display_name": "OSC 1 Width"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mod_\\w{1,}:OSC_1_Blend",
+        "display_name": "OSC 1 Blend"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mod_\\w{1,}:OSC_1_Level",
+        "display_name": "OSC 1 Level"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mod_\\w{1,}:OSC_2_Pitch",
+        "display_name": "OSC 2 Tune"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mod_\\w{1,}:OSC_2_Width",
+        "display_name": "OSC 2 Width"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mod_\\w{1,}:OSC_2_Blend",
+        "display_name": "OSC 2 Blend"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mod_\\w{1,}:OSC_2_Level",
+        "display_name": "OSC 2 Level"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mod_\\w{1,}:OSC_3_Pitch",
+        "display_name": "OSC 3 Tune"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mod_\\w{1,}:OSC_3_Shape",
+        "display_name": "OSC 3 Pos"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mod_\\w{1,}:OSC_3_Level",
+        "display_name": "OSC 3 Level"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mod_\\w{1,}:XOR_Level",
+        "display_name": "Noise Level"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mod_\\w{1,}:LFO_1_Rate",
+        "display_name": "LFO 1 Rate"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mod_\\w{1,}:LFO_1_Gain",
+        "display_name": "LFO 1 Level"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mod_\\w{1,}:LFO_2_Rate",
+        "display_name": "LFO 2 Rate"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mod_\\w{1,}:LFO_2_Gain",
+        "display_name": "LFO 2 Level"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mod_\\w{1,}:Filter_Cutoff",
+        "display_name": "Cutoff"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mod_\\w{1,}:Filter_Resonance",
+        "display_name": "Resonance"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mod_\\w{1,}:VCF_Attack",
+        "display_name": "EG1 Attack"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mod_\\w{1,}:VCF_Decay",
+        "display_name": "EG1 Decay"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mod_\\w{1,}:VCF_Sustain",
+        "display_name": "EG1 Sustain"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mod_\\w{1,}:VCF_Release",
+        "display_name": "EG1 Release"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mod_\\w{1,}:VCA_Attack",
+        "display_name": "EG2 Attack"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mod_\\w{1,}:VCA_Decay",
+        "display_name": "EG2 Decay"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mod_\\w{1,}:Drive",
+        "display_name": "Drive"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mod_\\w{1,}:VCA_Sustain",
+        "display_name": "EG2 Sustain"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mod_\\w{1,}:VCA_Release",
+        "display_name": "EG2 Release"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mod_\\w{1,}:VCA_Level",
+        "display_name": "EG2 Level"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mod_Setting:VCA_Level",
+        "display_name": "Level",
+        "param_list": "param_list_vca_env"
+    },    
+    {
+        "param_path": "/daw/main/ninavst/Mod_\\w{1,}:Pan",
+        "display_name": "Voice Pan"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mod_\\w{1,}:Spin_Rate",
+        "display_name": "Spin Rate"
+    },  
+    {
+        "param_path": "/daw/main/ninavst/Mod_Constant:Volume",
+        "always_show": true
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mod_Filter_Envelope:\\w{1,}",
+        "set_ui_state": "filter_env_mod_sel",
+        "param_list": "param_list_mod_src_filt_env"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mod_Amp_Envelope:\\w{1,}",
+        "set_ui_state": "amp_env_mod_sel",
+        "param_list": "param_list_mod_src_amp_env"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mod_LFO_1:\\w{1,}",
+        "set_ui_state": "lfo_1_mod_sel",
+        "param_list": "param_list_mod_src_lfo_1"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mod_Wavetable:\\w{1,}",
+        "set_ui_state": "wt_mod_sel",
+        "param_list": "param_list_mod_src_wave"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mod_Key_Pitch:\\w{1,}",
+        "set_ui_state": "key_pitch_mod_sel",
+        "param_list": "param_list_mod_src_key_pitch"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mod_Key_Velocity:\\w{1,}",
+        "set_ui_state": "key_vel_mod_sel",
+        "param_list": "param_list_mod_src_key_vel"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mod_Aftertouch:\\w{1,}",
+        "set_ui_state": "aftertouch_mod_sel",
+        "param_list": "param_list_mod_src_aftertouch"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mod_Modwheel:\\w{1,}",
+        "set_ui_state": "modwheel_mod_sel",
+        "param_list": "param_list_mod_src_modwheel"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mod_Expression_Pedal:\\w{1,}",
+        "set_ui_state": "expression_mod_sel",
+        "param_list": "param_list_mod_src_expr_pedal"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mod_Pan_Position:\\w{1,}",
+        "set_ui_state": "pan_pos_mod_sel",
+        "param_list": "param_list_mod_src_pan_pos"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mod_Time:\\w{1,}",
+        "set_ui_state": "time_mod_sel",
+        "param_list": "param_list_mod_src_time"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mod_MIDI:\\w{1,}",
+        "set_ui_state": "midi_mod_sel",
+        "param_list": "param_list_mod_src_midi"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mod_CV_A:\\w{1,}",
+        "set_ui_state": "cv_a_mod_sel",
+        "param_list": "param_list_mod_src_cv_a"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mod_CV_B:\\w{1,}",
+        "set_ui_state": "cv_b_mod_sel",
+        "param_list": "param_list_mod_src_cv_b"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mod_LFO_2:\\w{1,}",
+        "set_ui_state": "lfo_2_mod_sel",
+        "param_list": "param_list_mod_src_lfo_2"
+    },
+    {
+        "param_path": "/daw/main/ninavst/Mod_Offset:\\w{1,}",
+        "set_ui_state": "offset_mod_sel",
+        "param_list": "param_list_mod_src_offset"
+    },
+    {
+        "param_path": "/sys/toggle_patch_state",
+        "ref": "toggle_patch_state"
+    },    
+    {
+        "param_path": "/mid/cc/.*",
+        "display_name": ""
+    },    
+    {
+        "param_path": "/alias/Key_Track",
+        "display_name": "Key Track",
+        "param_list": "param_list_vcf_filter"
+    }
+]

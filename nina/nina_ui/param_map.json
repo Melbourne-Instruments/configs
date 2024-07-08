@@ -1,0 +1,3519 @@
+[
+    {
+        "param_1": "/sys/data_knob",
+        "param_2": "/sfc/Knob_0",
+        "haptic_mode": "360_deg",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/daw/main/ninavst/VCO_1_Tune_Fine",
+        "param_2": "/sfc/Knob_1",
+        "haptic_mode": "300_deg_with_top_indent_friction",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/daw/main/ninavst/VCO_1_Tune_Octave",
+        "param_2": "/sfc/Knob_1",
+        "haptic_mode": "8va_knob",
+        "ui_state": "osc_coarse_state"
+    },
+    {
+        "param_1": "/daw/main/ninavst/VCO_2_Tune_Fine",
+        "param_2": "/sfc/Knob_2",
+        "haptic_mode": "300_deg_with_top_indent_friction",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/daw/main/ninavst/VCO_2_Tune_Octave",
+        "param_2": "/sfc/Knob_2",
+        "haptic_mode": "8va_knob",
+        "ui_state": "osc_coarse_state"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Wave_Tune_Fine",
+        "param_2": "/sfc/Knob_3",
+        "haptic_mode": "300_deg_with_top_indent_friction",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Wave_Tune_Coarse",
+        "param_2": "/sfc/Knob_3",
+        "haptic_mode": "8va_knob",
+        "ui_state": "osc_coarse_state"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Glide",
+        "param_2": "/sfc/Knob_4",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/daw/main/ninavst/VCO_1_Width",
+        "param_2": "/sfc/Knob_5",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/daw/main/ninavst/VCO_2_Width",
+        "param_2": "/sfc/Knob_6",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Wave_Shape",
+        "param_2": "/sfc/Knob_7",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/cmn/tempo_bpm",
+        "param_2": "/sfc/Knob_8",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/daw/main/ninavst/VCO_1_Blend",
+        "param_2": "/sfc/Knob_9",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/daw/main/ninavst/VCO_2_Blend",
+        "param_2": "/sfc/Knob_10",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mix_Wave",
+        "param_2": "/sfc/Knob_11",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/daw/main/ninavst/LFO_1_Rate",
+        "param_2": "/sfc/Knob_12",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/daw/main/ninavst/LFO_1_Sync_Rate",
+        "param_2": "/sfc/Knob_12",
+        "haptic_mode": "16_step",
+        "ui_state": "lfo_1_sync_rate_state"
+    },
+    {
+        "param_1": "/daw/main/ninavst/LFO_2_Rate",
+        "param_2": "/sfc/Knob_12",
+        "ui_state": "lfo_2_state"
+    },
+    {
+        "param_1": "/daw/main/ninavst/LFO_2_Sync_Rate",
+        "param_2": "/sfc/Knob_12",
+        "haptic_mode": "16_step",
+        "ui_state": "lfo_2_sync_rate_state"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mix_VCO_1",
+        "param_2": "/sfc/Knob_13",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mix_VCO_2",
+        "param_2": "/sfc/Knob_14",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mix_XOR",
+        "param_2": "/sfc/Knob_15",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/daw/main/ninavst/LFO_1_Gain",
+        "param_2": "/sfc/Knob_16",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/daw/main/ninavst/LFO_1_Gain",
+        "param_2": "/sfc/Knob_16",
+        "ui_state": "lfo_1_sync_rate_state"
+    },    
+    {
+        "param_1": "/daw/main/ninavst/LFO_2_Gain",
+        "param_2": "/sfc/Knob_16",
+        "ui_state": "lfo_2_state"
+    },
+    {
+        "param_1": "/daw/main/ninavst/LFO_2_Gain",
+        "param_2": "/sfc/Knob_16",
+        "ui_state": "lfo_2_sync_rate_state"
+    },
+    {
+        "param_1": "/daw/main/ninavst/VCF_Resonance",
+        "param_2": "/sfc/Knob_17",
+        "haptic_mode": "300_deg",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/daw/main/ninavst/VCF_Cutoff",
+        "param_2": "/sfc/Knob_18",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Setting:Drive",
+        "param_2": "/sfc/Knob_19",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/daw/main/ninavst/VCF_Env_Mod",
+        "param_2": "/sfc/Knob_20",
+        "haptic_mode": "300_deg_with_top_indent",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/daw/main/ninavst/VCF_Attack",
+        "param_2": "/sfc/Knob_21",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/daw/main/ninavst/VCF_Decay",
+        "param_2": "/sfc/Knob_22",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/daw/main/ninavst/VCF_Sustain",
+        "param_2": "/sfc/Knob_23",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/daw/main/ninavst/VCF_Release",
+        "param_2": "/sfc/Knob_24",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/daw/main/ninavst/VCA_Attack",
+        "param_2": "/sfc/Knob_25",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/daw/main/ninavst/VCA_Decay",
+        "param_2": "/sfc/Knob_26",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/daw/main/ninavst/VCA_Sustain",
+        "param_2": "/sfc/Knob_27",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/daw/main/ninavst/VCA_Release",
+        "param_2": "/sfc/Knob_28",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/daw/effects/effectsvst/FX_Send_Level",
+        "param_2": "/sfc/Knob_29",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Spin_Rate",
+        "param_2": "/sfc/Knob_30",
+        "haptic_mode": "300_deg_with_top_indent",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Morph_Value",
+        "param_2": "/sfc/Knob_31",
+        "haptic_mode": "300_deg_morph",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/sys/soft_button1",
+        "param_2": "/sfc/Switch_0",
+        "haptic_mode": "push",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/sys/soft_button2",
+        "param_2": "/sfc/Switch_1",
+        "haptic_mode": "push",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/sys/soft_button3",
+        "param_2": "/sfc/Switch_2",
+        "haptic_mode": "push",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/sys/select_mod_matrix",
+        "param_2": "/sfc/Switch_3",
+        "haptic_mode": "toggle_led_pulse",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/sys/layer",
+        "param_2": "/sfc/Switch_4",
+        "linked_param": "/daw/main/ninavst/Current_Layer",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/sys/arp",
+        "param_2": "/sfc/Switch_5",
+        "linked_param": "/arp/enable",
+        "haptic_mode": "toggle_release",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/sys/select_patch",
+        "param_2": "/sfc/Switch_6",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/sys/patch_save",
+        "param_2": "/sfc/Switch_7",
+        "haptic_mode": "toggle_led_pulse",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/sys/toggle_patch_state",
+        "param_2": "/sfc/Switch_8",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/sys/seq_run",
+        "param_2": "/sfc/Switch_9",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/sys/seq_rec",
+        "param_2": "/sfc/Switch_10",
+        "haptic_mode": "toggle_led_pulse",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/sys/seq_settings",
+        "param_2": "/sfc/Switch_11",
+        "linked_param": "/seq/num_steps",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/sys/kbd",
+        "param_2": "/sfc/Switch_12",
+        "linked_param": "/kbd/first_note",
+        "haptic_mode": "toggle_hold",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/sys/osc_coarse",
+        "param_2": "/sfc/Switch_13",
+        "linked_param": "/daw/main/ninavst/VCO_1_Tune_Octave",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Hard_Sync",
+        "param_2": "/sfc/Switch_14",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/sys/wt_select",
+        "param_2": "/sfc/Switch_15",
+        "linked_param": "/daw/main/ninavst/WT_Select",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/sys/lfo_select",
+        "param_2": "/sfc/Switch_16",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Sub_Osc",
+        "param_2": "/sfc/Switch_17",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/daw/main/ninavst/VCF_Overdrive",
+        "param_2": "/sfc/Switch_18",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/sys/noise_type",
+        "param_2": "/sfc/Switch_19",
+        "linked_param": "/daw/main/ninavst/Noise_Mode",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/sys/lfo_shape",
+        "param_2": "/sfc/Switch_20",
+        "linked_param": "/daw/main/ninavst/LFO_Shape",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/sys/lfo_shape",
+        "param_2": "/sfc/Switch_20",
+        "linked_param": "/daw/main/ninavst/LFO_Shape",
+        "ui_state": "lfo_1_sync_rate_state"
+    },    
+    {
+        "param_1": "/sys/lfo_shape",
+        "param_2": "/sfc/Switch_20",
+        "linked_param": "/daw/main/ninavst/LFO_2_Shape",
+        "ui_state": "lfo_2_state"
+    },
+    {
+        "param_1": "/sys/lfo_shape",
+        "param_2": "/sfc/Switch_20",
+        "linked_param": "/daw/main/ninavst/LFO_2_Shape",
+        "ui_state": "lfo_2_sync_rate_state"
+    },    
+    {
+        "param_1": "/sys/multifn_switch",
+        "param_2": "/sfc/Switch_21",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/sys/multifn_switch",
+        "param_2": "/sfc/Switch_22",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/sys/multifn_switch",
+        "param_2": "/sfc/Switch_23",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/sys/multifn_switch",
+        "param_2": "/sfc/Switch_24",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/sys/multifn_switch",
+        "param_2": "/sfc/Switch_25",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/sys/multifn_switch",
+        "param_2": "/sfc/Switch_26",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/sys/multifn_switch",
+        "param_2": "/sfc/Switch_27",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/sys/multifn_switch",
+        "param_2": "/sfc/Switch_28",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/sys/multifn_switch",
+        "param_2": "/sfc/Switch_29",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/sys/multifn_switch",
+        "param_2": "/sfc/Switch_30",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/sys/multifn_switch",
+        "param_2": "/sfc/Switch_31",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/sys/multifn_switch",
+        "param_2": "/sfc/Switch_32",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/sys/multifn_switch",
+        "param_2": "/sfc/Switch_33",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/sys/multifn_switch",
+        "param_2": "/sfc/Switch_34",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/sys/multifn_switch",
+        "param_2": "/sfc/Switch_35",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/sys/multifn_switch",
+        "param_2": "/sfc/Switch_36",
+        "ui_state": "default"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_1:OSC_1_Pitch",
+        "param_2": "/sfc/Knob_1",
+        "ui_state": "lfo_1_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_1:OSC_2_Pitch",
+        "param_2": "/sfc/Knob_2",
+        "ui_state": "lfo_1_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_1:OSC_3_Pitch",
+        "param_2": "/sfc/Knob_3",
+        "ui_state": "lfo_1_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_1:OSC_1_Width",
+        "param_2": "/sfc/Knob_5",
+        "ui_state": "lfo_1_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_1:OSC_2_Width",
+        "param_2": "/sfc/Knob_6",
+        "ui_state": "lfo_1_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_1:OSC_3_Shape",
+        "param_2": "/sfc/Knob_7",
+        "ui_state": "lfo_1_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_1:OSC_1_Blend",
+        "param_2": "/sfc/Knob_9",
+        "ui_state": "lfo_1_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_1:OSC_2_Blend",
+        "param_2": "/sfc/Knob_10",
+        "ui_state": "lfo_1_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_1:OSC_3_Level",
+        "param_2": "/sfc/Knob_11",
+        "ui_state": "lfo_1_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_1:LFO_2_Rate",
+        "param_2": "/sfc/Knob_12",
+        "ui_state": "lfo_1_mod_sel_lfo_2",
+        "haptic_mode": "300_deg_with_top_indent"
+    },    
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_1:OSC_1_Level",
+        "param_2": "/sfc/Knob_13",
+        "ui_state": "lfo_1_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_1:OSC_2_Level",
+        "param_2": "/sfc/Knob_14",
+        "ui_state": "lfo_1_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },  
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_1:XOR_Level",
+        "param_2": "/sfc/Knob_15",
+        "ui_state": "lfo_1_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_1:LFO_2_Gain",
+        "param_2": "/sfc/Knob_16",
+        "ui_state": "lfo_1_mod_sel_lfo_2",
+        "haptic_mode": "300_deg_with_top_indent"
+    },       
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_1:Filter_Resonance",
+        "param_2": "/sfc/Knob_17",
+        "ui_state": "lfo_1_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_1:Filter_Cutoff",
+        "param_2": "/sfc/Knob_18",
+        "ui_state": "lfo_1_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_1:Drive",
+        "param_2": "/sfc/Knob_19",
+        "ui_state": "lfo_1_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_1:VCF_Level",
+        "param_2": "/sfc/Knob_20",
+        "haptic_mode": "300_deg_with_top_indent",
+        "ui_state": "lfo_1_mod_sel"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_1:VCF_Attack",
+        "param_2": "/sfc/Knob_21",
+        "ui_state": "lfo_1_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_1:VCF_Decay",
+        "param_2": "/sfc/Knob_22",
+        "ui_state": "lfo_1_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_1:VCF_Sustain",
+        "param_2": "/sfc/Knob_23",
+        "ui_state": "lfo_1_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_1:VCF_Release",
+        "param_2": "/sfc/Knob_24",
+        "ui_state": "lfo_1_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_1:VCA_Attack",
+        "param_2": "/sfc/Knob_25",
+        "ui_state": "lfo_1_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_1:VCA_Decay",
+        "param_2": "/sfc/Knob_26",
+        "ui_state": "lfo_1_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_1:VCA_Sustain",
+        "param_2": "/sfc/Knob_27",
+        "ui_state": "lfo_1_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_1:VCA_Release",
+        "param_2": "/sfc/Knob_28",
+        "ui_state": "lfo_1_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_1:Pan",
+        "param_2": "/sfc/Knob_29",
+        "ui_state": "lfo_1_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_1:Spin_Rate",
+        "param_2": "/sfc/Knob_30",
+        "ui_state": "lfo_1_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/sys/eg_2_level_mod_dst",
+        "param_2": "/sfc/Knob_31",
+        "haptic_mode": "300_deg_with_top_indent",
+        "ui_state": "lfo_1_mod_sel"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_2:OSC_1_Pitch",
+        "param_2": "/sfc/Knob_1",
+        "ui_state": "lfo_2_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_2:OSC_2_Pitch",
+        "param_2": "/sfc/Knob_2",
+        "ui_state": "lfo_2_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_2:OSC_3_Pitch",
+        "param_2": "/sfc/Knob_3",
+        "ui_state": "lfo_2_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_2:OSC_1_Width",
+        "param_2": "/sfc/Knob_5",
+        "ui_state": "lfo_2_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_2:OSC_2_Width",
+        "param_2": "/sfc/Knob_6",
+        "ui_state": "lfo_2_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_2:OSC_3_Shape",
+        "param_2": "/sfc/Knob_7",
+        "ui_state": "lfo_2_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_2:OSC_1_Blend",
+        "param_2": "/sfc/Knob_9",
+        "ui_state": "lfo_2_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_2:OSC_2_Blend",
+        "param_2": "/sfc/Knob_10",
+        "ui_state": "lfo_2_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_2:OSC_3_Level",
+        "param_2": "/sfc/Knob_11",
+        "ui_state": "lfo_2_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_2:LFO_1_Rate",
+        "param_2": "/sfc/Knob_12",
+        "ui_state": "lfo_2_mod_sel_lfo_1",
+        "haptic_mode": "300_deg_with_top_indent"
+    },     
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_2:OSC_1_Level",
+        "param_2": "/sfc/Knob_13",
+        "ui_state": "lfo_2_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_2:OSC_2_Level",
+        "param_2": "/sfc/Knob_14",
+        "ui_state": "lfo_2_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_2:XOR_Level",
+        "param_2": "/sfc/Knob_15",
+        "ui_state": "lfo_2_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_2:LFO_1_Gain",
+        "param_2": "/sfc/Knob_16",
+        "ui_state": "lfo_2_mod_sel_lfo_1",
+        "haptic_mode": "300_deg_with_top_indent"
+    },     
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_2:Filter_Resonance",
+        "param_2": "/sfc/Knob_17",
+        "ui_state": "lfo_2_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_2:Filter_Cutoff",
+        "param_2": "/sfc/Knob_18",
+        "ui_state": "lfo_2_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_2:Drive",
+        "param_2": "/sfc/Knob_19",
+        "ui_state": "lfo_2_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_2:VCF_Level",
+        "param_2": "/sfc/Knob_20",
+        "haptic_mode": "300_deg_with_top_indent",
+        "ui_state": "lfo_2_mod_sel"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_2:VCF_Attack",
+        "param_2": "/sfc/Knob_21",
+        "ui_state": "lfo_2_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_2:VCF_Decay",
+        "param_2": "/sfc/Knob_22",
+        "ui_state": "lfo_2_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_2:VCF_Sustain",
+        "param_2": "/sfc/Knob_23",
+        "ui_state": "lfo_2_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_2:VCF_Release",
+        "param_2": "/sfc/Knob_24",
+        "ui_state": "lfo_2_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_2:VCA_Attack",
+        "param_2": "/sfc/Knob_25",
+        "ui_state": "lfo_2_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_2:VCA_Decay",
+        "param_2": "/sfc/Knob_26",
+        "ui_state": "lfo_2_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_2:VCA_Sustain",
+        "param_2": "/sfc/Knob_27",
+        "ui_state": "lfo_2_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_2:VCA_Release",
+        "param_2": "/sfc/Knob_28",
+        "ui_state": "lfo_2_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_2:Pan",
+        "param_2": "/sfc/Knob_29",
+        "ui_state": "lfo_2_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_LFO_2:Spin_Rate",
+        "param_2": "/sfc/Knob_30",
+        "ui_state": "lfo_2_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/sys/eg_2_level_mod_dst",
+        "param_2": "/sfc/Knob_31",
+        "haptic_mode": "300_deg_with_top_indent",
+        "ui_state": "lfo_2_mod_sel"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Filter_Envelope:OSC_1_Pitch",
+        "param_2": "/sfc/Knob_1",
+        "ui_state": "filter_env_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Filter_Envelope:OSC_2_Pitch",
+        "param_2": "/sfc/Knob_2",
+        "ui_state": "filter_env_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Filter_Envelope:OSC_3_Pitch",
+        "param_2": "/sfc/Knob_3",
+        "ui_state": "filter_env_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Filter_Envelope:OSC_1_Width",
+        "param_2": "/sfc/Knob_5",
+        "ui_state": "filter_env_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Filter_Envelope:OSC_2_Width",
+        "param_2": "/sfc/Knob_6",
+        "ui_state": "filter_env_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Filter_Envelope:OSC_3_Shape",
+        "param_2": "/sfc/Knob_7",
+        "ui_state": "filter_env_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Filter_Envelope:OSC_1_Blend",
+        "param_2": "/sfc/Knob_9",
+        "ui_state": "filter_env_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Filter_Envelope:OSC_2_Blend",
+        "param_2": "/sfc/Knob_10",
+        "ui_state": "filter_env_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Filter_Envelope:OSC_3_Level",
+        "param_2": "/sfc/Knob_11",
+        "ui_state": "filter_env_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Filter_Envelope:LFO_1_Rate",
+        "param_2": "/sfc/Knob_12",
+        "ui_state": "filter_env_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Filter_Envelope:LFO_2_Rate",
+        "param_2": "/sfc/Knob_12",
+        "ui_state": "filter_env_mod_sel_lfo_2",
+        "haptic_mode": "300_deg_with_top_indent"
+    },    
+    {
+        "param_1": "/daw/main/ninavst/Mod_Filter_Envelope:OSC_1_Level",
+        "param_2": "/sfc/Knob_13",
+        "ui_state": "filter_env_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Filter_Envelope:OSC_2_Level",
+        "param_2": "/sfc/Knob_14",
+        "ui_state": "filter_env_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Filter_Envelope:XOR_Level",
+        "param_2": "/sfc/Knob_15",
+        "ui_state": "filter_env_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Filter_Envelope:LFO_1_Gain",
+        "param_2": "/sfc/Knob_16",
+        "ui_state": "filter_env_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Filter_Envelope:LFO_2_Gain",
+        "param_2": "/sfc/Knob_16",
+        "ui_state": "filter_env_mod_sel_lfo_2",
+        "haptic_mode": "300_deg_with_top_indent"
+    },    
+    {
+        "param_1": "/daw/main/ninavst/Mod_Filter_Envelope:Filter_Resonance",
+        "param_2": "/sfc/Knob_17",
+        "ui_state": "filter_env_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/alias/VCF_Env_Mod",
+        "param_2": "/sfc/Knob_18",
+        "haptic_mode": "300_deg_with_top_indent",
+        "ui_state": "filter_env_mod_sel"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Filter_Envelope:Drive",
+        "param_2": "/sfc/Knob_19",
+        "ui_state": "filter_env_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Setting:VCF_Level",
+        "param_2": "/sfc/Knob_20",
+        "ui_state": "filter_env_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Filter_Envelope:VCA_Attack",
+        "param_2": "/sfc/Knob_25",
+        "ui_state": "filter_env_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Filter_Envelope:VCA_Decay",
+        "param_2": "/sfc/Knob_26",
+        "ui_state": "filter_env_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Filter_Envelope:VCA_Sustain",
+        "param_2": "/sfc/Knob_27",
+        "ui_state": "filter_env_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Filter_Envelope:VCA_Release",
+        "param_2": "/sfc/Knob_28",
+        "ui_state": "filter_env_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Filter_Envelope:Pan",
+        "param_2": "/sfc/Knob_29",
+        "ui_state": "filter_env_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Filter_Envelope:Spin_Rate",
+        "param_2": "/sfc/Knob_30",
+        "ui_state": "filter_env_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/sys/eg_2_level_mod_dst",
+        "param_2": "/sfc/Knob_31",
+        "haptic_mode": "300_deg_with_top_indent",
+        "ui_state": "filter_env_mod_sel"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Amp_Envelope:OSC_1_Pitch",
+        "param_2": "/sfc/Knob_1",
+        "ui_state": "amp_env_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Amp_Envelope:OSC_2_Pitch",
+        "param_2": "/sfc/Knob_2",
+        "ui_state": "amp_env_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Amp_Envelope:OSC_3_Pitch",
+        "param_2": "/sfc/Knob_3",
+        "ui_state": "amp_env_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Amp_Envelope:OSC_1_Width",
+        "param_2": "/sfc/Knob_5",
+        "ui_state": "amp_env_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Amp_Envelope:OSC_2_Width",
+        "param_2": "/sfc/Knob_6",
+        "ui_state": "amp_env_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Amp_Envelope:OSC_3_Shape",
+        "param_2": "/sfc/Knob_7",
+        "ui_state": "amp_env_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Amp_Envelope:OSC_1_Blend",
+        "param_2": "/sfc/Knob_9",
+        "ui_state": "amp_env_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Amp_Envelope:OSC_2_Blend",
+        "param_2": "/sfc/Knob_10",
+        "ui_state": "amp_env_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Amp_Envelope:OSC_3_Level",
+        "param_2": "/sfc/Knob_11",
+        "ui_state": "amp_env_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Amp_Envelope:LFO_1_Rate",
+        "param_2": "/sfc/Knob_12",
+        "ui_state": "amp_env_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Amp_Envelope:LFO_2_Rate",
+        "param_2": "/sfc/Knob_12",
+        "ui_state": "amp_env_mod_sel_lfo_2",
+        "haptic_mode": "300_deg_with_top_indent"
+    },      
+    {
+        "param_1": "/daw/main/ninavst/Mod_Amp_Envelope:OSC_1_Level",
+        "param_2": "/sfc/Knob_13",
+        "ui_state": "amp_env_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Amp_Envelope:OSC_2_Level",
+        "param_2": "/sfc/Knob_14",
+        "ui_state": "amp_env_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Amp_Envelope:XOR_Level",
+        "param_2": "/sfc/Knob_15",
+        "ui_state": "amp_env_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Amp_Envelope:LFO_1_Gain",
+        "param_2": "/sfc/Knob_16",
+        "ui_state": "amp_env_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Amp_Envelope:LFO_2_Gain",
+        "param_2": "/sfc/Knob_16",
+        "ui_state": "amp_env_mod_sel_lfo_2",
+        "haptic_mode": "300_deg_with_top_indent"
+    },    
+    {
+        "param_1": "/daw/main/ninavst/Mod_Amp_Envelope:Filter_Resonance",
+        "param_2": "/sfc/Knob_17",
+        "ui_state": "amp_env_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Amp_Envelope:Filter_Cutoff",
+        "param_2": "/sfc/Knob_18",
+        "ui_state": "amp_env_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Amp_Envelope:Drive",
+        "param_2": "/sfc/Knob_19",
+        "ui_state": "amp_env_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Amp_Envelope:VCF_Level",
+        "param_2": "/sfc/Knob_20",
+        "haptic_mode": "300_deg_with_top_indent",
+        "ui_state": "amp_env_mod_sel"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Amp_Envelope:VCF_Attack",
+        "param_2": "/sfc/Knob_21",
+        "ui_state": "amp_env_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Amp_Envelope:VCF_Decay",
+        "param_2": "/sfc/Knob_22",
+        "ui_state": "amp_env_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Amp_Envelope:VCF_Sustain",
+        "param_2": "/sfc/Knob_23",
+        "ui_state": "amp_env_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Amp_Envelope:VCF_Release",
+        "param_2": "/sfc/Knob_24",
+        "ui_state": "amp_env_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Amp_Envelope:Pan",
+        "param_2": "/sfc/Knob_29",
+        "ui_state": "amp_env_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Amp_Envelope:Spin_Rate",
+        "param_2": "/sfc/Knob_30",
+        "ui_state": "amp_env_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Amp_Envelope:Morph",
+        "param_2": "/sfc/Knob_31",
+        "haptic_mode": "300_deg_with_top_indent",
+        "ui_state": "amp_env_mod_sel"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Velocity:OSC_1_Pitch",
+        "param_2": "/sfc/Knob_1",
+        "ui_state": "key_vel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Velocity:OSC_2_Pitch",
+        "param_2": "/sfc/Knob_2",
+        "ui_state": "key_vel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Velocity:OSC_3_Pitch",
+        "param_2": "/sfc/Knob_3",
+        "ui_state": "key_vel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Velocity:OSC_1_Width",
+        "param_2": "/sfc/Knob_5",
+        "ui_state": "key_vel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Velocity:OSC_2_Width",
+        "param_2": "/sfc/Knob_6",
+        "ui_state": "key_vel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Velocity:OSC_3_Shape",
+        "param_2": "/sfc/Knob_7",
+        "ui_state": "key_vel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Velocity:OSC_1_Blend",
+        "param_2": "/sfc/Knob_9",
+        "ui_state": "key_vel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Velocity:OSC_2_Blend",
+        "param_2": "/sfc/Knob_10",
+        "ui_state": "key_vel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Velocity:OSC_3_Level",
+        "param_2": "/sfc/Knob_11",
+        "ui_state": "key_vel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Velocity:LFO_1_Rate",
+        "param_2": "/sfc/Knob_12",
+        "ui_state": "key_vel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Velocity:LFO_2_Rate",
+        "param_2": "/sfc/Knob_12",
+        "ui_state": "key_vel_mod_sel_lfo_2",
+        "haptic_mode": "300_deg_with_top_indent"
+    },      
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Velocity:OSC_1_Level",
+        "param_2": "/sfc/Knob_13",
+        "ui_state": "key_vel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Velocity:OSC_2_Level",
+        "param_2": "/sfc/Knob_14",
+        "ui_state": "key_vel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Velocity:XOR_Level",
+        "param_2": "/sfc/Knob_15",
+        "ui_state": "key_vel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Velocity:LFO_1_Gain",
+        "param_2": "/sfc/Knob_16",
+        "ui_state": "key_vel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Velocity:LFO_2_Gain",
+        "param_2": "/sfc/Knob_16",
+        "ui_state": "key_vel_mod_sel_lfo_2",
+        "haptic_mode": "300_deg_with_top_indent"
+    },      
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Velocity:Filter_Resonance",
+        "param_2": "/sfc/Knob_17",
+        "ui_state": "key_vel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Velocity:Filter_Cutoff",
+        "param_2": "/sfc/Knob_18",
+        "ui_state": "key_vel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Velocity:Drive",
+        "param_2": "/sfc/Knob_19",
+        "ui_state": "key_vel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Filt_Env_Velocity_Sense",
+        "param_2": "/sfc/Knob_20",
+        "ui_state": "key_vel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Velocity:VCF_Attack",
+        "param_2": "/sfc/Knob_21",
+        "ui_state": "key_vel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Velocity:VCF_Decay",
+        "param_2": "/sfc/Knob_22",
+        "ui_state": "key_vel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Velocity:VCF_Sustain",
+        "param_2": "/sfc/Knob_23",
+        "ui_state": "key_vel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Velocity:VCF_Release",
+        "param_2": "/sfc/Knob_24",
+        "ui_state": "key_vel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Velocity:VCA_Attack",
+        "param_2": "/sfc/Knob_25",
+        "ui_state": "key_vel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Velocity:VCA_Decay",
+        "param_2": "/sfc/Knob_26",
+        "ui_state": "key_vel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Velocity:VCA_Sustain",
+        "param_2": "/sfc/Knob_27",
+        "ui_state": "key_vel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Velocity:VCA_Release",
+        "param_2": "/sfc/Knob_28",
+        "ui_state": "key_vel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Velocity:Pan",
+        "param_2": "/sfc/Knob_29",
+        "ui_state": "key_vel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Velocity:Spin_Rate",
+        "param_2": "/sfc/Knob_30",
+        "ui_state": "key_vel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/sys/eg_2_level_mod_dst",
+        "param_2": "/sfc/Knob_31",
+        "ui_state": "key_vel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Pitch:OSC_1_Pitch",
+        "param_2": "/sfc/Knob_1",
+        "ui_state": "key_pitch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Pitch:OSC_2_Pitch",
+        "param_2": "/sfc/Knob_2",
+        "ui_state": "key_pitch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Pitch:OSC_3_Pitch",
+        "param_2": "/sfc/Knob_3",
+        "ui_state": "key_pitch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Pitch:OSC_1_Width",
+        "param_2": "/sfc/Knob_5",
+        "ui_state": "key_pitch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Pitch:OSC_2_Width",
+        "param_2": "/sfc/Knob_6",
+        "ui_state": "key_pitch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Pitch:OSC_3_Shape",
+        "param_2": "/sfc/Knob_7",
+        "ui_state": "key_pitch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Pitch:OSC_1_Blend",
+        "param_2": "/sfc/Knob_9",
+        "ui_state": "key_pitch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Pitch:OSC_2_Blend",
+        "param_2": "/sfc/Knob_10",
+        "ui_state": "key_pitch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Pitch:OSC_3_Level",
+        "param_2": "/sfc/Knob_11",
+        "ui_state": "key_pitch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Pitch:LFO_1_Rate",
+        "param_2": "/sfc/Knob_12",
+        "ui_state": "key_pitch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Pitch:LFO_2_Rate",
+        "param_2": "/sfc/Knob_12",
+        "ui_state": "key_pitch_mod_sel_lfo_2",
+        "haptic_mode": "300_deg_with_top_indent"
+    },    
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Pitch:OSC_1_Level",
+        "param_2": "/sfc/Knob_13",
+        "ui_state": "key_pitch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Pitch:OSC_2_Level",
+        "param_2": "/sfc/Knob_14",
+        "ui_state": "key_pitch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Pitch:XOR_Level",
+        "param_2": "/sfc/Knob_15",
+        "ui_state": "key_pitch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Pitch:LFO_1_Gain",
+        "param_2": "/sfc/Knob_16",
+        "ui_state": "key_pitch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Pitch:LFO_2_Gain",
+        "param_2": "/sfc/Knob_16",
+        "ui_state": "key_pitch_mod_sel_lfo_2",
+        "haptic_mode": "300_deg_with_top_indent"
+    },    
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Pitch:Filter_Resonance",
+        "param_2": "/sfc/Knob_17",
+        "ui_state": "key_pitch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Pitch:Filter_Cutoff",
+        "param_2": "/sfc/Knob_18",
+        "ui_state": "key_pitch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Pitch:Drive",
+        "param_2": "/sfc/Knob_19",
+        "ui_state": "key_pitch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Pitch:VCF_Level",
+        "param_2": "/sfc/Knob_20",
+        "haptic_mode": "300_deg_with_top_indent",
+        "ui_state": "key_pitch_mod_sel"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Pitch:VCF_Attack",
+        "param_2": "/sfc/Knob_21",
+        "ui_state": "key_pitch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Pitch:VCF_Decay",
+        "param_2": "/sfc/Knob_22",
+        "ui_state": "key_pitch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Pitch:VCF_Sustain",
+        "param_2": "/sfc/Knob_23",
+        "ui_state": "key_pitch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Pitch:VCF_Release",
+        "param_2": "/sfc/Knob_24",
+        "ui_state": "key_pitch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Pitch:VCA_Attack",
+        "param_2": "/sfc/Knob_25",
+        "ui_state": "key_pitch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Pitch:VCA_Decay",
+        "param_2": "/sfc/Knob_26",
+        "ui_state": "key_pitch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Pitch:VCA_Sustain",
+        "param_2": "/sfc/Knob_27",
+        "ui_state": "key_pitch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Pitch:VCA_Release",
+        "param_2": "/sfc/Knob_28",
+        "ui_state": "key_pitch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Pitch:Pan",
+        "param_2": "/sfc/Knob_29",
+        "ui_state": "key_pitch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Key_Pitch:Spin_Rate",
+        "param_2": "/sfc/Knob_30",
+        "ui_state": "key_pitch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/sys/eg_2_level_mod_dst",
+        "param_2": "/sfc/Knob_31",
+        "haptic_mode": "300_deg_with_top_indent",
+        "ui_state": "key_pitch_mod_sel"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Aftertouch:OSC_1_Pitch",
+        "param_2": "/sfc/Knob_1",
+        "ui_state": "aftertouch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Aftertouch:OSC_2_Pitch",
+        "param_2": "/sfc/Knob_2",
+        "ui_state": "aftertouch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Aftertouch:OSC_3_Pitch",
+        "param_2": "/sfc/Knob_3",
+        "ui_state": "aftertouch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Aftertouch:OSC_1_Width",
+        "param_2": "/sfc/Knob_5",
+        "ui_state": "aftertouch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Aftertouch:OSC_2_Width",
+        "param_2": "/sfc/Knob_6",
+        "ui_state": "aftertouch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Aftertouch:OSC_3_Shape",
+        "param_2": "/sfc/Knob_7",
+        "ui_state": "aftertouch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Aftertouch:OSC_1_Blend",
+        "param_2": "/sfc/Knob_9",
+        "ui_state": "aftertouch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Aftertouch:OSC_2_Blend",
+        "param_2": "/sfc/Knob_10",
+        "ui_state": "aftertouch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Aftertouch:OSC_3_Level",
+        "param_2": "/sfc/Knob_11",
+        "ui_state": "aftertouch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Aftertouch:LFO_1_Rate",
+        "param_2": "/sfc/Knob_12",
+        "ui_state": "aftertouch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Aftertouch:LFO_2_Rate",
+        "param_2": "/sfc/Knob_12",
+        "ui_state": "aftertouch_mod_sel_lfo_2",
+        "haptic_mode": "300_deg_with_top_indent"
+    },      
+    {
+        "param_1": "/daw/main/ninavst/Mod_Aftertouch:OSC_1_Level",
+        "param_2": "/sfc/Knob_13",
+        "ui_state": "aftertouch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Aftertouch:OSC_2_Level",
+        "param_2": "/sfc/Knob_14",
+        "ui_state": "aftertouch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Aftertouch:XOR_Level",
+        "param_2": "/sfc/Knob_15",
+        "ui_state": "aftertouch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Aftertouch:LFO_1_Gain",
+        "param_2": "/sfc/Knob_16",
+        "ui_state": "aftertouch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Aftertouch:LFO_2_Gain",
+        "param_2": "/sfc/Knob_16",
+        "ui_state": "aftertouch_mod_sel_lfo_2",
+        "haptic_mode": "300_deg_with_top_indent"
+    },      
+    {
+        "param_1": "/daw/main/ninavst/Mod_Aftertouch:Filter_Resonance",
+        "param_2": "/sfc/Knob_17",
+        "ui_state": "aftertouch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Aftertouch:Filter_Cutoff",
+        "param_2": "/sfc/Knob_18",
+        "ui_state": "aftertouch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Aftertouch:Drive",
+        "param_2": "/sfc/Knob_19",
+        "ui_state": "aftertouch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Aftertouch:VCF_Level",
+        "param_2": "/sfc/Knob_20",
+        "haptic_mode": "300_deg_with_top_indent",
+        "ui_state": "aftertouch_mod_sel"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Aftertouch:VCF_Attack",
+        "param_2": "/sfc/Knob_21",
+        "ui_state": "aftertouch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Aftertouch:VCF_Decay",
+        "param_2": "/sfc/Knob_22",
+        "ui_state": "aftertouch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Aftertouch:VCF_Sustain",
+        "param_2": "/sfc/Knob_23",
+        "ui_state": "aftertouch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Aftertouch:VCF_Release",
+        "param_2": "/sfc/Knob_24",
+        "ui_state": "aftertouch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Aftertouch:VCA_Attack",
+        "param_2": "/sfc/Knob_25",
+        "ui_state": "aftertouch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Aftertouch:VCA_Decay",
+        "param_2": "/sfc/Knob_26",
+        "ui_state": "aftertouch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Aftertouch:VCA_Sustain",
+        "param_2": "/sfc/Knob_27",
+        "ui_state": "aftertouch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Aftertouch:VCA_Release",
+        "param_2": "/sfc/Knob_28",
+        "ui_state": "aftertouch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Aftertouch:Pan",
+        "param_2": "/sfc/Knob_29",
+        "ui_state": "aftertouch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Aftertouch:Spin_Rate",
+        "param_2": "/sfc/Knob_30",
+        "ui_state": "aftertouch_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/sys/eg_2_level_mod_dst",
+        "param_2": "/sfc/Knob_31",
+        "haptic_mode": "300_deg_with_top_indent",
+        "ui_state": "aftertouch_mod_sel"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Pan_Position:OSC_1_Pitch",
+        "param_2": "/sfc/Knob_1",
+        "ui_state": "pan_pos_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Pan_Position:OSC_2_Pitch",
+        "param_2": "/sfc/Knob_2",
+        "ui_state": "pan_pos_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Pan_Position:OSC_3_Pitch",
+        "param_2": "/sfc/Knob_3",
+        "ui_state": "pan_pos_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Pan_Position:OSC_1_Width",
+        "param_2": "/sfc/Knob_5",
+        "ui_state": "pan_pos_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Pan_Position:OSC_2_Width",
+        "param_2": "/sfc/Knob_6",
+        "ui_state": "pan_pos_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Pan_Position:OSC_3_Shape",
+        "param_2": "/sfc/Knob_7",
+        "ui_state": "pan_pos_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Pan_Position:OSC_1_Blend",
+        "param_2": "/sfc/Knob_9",
+        "ui_state": "pan_pos_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Pan_Position:OSC_2_Blend",
+        "param_2": "/sfc/Knob_10",
+        "ui_state": "pan_pos_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Pan_Position:OSC_3_Level",
+        "param_2": "/sfc/Knob_11",
+        "ui_state": "pan_pos_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Pan_Position:LFO_1_Rate",
+        "param_2": "/sfc/Knob_12",
+        "ui_state": "pan_pos_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Pan_Position:LFO_2_Rate",
+        "param_2": "/sfc/Knob_12",
+        "ui_state": "pan_pos_mod_sel_lfo_2",
+        "haptic_mode": "300_deg_with_top_indent"
+    },     
+    {
+        "param_1": "/daw/main/ninavst/Mod_Pan_Position:OSC_1_Level",
+        "param_2": "/sfc/Knob_13",
+        "ui_state": "pan_pos_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Pan_Position:OSC_2_Level",
+        "param_2": "/sfc/Knob_14",
+        "ui_state": "pan_pos_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Pan_Position:XOR_Level",
+        "param_2": "/sfc/Knob_15",
+        "ui_state": "pan_pos_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Pan_Position:LFO_1_Gain",
+        "param_2": "/sfc/Knob_16",
+        "ui_state": "pan_pos_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Pan_Position:LFO_2_Gain",
+        "param_2": "/sfc/Knob_16",
+        "ui_state": "pan_pos_mod_sel_lfo_2",
+        "haptic_mode": "300_deg_with_top_indent"
+    },     
+    {
+        "param_1": "/daw/main/ninavst/Mod_Pan_Position:Filter_Resonance",
+        "param_2": "/sfc/Knob_17",
+        "ui_state": "pan_pos_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Pan_Position:Filter_Cutoff",
+        "param_2": "/sfc/Knob_18",
+        "ui_state": "pan_pos_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Pan_Position:Drive",
+        "param_2": "/sfc/Knob_19",
+        "ui_state": "pan_pos_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Pan_Position:VCF_Level",
+        "param_2": "/sfc/Knob_20",
+        "haptic_mode": "300_deg_with_top_indent",
+        "ui_state": "pan_pos_mod_sel"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Pan_Position:VCF_Attack",
+        "param_2": "/sfc/Knob_21",
+        "ui_state": "pan_pos_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Pan_Position:VCF_Decay",
+        "param_2": "/sfc/Knob_22",
+        "ui_state": "pan_pos_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Pan_Position:VCF_Sustain",
+        "param_2": "/sfc/Knob_23",
+        "ui_state": "pan_pos_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Pan_Position:VCF_Release",
+        "param_2": "/sfc/Knob_24",
+        "ui_state": "pan_pos_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Pan_Position:VCA_Attack",
+        "param_2": "/sfc/Knob_25",
+        "ui_state": "pan_pos_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Pan_Position:VCA_Decay",
+        "param_2": "/sfc/Knob_26",
+        "ui_state": "pan_pos_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Pan_Position:VCA_Sustain",
+        "param_2": "/sfc/Knob_27",
+        "ui_state": "pan_pos_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Pan_Position:VCA_Release",
+        "param_2": "/sfc/Knob_28",
+        "ui_state": "pan_pos_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Pan_Position:Pan",
+        "param_2": "/sfc/Knob_29",
+        "ui_state": "pan_pos_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Pan_Position:Spin_Rate",
+        "param_2": "/sfc/Knob_30",
+        "ui_state": "pan_pos_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/sys/eg_2_level_mod_dst",
+        "param_2": "/sfc/Knob_31",
+        "haptic_mode": "300_deg_with_top_indent",
+        "ui_state": "pan_pos_mod_sel"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Wavetable:OSC_1_Pitch",
+        "param_2": "/sfc/Knob_1",
+        "ui_state": "wt_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Wavetable:OSC_2_Pitch",
+        "param_2": "/sfc/Knob_2",
+        "ui_state": "wt_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Wavetable:OSC_3_Pitch",
+        "param_2": "/sfc/Knob_3",
+        "ui_state": "wt_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Wavetable:OSC_1_Width",
+        "param_2": "/sfc/Knob_5",
+        "ui_state": "wt_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Wavetable:OSC_2_Width",
+        "param_2": "/sfc/Knob_6",
+        "ui_state": "wt_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Wavetable:OSC_3_Shape",
+        "param_2": "/sfc/Knob_7",
+        "ui_state": "wt_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Wavetable:OSC_1_Blend",
+        "param_2": "/sfc/Knob_9",
+        "ui_state": "wt_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Wavetable:OSC_2_Blend",
+        "param_2": "/sfc/Knob_10",
+        "ui_state": "wt_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Wavetable:OSC_3_Level",
+        "param_2": "/sfc/Knob_11",
+        "ui_state": "wt_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Wavetable:LFO_1_Rate",
+        "param_2": "/sfc/Knob_12",
+        "ui_state": "wt_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Wavetable:LFO_2_Rate",
+        "param_2": "/sfc/Knob_12",
+        "ui_state": "wt_mod_sel_lfo_2",
+        "haptic_mode": "300_deg_with_top_indent"
+    },      
+    {
+        "param_1": "/daw/main/ninavst/Mod_Wavetable:OSC_1_Level",
+        "param_2": "/sfc/Knob_13",
+        "ui_state": "wt_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Wavetable:OSC_2_Level",
+        "param_2": "/sfc/Knob_14",
+        "ui_state": "wt_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Wavetable:XOR_Level",
+        "param_2": "/sfc/Knob_15",
+        "ui_state": "wt_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Wavetable:LFO_1_Gain",
+        "param_2": "/sfc/Knob_16",
+        "ui_state": "wt_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Wavetable:LFO_2_Gain",
+        "param_2": "/sfc/Knob_16",
+        "ui_state": "wt_mod_sel_lfo_2",
+        "haptic_mode": "300_deg_with_top_indent"
+    },      
+    {
+        "param_1": "/daw/main/ninavst/Mod_Wavetable:Filter_Resonance",
+        "param_2": "/sfc/Knob_17",
+        "ui_state": "wt_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Wavetable:Filter_Cutoff",
+        "param_2": "/sfc/Knob_18",
+        "ui_state": "wt_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Wavetable:Drive",
+        "param_2": "/sfc/Knob_19",
+        "ui_state": "wt_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Wavetable:VCF_Level",
+        "param_2": "/sfc/Knob_20",
+        "haptic_mode": "300_deg_with_top_indent",
+        "ui_state": "wt_mod_sel"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Wavetable:VCF_Attack",
+        "param_2": "/sfc/Knob_21",
+        "ui_state": "wt_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Wavetable:VCF_Decay",
+        "param_2": "/sfc/Knob_22",
+        "ui_state": "wt_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Wavetable:VCF_Sustain",
+        "param_2": "/sfc/Knob_23",
+        "ui_state": "wt_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Wavetable:VCF_Release",
+        "param_2": "/sfc/Knob_24",
+        "ui_state": "wt_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Wavetable:VCA_Attack",
+        "param_2": "/sfc/Knob_25",
+        "ui_state": "wt_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Wavetable:VCA_Decay",
+        "param_2": "/sfc/Knob_26",
+        "ui_state": "wt_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Wavetable:VCA_Sustain",
+        "param_2": "/sfc/Knob_27",
+        "ui_state": "wt_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Wavetable:VCA_Release",
+        "param_2": "/sfc/Knob_28",
+        "ui_state": "wt_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Wavetable:Pan",
+        "param_2": "/sfc/Knob_29",
+        "ui_state": "wt_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Wavetable:Spin_Rate",
+        "param_2": "/sfc/Knob_30",
+        "ui_state": "wt_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/sys/eg_2_level_mod_dst",
+        "param_2": "/sfc/Knob_31",
+        "haptic_mode": "300_deg_with_top_indent",
+        "ui_state": "wt_mod_sel"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Modwheel:OSC_1_Pitch",
+        "param_2": "/sfc/Knob_1",
+        "ui_state": "modwheel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Modwheel:OSC_2_Pitch",
+        "param_2": "/sfc/Knob_2",
+        "ui_state": "modwheel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Modwheel:OSC_3_Pitch",
+        "param_2": "/sfc/Knob_3",
+        "ui_state": "modwheel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Modwheel:OSC_1_Width",
+        "param_2": "/sfc/Knob_5",
+        "ui_state": "modwheel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Modwheel:OSC_2_Width",
+        "param_2": "/sfc/Knob_6",
+        "ui_state": "modwheel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Modwheel:OSC_3_Shape",
+        "param_2": "/sfc/Knob_7",
+        "ui_state": "modwheel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Modwheel:OSC_1_Blend",
+        "param_2": "/sfc/Knob_9",
+        "ui_state": "modwheel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Modwheel:OSC_2_Blend",
+        "param_2": "/sfc/Knob_10",
+        "ui_state": "modwheel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Modwheel:OSC_3_Level",
+        "param_2": "/sfc/Knob_11",
+        "ui_state": "modwheel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Modwheel:LFO_1_Rate",
+        "param_2": "/sfc/Knob_12",
+        "ui_state": "modwheel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Modwheel:LFO_2_Rate",
+        "param_2": "/sfc/Knob_12",
+        "ui_state": "modwheel_mod_sel_lfo_2",
+        "haptic_mode": "300_deg_with_top_indent"
+    },      
+    {
+        "param_1": "/daw/main/ninavst/Mod_Modwheel:OSC_1_Level",
+        "param_2": "/sfc/Knob_13",
+        "ui_state": "modwheel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Modwheel:OSC_2_Level",
+        "param_2": "/sfc/Knob_14",
+        "ui_state": "modwheel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Modwheel:XOR_Level",
+        "param_2": "/sfc/Knob_15",
+        "ui_state": "modwheel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Modwheel:LFO_1_Gain",
+        "param_2": "/sfc/Knob_16",
+        "ui_state": "modwheel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Modwheel:LFO_2_Gain",
+        "param_2": "/sfc/Knob_16",
+        "ui_state": "modwheel_mod_sel_lfo_2",
+        "haptic_mode": "300_deg_with_top_indent"
+    },      
+    {
+        "param_1": "/daw/main/ninavst/Mod_Modwheel:Filter_Resonance",
+        "param_2": "/sfc/Knob_17",
+        "ui_state": "modwheel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Modwheel:Filter_Cutoff",
+        "param_2": "/sfc/Knob_18",
+        "ui_state": "modwheel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Modwheel:Drive",
+        "param_2": "/sfc/Knob_19",
+        "ui_state": "modwheel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Modwheel:VCF_Level",
+        "param_2": "/sfc/Knob_20",
+        "haptic_mode": "300_deg_with_top_indent",
+        "ui_state": "modwheel_mod_sel"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Modwheel:VCF_Attack",
+        "param_2": "/sfc/Knob_21",
+        "ui_state": "modwheel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Modwheel:VCF_Decay",
+        "param_2": "/sfc/Knob_22",
+        "ui_state": "modwheel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Modwheel:VCF_Sustain",
+        "param_2": "/sfc/Knob_23",
+        "ui_state": "modwheel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Modwheel:VCF_Release",
+        "param_2": "/sfc/Knob_24",
+        "ui_state": "modwheel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Modwheel:VCA_Attack",
+        "param_2": "/sfc/Knob_25",
+        "ui_state": "modwheel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Modwheel:VCA_Decay",
+        "param_2": "/sfc/Knob_26",
+        "ui_state": "modwheel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Modwheel:VCA_Sustain",
+        "param_2": "/sfc/Knob_27",
+        "ui_state": "modwheel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Modwheel:VCA_Release",
+        "param_2": "/sfc/Knob_28",
+        "ui_state": "modwheel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Modwheel:Pan",
+        "param_2": "/sfc/Knob_29",
+        "ui_state": "modwheel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Modwheel:Spin_Rate",
+        "param_2": "/sfc/Knob_30",
+        "ui_state": "modwheel_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/sys/eg_2_level_mod_dst",
+        "param_2": "/sfc/Knob_31",
+        "haptic_mode": "300_deg_with_top_indent",
+        "ui_state": "modwheel_mod_sel"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Time:OSC_1_Pitch",
+        "param_2": "/sfc/Knob_1",
+        "ui_state": "time_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Time:OSC_2_Pitch",
+        "param_2": "/sfc/Knob_2",
+        "ui_state": "time_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Time:OSC_3_Pitch",
+        "param_2": "/sfc/Knob_3",
+        "ui_state": "time_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Time:OSC_1_Width",
+        "param_2": "/sfc/Knob_5",
+        "ui_state": "time_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Time:OSC_2_Width",
+        "param_2": "/sfc/Knob_6",
+        "ui_state": "time_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Time:OSC_3_Shape",
+        "param_2": "/sfc/Knob_7",
+        "ui_state": "time_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Time:OSC_1_Blend",
+        "param_2": "/sfc/Knob_9",
+        "ui_state": "time_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Time:OSC_2_Blend",
+        "param_2": "/sfc/Knob_10",
+        "ui_state": "time_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Time:OSC_3_Level",
+        "param_2": "/sfc/Knob_11",
+        "ui_state": "time_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Time:LFO_1_Rate",
+        "param_2": "/sfc/Knob_12",
+        "ui_state": "time_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Time:LFO_2_Rate",
+        "param_2": "/sfc/Knob_12",
+        "ui_state": "time_mod_sel_lfo_2",
+        "haptic_mode": "300_deg_with_top_indent"
+    },     
+    {
+        "param_1": "/daw/main/ninavst/Mod_Time:OSC_1_Level",
+        "param_2": "/sfc/Knob_13",
+        "ui_state": "time_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Time:OSC_2_Level",
+        "param_2": "/sfc/Knob_14",
+        "ui_state": "time_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Time:XOR_Level",
+        "param_2": "/sfc/Knob_15",
+        "ui_state": "time_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Time:LFO_1_Gain",
+        "param_2": "/sfc/Knob_16",
+        "ui_state": "time_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Time:LFO_2_Gain",
+        "param_2": "/sfc/Knob_16",
+        "ui_state": "time_mod_sel_lfo_2",
+        "haptic_mode": "300_deg_with_top_indent"
+    },     
+    {
+        "param_1": "/daw/main/ninavst/Mod_Time:Filter_Resonance",
+        "param_2": "/sfc/Knob_17",
+        "ui_state": "time_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Time:Filter_Cutoff",
+        "param_2": "/sfc/Knob_18",
+        "ui_state": "time_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Time:Drive",
+        "param_2": "/sfc/Knob_19",
+        "ui_state": "time_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Time:VCF_Level",
+        "param_2": "/sfc/Knob_20",
+        "haptic_mode": "300_deg_with_top_indent",
+        "ui_state": "time_mod_sel"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Time:VCF_Attack",
+        "param_2": "/sfc/Knob_21",
+        "ui_state": "time_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Time:VCF_Decay",
+        "param_2": "/sfc/Knob_22",
+        "ui_state": "time_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Time:VCF_Sustain",
+        "param_2": "/sfc/Knob_23",
+        "ui_state": "time_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Time:VCF_Release",
+        "param_2": "/sfc/Knob_24",
+        "ui_state": "time_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Time:VCA_Attack",
+        "param_2": "/sfc/Knob_25",
+        "ui_state": "time_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Time:VCA_Decay",
+        "param_2": "/sfc/Knob_26",
+        "ui_state": "time_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Time:VCA_Sustain",
+        "param_2": "/sfc/Knob_27",
+        "ui_state": "time_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Time:VCA_Release",
+        "param_2": "/sfc/Knob_28",
+        "ui_state": "time_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Time:Pan",
+        "param_2": "/sfc/Knob_29",
+        "ui_state": "time_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Time:Spin_Rate",
+        "param_2": "/sfc/Knob_30",
+        "ui_state": "time_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/sys/eg_2_level_mod_dst",
+        "param_2": "/sfc/Knob_31",
+        "haptic_mode": "300_deg_with_top_indent",
+        "ui_state": "time_mod_sel"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Expression_Pedal:OSC_1_Pitch",
+        "param_2": "/sfc/Knob_1",
+        "ui_state": "expression_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Expression_Pedal:OSC_2_Pitch",
+        "param_2": "/sfc/Knob_2",
+        "ui_state": "expression_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Expression_Pedal:OSC_3_Pitch",
+        "param_2": "/sfc/Knob_3",
+        "ui_state": "expression_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Expression_Pedal:OSC_1_Width",
+        "param_2": "/sfc/Knob_5",
+        "ui_state": "expression_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Expression_Pedal:OSC_2_Width",
+        "param_2": "/sfc/Knob_6",
+        "ui_state": "expression_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Expression_Pedal:OSC_3_Shape",
+        "param_2": "/sfc/Knob_7",
+        "ui_state": "expression_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Expression_Pedal:OSC_1_Blend",
+        "param_2": "/sfc/Knob_9",
+        "ui_state": "expression_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Expression_Pedal:OSC_2_Blend",
+        "param_2": "/sfc/Knob_10",
+        "ui_state": "expression_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Expression_Pedal:OSC_3_Level",
+        "param_2": "/sfc/Knob_11",
+        "ui_state": "expression_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Expression_Pedal:LFO_1_Rate",
+        "param_2": "/sfc/Knob_12",
+        "ui_state": "expression_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Expression_Pedal:LFO_2_Rate",
+        "param_2": "/sfc/Knob_12",
+        "ui_state": "expression_mod_sel_lfo_2",
+        "haptic_mode": "300_deg_with_top_indent"
+    },      
+    {
+        "param_1": "/daw/main/ninavst/Mod_Expression_Pedal:OSC_1_Level",
+        "param_2": "/sfc/Knob_13",
+        "ui_state": "expression_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Expression_Pedal:OSC_2_Level",
+        "param_2": "/sfc/Knob_14",
+        "ui_state": "expression_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Expression_Pedal:XOR_Level",
+        "param_2": "/sfc/Knob_15",
+        "ui_state": "expression_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Expression_Pedal:LFO_1_Gain",
+        "param_2": "/sfc/Knob_16",
+        "ui_state": "expression_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Expression_Pedal:LFO_2_Gain",
+        "param_2": "/sfc/Knob_16",
+        "ui_state": "expression_mod_sel_lfo_2",
+        "haptic_mode": "300_deg_with_top_indent"
+    },      
+    {
+        "param_1": "/daw/main/ninavst/Mod_Expression_Pedal:Filter_Resonance",
+        "param_2": "/sfc/Knob_17",
+        "ui_state": "expression_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Expression_Pedal:Filter_Cutoff",
+        "param_2": "/sfc/Knob_18",
+        "ui_state": "expression_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Expression_Pedal:Drive",
+        "param_2": "/sfc/Knob_19",
+        "ui_state": "expression_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Expression_Pedal:VCF_Level",
+        "param_2": "/sfc/Knob_20",
+        "haptic_mode": "300_deg_with_top_indent",
+        "ui_state": "expression_mod_sel"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Expression_Pedal:VCF_Attack",
+        "param_2": "/sfc/Knob_21",
+        "ui_state": "expression_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Expression_Pedal:VCF_Decay",
+        "param_2": "/sfc/Knob_22",
+        "ui_state": "expression_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Expression_Pedal:VCF_Sustain",
+        "param_2": "/sfc/Knob_23",
+        "ui_state": "expression_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Expression_Pedal:VCF_Release",
+        "param_2": "/sfc/Knob_24",
+        "ui_state": "expression_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Expression_Pedal:VCA_Attack",
+        "param_2": "/sfc/Knob_25",
+        "ui_state": "expression_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Expression_Pedal:VCA_Decay",
+        "param_2": "/sfc/Knob_26",
+        "ui_state": "expression_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Expression_Pedal:VCA_Sustain",
+        "param_2": "/sfc/Knob_27",
+        "ui_state": "expression_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Expression_Pedal:VCA_Release",
+        "param_2": "/sfc/Knob_28",
+        "ui_state": "expression_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Expression_Pedal:Pan",
+        "param_2": "/sfc/Knob_29",
+        "ui_state": "expression_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Expression_Pedal:Spin_Rate",
+        "param_2": "/sfc/Knob_30",
+        "ui_state": "expression_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/sys/eg_2_level_mod_dst",
+        "param_2": "/sfc/Knob_31",
+        "haptic_mode": "300_deg_with_top_indent",
+        "ui_state": "expression_mod_sel"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_MIDI:OSC_1_Pitch",
+        "param_2": "/sfc/Knob_1",
+        "ui_state": "midi_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_MIDI:OSC_2_Pitch",
+        "param_2": "/sfc/Knob_2",
+        "ui_state": "midi_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_MIDI:OSC_3_Pitch",
+        "param_2": "/sfc/Knob_3",
+        "ui_state": "midi_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_MIDI:OSC_1_Width",
+        "param_2": "/sfc/Knob_5",
+        "ui_state": "midi_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_MIDI:OSC_2_Width",
+        "param_2": "/sfc/Knob_6",
+        "ui_state": "midi_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_MIDI:OSC_3_Shape",
+        "param_2": "/sfc/Knob_7",
+        "ui_state": "midi_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_MIDI:OSC_1_Blend",
+        "param_2": "/sfc/Knob_9",
+        "ui_state": "midi_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_MIDI:OSC_2_Blend",
+        "param_2": "/sfc/Knob_10",
+        "ui_state": "midi_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_MIDI:OSC_3_Level",
+        "param_2": "/sfc/Knob_11",
+        "ui_state": "midi_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_MIDI:LFO_1_Rate",
+        "param_2": "/sfc/Knob_12",
+        "ui_state": "midi_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_MIDI:LFO_2_Rate",
+        "param_2": "/sfc/Knob_12",
+        "ui_state": "midi_mod_sel_lfo_2",
+        "haptic_mode": "300_deg_with_top_indent"
+    },    
+    {
+        "param_1": "/daw/main/ninavst/Mod_MIDI:OSC_1_Level",
+        "param_2": "/sfc/Knob_13",
+        "ui_state": "midi_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_MIDI:OSC_2_Level",
+        "param_2": "/sfc/Knob_14",
+        "ui_state": "midi_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_MIDI:XOR_Level",
+        "param_2": "/sfc/Knob_15",
+        "ui_state": "midi_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_MIDI:LFO_1_Gain",
+        "param_2": "/sfc/Knob_16",
+        "ui_state": "midi_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_MIDI:LFO_2_Gain",
+        "param_2": "/sfc/Knob_16",
+        "ui_state": "midi_mod_sel_lfo_2",
+        "haptic_mode": "300_deg_with_top_indent"
+    },    
+    {
+        "param_1": "/daw/main/ninavst/Mod_MIDI:Filter_Resonance",
+        "param_2": "/sfc/Knob_17",
+        "ui_state": "midi_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_MIDI:Filter_Cutoff",
+        "param_2": "/sfc/Knob_18",
+        "ui_state": "midi_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_MIDI:Drive",
+        "param_2": "/sfc/Knob_19",
+        "ui_state": "midi_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_MIDI:VCF_Level",
+        "param_2": "/sfc/Knob_20",
+        "haptic_mode": "300_deg_with_top_indent",
+        "ui_state": "midi_mod_sel"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_MIDI:VCF_Attack",
+        "param_2": "/sfc/Knob_21",
+        "ui_state": "midi_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_MIDI:VCF_Decay",
+        "param_2": "/sfc/Knob_22",
+        "ui_state": "midi_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_MIDI:VCF_Sustain",
+        "param_2": "/sfc/Knob_23",
+        "ui_state": "midi_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_MIDI:VCF_Release",
+        "param_2": "/sfc/Knob_24",
+        "ui_state": "midi_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_MIDI:VCA_Attack",
+        "param_2": "/sfc/Knob_25",
+        "ui_state": "midi_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_MIDI:VCA_Decay",
+        "param_2": "/sfc/Knob_26",
+        "ui_state": "midi_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_MIDI:VCA_Sustain",
+        "param_2": "/sfc/Knob_27",
+        "ui_state": "midi_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_MIDI:VCA_Release",
+        "param_2": "/sfc/Knob_28",
+        "ui_state": "midi_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_MIDI:Pan",
+        "param_2": "/sfc/Knob_29",
+        "ui_state": "midi_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_MIDI:Spin_Rate",
+        "param_2": "/sfc/Knob_30",
+        "ui_state": "midi_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/sys/eg_2_level_mod_dst",
+        "param_2": "/sfc/Knob_31",
+        "haptic_mode": "300_deg_with_top_indent",
+        "ui_state": "midi_mod_sel"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_A:OSC_1_Pitch",
+        "param_2": "/sfc/Knob_1",
+        "ui_state": "cv_a_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_A:OSC_2_Pitch",
+        "param_2": "/sfc/Knob_2",
+        "ui_state": "cv_a_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_A:OSC_3_Pitch",
+        "param_2": "/sfc/Knob_3",
+        "ui_state": "cv_a_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_A:OSC_1_Width",
+        "param_2": "/sfc/Knob_5",
+        "ui_state": "cv_a_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_A:OSC_2_Width",
+        "param_2": "/sfc/Knob_6",
+        "ui_state": "cv_a_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_A:OSC_3_Shape",
+        "param_2": "/sfc/Knob_7",
+        "ui_state": "cv_a_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_A:OSC_1_Blend",
+        "param_2": "/sfc/Knob_9",
+        "ui_state": "cv_a_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_A:OSC_2_Blend",
+        "param_2": "/sfc/Knob_10",
+        "ui_state": "cv_a_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_A:OSC_3_Level",
+        "param_2": "/sfc/Knob_11",
+        "ui_state": "cv_a_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_A:LFO_1_Rate",
+        "param_2": "/sfc/Knob_12",
+        "ui_state": "cv_a_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_A:LFO_2_Rate",
+        "param_2": "/sfc/Knob_12",
+        "ui_state": "cv_a_mod_sel_lfo_2",
+        "haptic_mode": "300_deg_with_top_indent"
+    },     
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_A:OSC_1_Level",
+        "param_2": "/sfc/Knob_13",
+        "ui_state": "cv_a_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_A:OSC_2_Level",
+        "param_2": "/sfc/Knob_14",
+        "ui_state": "cv_a_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_A:XOR_Level",
+        "param_2": "/sfc/Knob_15",
+        "ui_state": "cv_a_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_A:LFO_1_Gain",
+        "param_2": "/sfc/Knob_16",
+        "ui_state": "cv_a_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_A:LFO_2_Gain",
+        "param_2": "/sfc/Knob_16",
+        "ui_state": "cv_a_mod_sel_lfo_2",
+        "haptic_mode": "300_deg_with_top_indent"
+    },     
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_A:Filter_Resonance",
+        "param_2": "/sfc/Knob_17",
+        "ui_state": "cv_a_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_A:Filter_Cutoff",
+        "param_2": "/sfc/Knob_18",
+        "ui_state": "cv_a_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_A:Drive",
+        "param_2": "/sfc/Knob_19",
+        "ui_state": "cv_a_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_A:VCF_Level",
+        "param_2": "/sfc/Knob_20",
+        "haptic_mode": "300_deg_with_top_indent",
+        "ui_state": "cv_a_mod_sel"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_A:VCF_Attack",
+        "param_2": "/sfc/Knob_21",
+        "ui_state": "cv_a_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_A:VCF_Decay",
+        "param_2": "/sfc/Knob_22",
+        "ui_state": "cv_a_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_A:VCF_Sustain",
+        "param_2": "/sfc/Knob_23",
+        "ui_state": "cv_a_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_A:VCF_Release",
+        "param_2": "/sfc/Knob_24",
+        "ui_state": "cv_a_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_A:VCA_Attack",
+        "param_2": "/sfc/Knob_25",
+        "ui_state": "cv_a_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_A:VCA_Decay",
+        "param_2": "/sfc/Knob_26",
+        "ui_state": "cv_a_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_A:VCA_Sustain",
+        "param_2": "/sfc/Knob_27",
+        "ui_state": "cv_a_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_A:VCA_Release",
+        "param_2": "/sfc/Knob_28",
+        "ui_state": "cv_a_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_A:Pan",
+        "param_2": "/sfc/Knob_29",
+        "ui_state": "cv_a_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_A:Spin_Rate",
+        "param_2": "/sfc/Knob_30",
+        "ui_state": "cv_a_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/sys/eg_2_level_mod_dst",
+        "param_2": "/sfc/Knob_31",
+        "haptic_mode": "300_deg_with_top_indent",
+        "ui_state": "cv_a_mod_sel"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_B:OSC_1_Pitch",
+        "param_2": "/sfc/Knob_1",
+        "ui_state": "cv_b_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_B:OSC_2_Pitch",
+        "param_2": "/sfc/Knob_2",
+        "ui_state": "cv_b_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_B:OSC_3_Pitch",
+        "param_2": "/sfc/Knob_3",
+        "ui_state": "cv_b_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_B:OSC_1_Width",
+        "param_2": "/sfc/Knob_5",
+        "ui_state": "cv_b_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_B:OSC_2_Width",
+        "param_2": "/sfc/Knob_6",
+        "ui_state": "cv_b_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_B:OSC_3_Shape",
+        "param_2": "/sfc/Knob_7",
+        "ui_state": "cv_b_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_B:OSC_1_Blend",
+        "param_2": "/sfc/Knob_9",
+        "ui_state": "cv_b_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_B:OSC_2_Blend",
+        "param_2": "/sfc/Knob_10",
+        "ui_state": "cv_b_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_B:OSC_3_Level",
+        "param_2": "/sfc/Knob_11",
+        "ui_state": "cv_b_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_B:LFO_1_Rate",
+        "param_2": "/sfc/Knob_12",
+        "ui_state": "cv_b_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_B:LFO_2_Rate",
+        "param_2": "/sfc/Knob_12",
+        "ui_state": "cv_b_mod_sel_lfo_2",
+        "haptic_mode": "300_deg_with_top_indent"
+    },    
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_B:OSC_1_Level",
+        "param_2": "/sfc/Knob_13",
+        "ui_state": "cv_b_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_B:OSC_2_Level",
+        "param_2": "/sfc/Knob_14",
+        "ui_state": "cv_b_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_B:XOR_Level",
+        "param_2": "/sfc/Knob_15",
+        "ui_state": "cv_b_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_B:LFO_1_Gain",
+        "param_2": "/sfc/Knob_16",
+        "ui_state": "cv_b_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_B:LFO_2_Gain",
+        "param_2": "/sfc/Knob_16",
+        "ui_state": "cv_b_mod_sel_lfo_2",
+        "haptic_mode": "300_deg_with_top_indent"
+    },    
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_B:Filter_Resonance",
+        "param_2": "/sfc/Knob_17",
+        "ui_state": "cv_b_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_B:Filter_Cutoff",
+        "param_2": "/sfc/Knob_18",
+        "ui_state": "cv_b_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_B:Drive",
+        "param_2": "/sfc/Knob_19",
+        "ui_state": "cv_b_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_B:VCF_Level",
+        "param_2": "/sfc/Knob_20",
+        "haptic_mode": "300_deg_with_top_indent",
+        "ui_state": "cv_b_mod_sel"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_B:VCF_Attack",
+        "param_2": "/sfc/Knob_21",
+        "ui_state": "cv_b_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_B:VCF_Decay",
+        "param_2": "/sfc/Knob_22",
+        "ui_state": "cv_b_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_B:VCF_Sustain",
+        "param_2": "/sfc/Knob_23",
+        "ui_state": "cv_b_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_B:VCF_Release",
+        "param_2": "/sfc/Knob_24",
+        "ui_state": "cv_b_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_B:VCA_Attack",
+        "param_2": "/sfc/Knob_25",
+        "ui_state": "cv_b_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_B:VCA_Decay",
+        "param_2": "/sfc/Knob_26",
+        "ui_state": "cv_b_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_B:VCA_Sustain",
+        "param_2": "/sfc/Knob_27",
+        "ui_state": "cv_b_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_B:VCA_Release",
+        "param_2": "/sfc/Knob_28",
+        "ui_state": "cv_b_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_B:Pan",
+        "param_2": "/sfc/Knob_29",
+        "ui_state": "cv_b_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_CV_B:Spin_Rate",
+        "param_2": "/sfc/Knob_30",
+        "ui_state": "cv_b_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/sys/eg_2_level_mod_dst",
+        "param_2": "/sfc/Knob_31",
+        "haptic_mode": "300_deg_with_top_indent",
+        "ui_state": "cv_b_mod_sel"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Offset:OSC_1_Pitch",
+        "param_2": "/sfc/Knob_1",
+        "ui_state": "offset_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Offset:OSC_2_Pitch",
+        "param_2": "/sfc/Knob_2",
+        "ui_state": "offset_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Offset:OSC_3_Pitch",
+        "param_2": "/sfc/Knob_3",
+        "ui_state": "offset_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Offset:OSC_1_Width",
+        "param_2": "/sfc/Knob_5",
+        "ui_state": "offset_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Offset:OSC_2_Width",
+        "param_2": "/sfc/Knob_6",
+        "ui_state": "offset_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Offset:OSC_3_Shape",
+        "param_2": "/sfc/Knob_7",
+        "ui_state": "offset_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Offset:OSC_1_Blend",
+        "param_2": "/sfc/Knob_9",
+        "ui_state": "offset_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Offset:OSC_2_Blend",
+        "param_2": "/sfc/Knob_10",
+        "ui_state": "offset_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Offset:OSC_3_Level",
+        "param_2": "/sfc/Knob_11",
+        "ui_state": "offset_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Offset:LFO_1_Rate",
+        "param_2": "/sfc/Knob_12",
+        "ui_state": "offset_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Offset:LFO_2_Rate",
+        "param_2": "/sfc/Knob_12",
+        "ui_state": "offset_mod_sel_lfo_2",
+        "haptic_mode": "300_deg_with_top_indent"
+    },    
+    {
+        "param_1": "/daw/main/ninavst/Mod_Offset:OSC_1_Level",
+        "param_2": "/sfc/Knob_13",
+        "ui_state": "offset_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Offset:OSC_2_Level",
+        "param_2": "/sfc/Knob_14",
+        "ui_state": "offset_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Offset:XOR_Level",
+        "param_2": "/sfc/Knob_15",
+        "ui_state": "offset_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Offset:LFO_1_Gain",
+        "param_2": "/sfc/Knob_16",
+        "ui_state": "offset_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Offset:LFO_2_Gain",
+        "param_2": "/sfc/Knob_16",
+        "ui_state": "offset_mod_sel_lfo_2",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Offset:Filter_Resonance",
+        "param_2": "/sfc/Knob_17",
+        "ui_state": "offset_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Offset:Filter_Cutoff",
+        "param_2": "/sfc/Knob_18",
+        "ui_state": "offset_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Offset:Drive",
+        "param_2": "/sfc/Knob_19",
+        "ui_state": "offset_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Offset:VCF_Level",
+        "param_2": "/sfc/Knob_20",
+        "haptic_mode": "300_deg_with_top_indent",
+        "ui_state": "offset_mod_sel"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Offset:VCF_Attack",
+        "param_2": "/sfc/Knob_21",
+        "ui_state": "offset_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Offset:VCF_Decay",
+        "param_2": "/sfc/Knob_22",
+        "ui_state": "offset_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Offset:VCF_Sustain",
+        "param_2": "/sfc/Knob_23",
+        "ui_state": "offset_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Offset:VCF_Release",
+        "param_2": "/sfc/Knob_24",
+        "ui_state": "offset_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Offset:VCA_Attack",
+        "param_2": "/sfc/Knob_25",
+        "ui_state": "offset_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Offset:VCA_Decay",
+        "param_2": "/sfc/Knob_26",
+        "ui_state": "offset_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Offset:VCA_Sustain",
+        "param_2": "/sfc/Knob_27",
+        "ui_state": "offset_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Offset:VCA_Release",
+        "param_2": "/sfc/Knob_28",
+        "ui_state": "offset_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Offset:Pan",
+        "param_2": "/sfc/Knob_29",
+        "ui_state": "offset_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Offset:Spin_Rate",
+        "param_2": "/sfc/Knob_30",
+        "ui_state": "offset_mod_sel",
+        "haptic_mode": "300_deg_with_top_indent"
+    },
+    {
+        "param_1": "/sys/eg_2_level_mod_dst",
+        "param_2": "/sfc/Knob_31",
+        "haptic_mode": "300_deg_with_top_indent",
+        "ui_state": "offset_mod_sel"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Wheel",
+        "param_2": "/mid/cc/0/1"
+    },
+    {
+        "param_1": "/daw/main/ninavst/All_Notes_Off",
+        "param_2": "/mid/cc/0/123"
+    },
+    {
+        "param_1": "/daw/main/ninavst/All_Notes_Off",
+        "param_2": "/mid/cc/0/124"
+    },
+    {
+        "param_1": "/daw/main/ninavst/All_Notes_Off",
+        "param_2": "/mid/cc/0/125"
+    },
+    {
+        "param_1": "/daw/main/ninavst/All_Notes_Off",
+        "param_2": "/mid/cc/0/126"
+    },
+    {
+        "param_1": "/daw/main/ninavst/All_Notes_Off",
+        "param_2": "/mid/cc/0/127"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Midi_Mod_Source",
+        "param_2": "/mid/cc/0/2"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Glide",
+        "param_2": "/mid/cc/0/5"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Patch_Volume",
+        "param_2": "/mid/cc/0/7"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Setting:Pan",
+        "param_2": "/mid/cc/0/10"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Expression",
+        "param_2": "/mid/cc/0/11"
+    },
+    {
+        "param_1": "/daw/effects/effectsvst/FX_Send_Level",
+        "param_2": "/mid/cc/0/12"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Aftertouch",
+        "param_2": "/mid/chanpress/0"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Pitch_Bend",
+        "param_2": "/mid/pitch_bend/0"
+    },
+    {
+        "param_1": "/daw/main/ninavst/VCO_1_Tune_Fine",
+        "param_2": "/mid/cc/0/14"
+    },
+    {
+        "param_2": "/daw/main/ninavst/VCO_2_Tune_Fine",
+        "param_1": "/mid/cc/0/15"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Wave_Tune_Fine",
+        "param_2": "/mid/cc/0/16"
+    },
+    {
+        "param_1": "/daw/main/ninavst/VCO_1_Width",
+        "param_2": "/mid/cc/0/17"
+    },
+    {
+        "param_1": "/daw/main/ninavst/VCO_2_Width",
+        "param_2": "/mid/cc/0/18"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Wave_Shape",
+        "param_2": "/mid/cc/0/19"
+    },
+    {
+        "param_1": "/daw/main/ninavst/VCO_1_Blend",
+        "param_2": "/mid/cc/0/20"
+    },
+    {
+        "param_1": "/daw/main/ninavst/VCO_2_Blend",
+        "param_2": "/mid/cc/0/21"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mix_Wave",
+        "param_2": "/mid/cc/0/22"
+    },
+    {
+        "param_1": "/daw/main/ninavst/LFO_1_Rate",
+        "param_2": "/mid/cc/0/23"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mix_VCO_1",
+        "param_2": "/mid/cc/0/24"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mix_VCO_2",
+        "param_2": "/mid/cc/0/25"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mix_XOR",
+        "param_2": "/mid/cc/0/26"
+    },
+    {
+        "param_1": "/daw/main/ninavst/LFO_1_Gain",
+        "param_2": "/mid/cc/0/27"
+    },
+    {
+        "param_1": "/daw/main/ninavst/VCF_Resonance",
+        "param_2": "/mid/cc/0/28"
+    },
+    {
+        "param_1": "/daw/main/ninavst/VCF_Cutoff",
+        "param_2": "/mid/cc/0/29"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Mod_Setting:Drive",
+        "param_2": "/mid/cc/0/30"
+    },
+    {
+        "param_1": "/daw/main/ninavst/VCF_Env_Mod",
+        "param_2": "/mid/cc/0/31"
+    },
+    {
+        "param_1": "/daw/main/ninavst/VCF_Attack",
+        "param_2": "/mid/cc/0/33"
+    },
+    {
+        "param_1": "/daw/main/ninavst/VCF_Decay",
+        "param_2": "/mid/cc/0/34"
+    },
+    {
+        "param_1": "/daw/main/ninavst/VCF_Sustain",
+        "param_2": "/mid/cc/0/35"
+    },
+    {
+        "param_1": "/daw/main/ninavst/VCF_Release",
+        "param_2": "/mid/cc/0/36"
+    },
+    {
+        "param_1": "/daw/main/ninavst/VCA_Attack",
+        "param_2": "/mid/cc/0/37"
+    },
+    {
+        "param_1": "/daw/main/ninavst/VCA_Decay",
+        "param_2": "/mid/cc/0/39"
+    },
+    {
+        "param_1": "/daw/main/ninavst/VCA_Sustain",
+        "param_2": "/mid/cc/0/40"
+    },
+    {
+        "param_1": "/daw/main/ninavst/VCA_Release",
+        "param_2": "/mid/cc/0/41"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Spin_Rate",
+        "param_2": "/mid/cc/0/42"
+    },
+    {
+        "param_1": "/daw/main/ninavst/Morph_Value",
+        "param_2": "/mid/cc/0/43"
+    },
+    {
+        "param_1": "/mid/cc/0/64",
+        "param_2": "/daw/main/ninavst/Sustain"
+    },
+    {
+        "param_1": "/mid/cc/0/74",
+        "param_2": "/daw/main/ninavst/MPE_Z"
+    }    
+]

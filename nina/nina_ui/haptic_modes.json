@@ -1,0 +1,128 @@
+{
+	"default_knob_haptic_mode": "300_deg",
+	"default_switch_haptic_mode": "toggle",
+	"haptic_modes":
+	[{
+		"control_type" : "knob",
+		"name" : "360_deg",
+		"knob_width" : 360
+	 },
+     {
+		"control_type" : "knob",
+		"name" : "12_steps",
+		"knob_width" : 300,
+        "knob_num_detents" : 10,
+        "knob_detent_strength" : 90
+	 },
+     {
+		"control_type" : "knob",
+		"name" : "16_step_endless",
+		"knob_width" : 360,
+        "knob_num_detents" : 16,
+        "knob_detent_strength" : 40
+	 },
+     {
+		"control_type" : "knob",
+		"name" : "8va_knob",
+		"knob_width" : 120,
+        "knob_num_detents" : 3,
+        "knob_detent_strength" : 110
+	 },
+     {
+		"control_type" : "knob",
+		"name" : "16_step",
+		"knob_width" : 300,
+        "knob_num_detents" : 14,
+        "knob_detent_strength" : 70
+	 },	 
+	 {
+		"control_type" : "knob",
+		"name" : "300_deg",
+		"knob_width" : 300,
+        "knob_friction" :200
+	 },
+	 {
+		 "control_type" : "switch",
+		 "name": "toggle",
+		 "switch_mode": 0
+	 },
+	 {
+		"control_type" : "switch",
+		"name": "toggle_led_pulse",
+		"switch_mode": 1
+	 },
+	 {
+		"control_type" : "switch",
+		"name": "toggle_release",
+		"switch_mode": 2
+	 },	 
+	 {
+		"control_type" : "switch",
+		"name": "toggle_hold",
+		"switch_mode": 3
+	 },	 
+	 {
+		"control_type" : "switch",
+		"name": "push",
+		"switch_mode": 4
+	 },
+	 {
+		"control_type" : "switch",
+		"name": "latch_push",
+		"switch_mode": 5
+	 },	 
+	 {
+		"control_type" : "knob",
+		"name" : "300_deg_with_top_indent",
+		"knob_width" : 300,
+        "knob_friction" : 200,
+		"knob_indents": [
+			{ 
+				"angle": 180,
+				"hw_active": true
+		    }
+		]
+	 },
+	 {
+		"control_type" : "knob",
+		"name" : "300_deg_with_top_indent_friction",
+		"knob_width" : 300,
+        "knob_friction" : 255,
+		"knob_indents": [
+			{ 
+				"angle": 180,
+				"hw_active": true
+		    }
+		]
+	 },
+	 {
+		"control_type" : "knob",
+		"name" : "300_deg_with_sw_top_indent",
+		"knob_width" : 300,
+        "knob_friction" :200,
+		"knob_indents": [
+			{ 
+				"angle": 180,
+				"hw_active": false
+		    }
+		]		
+	 },	 
+     {
+		"control_type" : "knob",
+		"name" : "330_deg_early_start",
+		"knob_start_pos": 30,
+		"knob_width" : 300,
+        "knob_actual_start_pos" : 0,
+        "knob_actual_width" : 330
+	 },
+     {
+		"control_type" : "knob",
+		"name" : "300_deg_morph",
+		"knob_start_pos": 30,
+		"knob_width" : 300,
+        "knob_friction" :200,
+        "knob_actual_start_pos" : 35,
+        "knob_actual_width" : 290
+	 }
+	]	
+}

@@ -1,0 +1,8 @@
+[
+    {"param": "/daw/main/gain"},
+    {"param": "/daw/main/ninavst/Tuning_Gain"},
+    {"param": "/daw/main/ninavst/VCO_1_Tune_Sum"},
+    {"param": "/daw/main/ninavst/VCO_2_Tune_Sum"},
+    {"param": "/daw/main/ninavst/VCO_3_Tune_Sum"},
+    {"param": "/daw/main/ninavst/Current_Morph_Value"}
+]

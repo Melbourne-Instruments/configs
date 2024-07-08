@@ -1,0 +1,78 @@
+[
+    {
+        "path": "/cmn/midi_clk_in",
+        "value": 0.0
+    },
+    {
+        "path": "/cmn/midi_echo_filter",
+        "value": 0.3333333432674408
+    },
+    {
+        "path": "/daw/main/ninavst/MPE_Lower_Zone_Pitchbend_Range",
+        "value": 0.49484533071517944
+    },
+    {
+        "path": "/daw/main/ninavst/MPE_Upper_Zone_Pitchbend_Range",
+        "value": 0.49484533071517944
+    }, 
+    {
+        "path": "/daw/main/ninavst/Master_Tune",
+        "value": 0.5
+    },
+    {
+        "path": "/daw/main/ninavst/CV_Offset_1",
+        "value": 0.5
+    },
+    {
+        "path": "/daw/main/ninavst/CV_Gain_1",
+        "value": 0.5
+    },
+    {
+        "path": "/daw/main/ninavst/CV_Input_Mode_1",
+        "value": 0.0
+    },  
+    {
+        "path": "/daw/main/ninavst/CV_Offset_2",
+        "value": 0.5
+    },
+    {
+        "path": "/daw/main/ninavst/CV_Gain_2",
+        "value": 0.5
+    },
+    {
+        "path": "/daw/main/ninavst/CV_Input_Mode_2",
+        "value": 0.0
+    },  
+    {
+        "path": "/daw/main/ninavst/CV_Offset_3",
+        "value": 0.5
+    },
+    {
+        "path": "/daw/main/ninavst/CV_Gain_3",
+        "value": 0.5
+    },
+    {
+        "path": "/daw/main/ninavst/CV_Input_Mode_3",
+        "value": 0.0
+    },  
+    {
+        "path": "/daw/main/ninavst/CV_Offset_4",
+        "value": 0.5
+    },
+    {
+        "path": "/daw/main/ninavst/CV_Gain_4",
+        "value": 0.5
+    },
+    {
+        "path": "/daw/main/ninavst/CV_Input_Mode_4",
+        "value": 0.0
+    },
+    {
+        "path": "/kbd/first_note",
+        "value": 0.46875
+    },
+    {
+        "path": "/kbd/midi_channel",
+        "value": 0.0
+    } 
+]

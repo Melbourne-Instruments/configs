@@ -1,0 +1,204 @@
+{
+    "version": "0.2.0",
+    "common": [
+        {
+            "path": "/daw/main/ninavst/MPE_Lower_Zone_Num_Channels",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/MPE_Upper_Zone_Num_Channels",
+            "value": 0.0
+        }
+    ],
+    "layers": [
+        {
+            "layer_num": 1,
+            "bank_num": 1,
+            "patch_num": 1,
+            "params": [
+                {
+                    "path": "/daw/main/ninavst/Layer_Num_Voices",
+                    "value": 0.9230769872665404
+                },
+                {
+                    "path": "/daw/main/ninavst/Midi_Low_Note_Filter",
+                    "value": 0.0
+                },
+                {
+                    "path": "/daw/main/ninavst/Midi_High_Note_Filter",
+                    "value": 1.0
+                },
+                {
+                    "path": "/daw/main/ninavst/Midi_Channel_Filter",
+                    "value": 0.0
+                },
+                {
+                    "path": "/daw/main/ninavst/Output_Routing",
+                    "value": 0.8571429252624512
+                },
+                {
+                    "path": "/daw/main/ninavst/CV_A_Select",
+                    "value": 0.0
+                },
+                {
+                    "path": "/daw/main/ninavst/CV_B_Select",
+                    "value": 0.25
+                },
+                {
+                    "path": "/daw/main/ninavst/MPE_Mode",
+                    "value": 0.0
+                },
+                {
+                    "path": "/daw/main/ninavst/Patch_Volume",
+                    "value": 1.0
+                },
+                {
+                    "path": "/daw/main/ninavst/Octave_Offset",
+                    "value": 0.4545454680919647
+                }
+            ]
+        },
+        {
+            "layer_num": 2,
+            "bank_num": 1,
+            "patch_num": 2,
+            "params": [
+                {
+                    "path": "/daw/main/ninavst/Layer_Num_Voices",
+                    "value": 0.0
+                },
+                {
+                    "path": "/daw/main/ninavst/Midi_Low_Note_Filter",
+                    "value": 0.0
+                },
+                {
+                    "path": "/daw/main/ninavst/Midi_High_Note_Filter",
+                    "value": 1.0
+                },
+                {
+                    "path": "/daw/main/ninavst/Midi_Channel_Filter",
+                    "value": 0.0
+                },
+                {
+                    "path": "/daw/main/ninavst/Output_Routing",
+                    "value": 0.8571429252624512
+                },
+                {
+                    "path": "/daw/main/ninavst/CV_A_Select",
+                    "value": 0.0
+                },
+                {
+                    "path": "/daw/main/ninavst/CV_B_Select",
+                    "value": 0.25
+                },
+                {
+                    "path": "/daw/main/ninavst/MPE_Mode",
+                    "value": 0.0
+                },
+                {
+                    "path": "/daw/main/ninavst/Patch_Volume",
+                    "value": 1.0
+                },
+                {
+                    "path": "/daw/main/ninavst/Octave_Offset",
+                    "value": 0.4545454680919647
+                }
+            ]
+        },
+        {
+            "layer_num": 3,
+            "bank_num": 1,
+            "patch_num": 3,
+            "params": [
+                {
+                    "path": "/daw/main/ninavst/Layer_Num_Voices",
+                    "value": 0.0
+                },
+                {
+                    "path": "/daw/main/ninavst/Midi_Low_Note_Filter",
+                    "value": 0.0
+                },
+                {
+                    "path": "/daw/main/ninavst/Midi_High_Note_Filter",
+                    "value": 1.0
+                },
+                {
+                    "path": "/daw/main/ninavst/Midi_Channel_Filter",
+                    "value": 0.0
+                },
+                {
+                    "path": "/daw/main/ninavst/Output_Routing",
+                    "value": 0.8571429252624512
+                },
+                {
+                    "path": "/daw/main/ninavst/CV_A_Select",
+                    "value": 0.0
+                },
+                {
+                    "path": "/daw/main/ninavst/CV_B_Select",
+                    "value": 0.25
+                },
+                {
+                    "path": "/daw/main/ninavst/MPE_Mode",
+                    "value": 0.0
+                },
+                {
+                    "path": "/daw/main/ninavst/Patch_Volume",
+                    "value": 1.0
+                },
+                {
+                    "path": "/daw/main/ninavst/Octave_Offset",
+                    "value": 0.4545454680919647
+                }
+            ]
+        },
+        {
+            "layer_num": 4,
+            "bank_num": 1,
+            "patch_num": 4,
+            "params": [
+                {
+                    "path": "/daw/main/ninavst/Layer_Num_Voices",
+                    "value": 0.0
+                },
+                {
+                    "path": "/daw/main/ninavst/Midi_Low_Note_Filter",
+                    "value": 0.0
+                },
+                {
+                    "path": "/daw/main/ninavst/Midi_High_Note_Filter",
+                    "value": 1.0
+                },
+                {
+                    "path": "/daw/main/ninavst/Midi_Channel_Filter",
+                    "value": 0.0
+                },
+                {
+                    "path": "/daw/main/ninavst/Output_Routing",
+                    "value": 0.8571429252624512
+                },
+                {
+                    "path": "/daw/main/ninavst/CV_A_Select",
+                    "value": 0.0
+                },
+                {
+                    "path": "/daw/main/ninavst/CV_B_Select",
+                    "value": 0.25
+                },
+                {
+                    "path": "/daw/main/ninavst/MPE_Mode",
+                    "value": 0.0
+                },
+                {
+                    "path": "/daw/main/ninavst/Patch_Volume",
+                    "value": 1.0
+                },
+                {
+                    "path": "/daw/main/ninavst/Octave_Offset",
+                    "value": 0.4545454680919647
+                }
+            ]
+        }
+    ],
+    "revision": 1
+}

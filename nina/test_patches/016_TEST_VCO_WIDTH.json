@@ -1,0 +1,1250 @@
+{
+    "version": "0.3.3",
+    "common": [
+        {
+            "path": "/cmn/tempo_bpm",
+            "value": 120.0
+        },
+        {
+            "path": "/cmn/tempo_note_value",
+            "value": 0.20000000298023224
+        },
+        {
+            "path": "/cmn/hold",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Layer_State",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Unison",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Unison_Pan",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Legato",
+            "value": 1.0
+        },
+        {
+            "path": "/daw/main/ninavst/Spread_Amount",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Pitch_Bend_Range",
+            "value": 0.5961790680885315
+        },
+        {
+            "path": "/daw/main/ninavst/Run_Tuning",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/vca_offset_1",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/vca_offset_2",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/vca_offset_3",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/vca_offset_4",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/vca_offset_5",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/vca_left_offset",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/vca_right_offset",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/filter_offset",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/filter_scale",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/filter_t_track",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/voice_select",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/voice_cal_write",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/res_high_cal",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/res_low_cal",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Tuning_Gain",
+            "value": 0.3
+        },
+        {
+            "path": "/arp/enable",
+            "value": 0.0
+        },
+        {
+            "path": "/arp/dirmode",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/effects/effectsvst/LFO_1",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/effects/effectsvst/LFO_2",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/effects/effectsvst/Mode",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/effects/effectsvst/Vol",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/effects/effectsvst/FX_Type_Select",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/effects/effectsvst/Chorus_Mode",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/effects/effectsvst/Delay_Time",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/effects/effectsvst/Delay_Feedback",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/effects/effectsvst/Delay_Tone",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/effects/effectsvst/Reverb_Preset",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/effects/effectsvst/Reverb_Tone",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/effects/effectsvst/Reverb_Decay",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/effects/effectsvst/Reverb_Early_Mix",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/effects/effectsvst/Reverb_Predelay",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/effects/effectsvst/Reverb_Shimmer",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/effects/effectsvst/FX_Send_Level",
+            "value": 0.0006958177546039224
+        },
+        {
+            "path": "/daw/effects/gain",
+            "value": 0.8333333134651184
+        },
+        {
+            "path": "/daw/effects/pan",
+            "value": 0.5
+        },
+        {
+            "path": "/daw/effects/effectsvst/Delay_Time_Sync",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/effects/effectsvst/Tempo_Sync",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/effects/effectsvst/FX_Print",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/pan",
+            "value": 0.5
+        },
+        {
+            "path": "/daw/main/gain_sub_1",
+            "value": 0.8333333134651184
+        },
+        {
+            "path": "/daw/main/pan_sub_1",
+            "value": 0.5
+        },
+        {
+            "path": "/daw/main/gain_sub_2",
+            "value": 0.8333333134651184
+        },
+        {
+            "path": "/daw/main/pan_sub_2",
+            "value": 0.5
+        },
+        {
+            "path": "/daw/main/gain_sub_3",
+            "value": 0.8333333134651184
+        },
+        {
+            "path": "/daw/main/pan_sub_3",
+            "value": 0.5
+        },
+        {
+            "path": "/daw/main/gain_sub_4",
+            "value": 0.8333333134651184
+        },
+        {
+            "path": "/daw/main/pan_sub_4",
+            "value": 0.5
+        },
+        {
+            "path": "/daw/main/gain_sub_5",
+            "value": 0.8333333134651184
+        },
+        {
+            "path": "/daw/main/pan_sub_5",
+            "value": 0.5
+        },
+        {
+            "path": "/daw/main/gain_sub_6",
+            "value": 0.8333333134651184
+        },
+        {
+            "path": "/daw/main/pan_sub_6",
+            "value": 0.5
+        },
+        {
+            "path": "/daw/main/gain_sub_7",
+            "value": 0.8333333134651184
+        },
+        {
+            "path": "/daw/main/pan_sub_7",
+            "value": 0.5
+        },
+        {
+            "path": "/daw/main/gain_sub_8",
+            "value": 0.8333333134651184
+        },
+        {
+            "path": "/daw/main/pan_sub_8",
+            "value": 0.5
+        },
+        {
+            "path": "/daw/main/gain_sub_9",
+            "value": 0.8333333134651184
+        },
+        {
+            "path": "/daw/main/pan_sub_9",
+            "value": 0.5
+        },
+        {
+            "path": "/daw/main/gain_sub_10",
+            "value": 0.8333333134651184
+        },
+        {
+            "path": "/daw/main/pan_sub_10",
+            "value": 0.5
+        },
+        {
+            "path": "/daw/main/gain_sub_11",
+            "value": 0.8333333134651184
+        },
+        {
+            "path": "/daw/main/pan_sub_11",
+            "value": 0.5
+        },
+        {
+            "path": "/daw/main/gain_sub_12",
+            "value": 0.8333333134651184
+        },
+        {
+            "path": "/daw/main/pan_sub_12",
+            "value": 0.5
+        },
+        {
+            "path": "/daw/main/gain_sub_13",
+            "value": 0.8333333134651184
+        },
+        {
+            "path": "/daw/main/pan_sub_13",
+            "value": 0.5
+        },
+        {
+            "path": "/daw/main/gain_sub_14",
+            "value": 0.8333333134651184
+        },
+        {
+            "path": "/daw/main/pan_sub_14",
+            "value": 0.5
+        },
+        {
+            "path": "/daw/main/gain_sub_15",
+            "value": 0.8333333134651184
+        },
+        {
+            "path": "/daw/main/pan_sub_15",
+            "value": 0.5
+        },
+        {
+            "path": "/daw/main/gain_sub_16",
+            "value": 0.8333333134651184
+        },
+        {
+            "path": "/daw/main/pan_sub_16",
+            "value": 0.5
+        },
+        {
+            "path": "/daw/main/gain_sub_17",
+            "value": 0.8333333134651184
+        },
+        {
+            "path": "/daw/main/pan_sub_17",
+            "value": 0.5
+        },
+        {
+            "path": "/seq/num_steps",
+            "value": 1.0
+        },
+        {
+            "path": "/seq/tempo_note_value",
+            "value": 0.20000000298023224
+        },
+        {
+            "path": "/seq/hold",
+            "value": 1.0
+        },
+        {
+            "path": "/seq/step_1",
+            "str_value": "00FFFFFFFFFFFFFFFFFFFFFFFF"
+        },
+        {
+            "path": "/seq/step_2",
+            "str_value": "00FFFFFFFFFFFFFFFFFFFFFFFF"
+        },
+        {
+            "path": "/seq/step_3",
+            "str_value": "00FFFFFFFFFFFFFFFFFFFFFFFF"
+        },
+        {
+            "path": "/seq/step_4",
+            "str_value": "00FFFFFFFFFFFFFFFFFFFFFFFF"
+        },
+        {
+            "path": "/seq/step_5",
+            "str_value": "00FFFFFFFFFFFFFFFFFFFFFFFF"
+        },
+        {
+            "path": "/seq/step_6",
+            "str_value": "00FFFFFFFFFFFFFFFFFFFFFFFF"
+        },
+        {
+            "path": "/seq/step_7",
+            "str_value": "00FFFFFFFFFFFFFFFFFFFFFFFF"
+        },
+        {
+            "path": "/seq/step_8",
+            "str_value": "00FFFFFFFFFFFFFFFFFFFFFFFF"
+        },
+        {
+            "path": "/seq/step_9",
+            "str_value": "00FFFFFFFFFFFFFFFFFFFFFFFF"
+        },
+        {
+            "path": "/seq/step_10",
+            "str_value": "00FFFFFFFFFFFFFFFFFFFFFFFF"
+        },
+        {
+            "path": "/seq/step_11",
+            "str_value": "00FFFFFFFFFFFFFFFFFFFFFFFF"
+        },
+        {
+            "path": "/seq/step_12",
+            "str_value": "00FFFFFFFFFFFFFFFFFFFFFFFF"
+        },
+        {
+            "path": "/seq/step_13",
+            "str_value": "00FFFFFFFFFFFFFFFFFFFFFFFF"
+        },
+        {
+            "path": "/seq/step_14",
+            "str_value": "00FFFFFFFFFFFFFFFFFFFFFFFF"
+        },
+        {
+            "path": "/seq/step_15",
+            "str_value": "00FFFFFFFFFFFFFFFFFFFFFFFF"
+        },
+        {
+            "path": "/seq/step_16",
+            "str_value": "00FFFFFFFFFFFFFFFFFFFFFFFF"
+        },
+        {
+            "path": "/arp/tempo_note_value",
+            "value": 0.20000000298023224
+        },
+        {
+            "path": "/arp/hold",
+            "value": 0.0
+        }
+    ],
+    "state_a": [
+        {
+            "path": "/daw/main/ninavst/VCO_1_Tune_Fine",
+            "value": 0.5002899169921875
+        },
+        {
+            "path": "/daw/main/ninavst/VCO_1_Tune_Coarse",
+            "value": 0.5
+        },
+        {
+            "path": "/daw/main/ninavst/VCO_2_Tune_Fine",
+            "value": 0.49989014863967896
+        },
+        {
+            "path": "/daw/main/ninavst/VCO_2_Tune_Coarse",
+            "value": 0.5
+        },
+        {
+            "path": "/daw/main/ninavst/Wave_Tune_Fine",
+            "value": 0.4953490197658539
+        },
+        {
+            "path": "/daw/main/ninavst/Wave_Tune_Coarse",
+            "value": 0.4000000059604645
+        },
+        {
+            "path": "/daw/main/ninavst/WT_Select",
+            "value": 0.9245283007621765
+        },
+        {
+            "path": "/daw/main/ninavst/LFO_Shape",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/VCF_Drive",
+            "value": 0.46846845746040344
+        },
+        {
+            "path": "/daw/main/ninavst/VCF_Overdrive",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/VCF_Key_Track",
+            "value": 1.0
+        },
+        {
+            "path": "/daw/main/ninavst/Glide",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Sub_Osc",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Hard_Sync",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Amp_Env_Velocity_Sense",
+            "value": 0.5
+        },
+        {
+            "path": "/daw/main/ninavst/Filt_Env_Velocity_Sense",
+            "value": 0.5
+        },
+        {
+            "path": "/daw/main/ninavst/Unison_Spread",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Key_Pitch_Offset",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/LFO_Slew",
+            "value": 1.0
+        },
+        {
+            "path": "/daw/main/ninavst/LFO_Retrigger",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/LFO_1_Rate",
+            "value": 0.1894821673631668
+        },
+        {
+            "path": "/daw/main/ninavst/LFO_1_Mod",
+            "value": 0.5
+        },
+        {
+            "path": "/daw/main/ninavst/Mod_Constant:LFO_2_Gain",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/VCO_1_Width",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/VCO_1_Blend",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Mix_VCO_1",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/VCO_2_Width",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/VCO_2_Blend",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Mix_VCO_2",
+            "value": 1.0
+        },
+        {
+            "path": "/daw/main/ninavst/Wave_Shape",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Mix_Wave",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Mix_XOR",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/VCF_Cutoff",
+            "value": 1.0
+        },
+        {
+            "path": "/daw/main/ninavst/VCF_Resonance",
+            "value": 0.4181864857673645
+        },
+        {
+            "path": "/daw/main/ninavst/VCF_Attack",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/VCF_Decay",
+            "value": 0.2522522509098053
+        },
+        {
+            "path": "/daw/main/ninavst/VCF_Sustain",
+            "value": 1.0
+        },
+        {
+            "path": "/daw/main/ninavst/VCF_Release",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Mod_Constant:VCF_Level",
+            "value": 1.0
+        },
+        {
+            "path": "/daw/main/ninavst/VCA_Attack",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/VCA_Decay",
+            "value": 0.2711491882801056
+        },
+        {
+            "path": "/daw/main/ninavst/VCA_Sustain",
+            "value": 1.0
+        },
+        {
+            "path": "/daw/main/ninavst/VCA_Release",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Mod_Constant:VCA_Level",
+            "value": 1.0
+        },
+        {
+            "path": "/daw/main/ninavst/Spin_Rate",
+            "value": 0.5
+        },
+        {
+            "path": "/daw/main/ninavst/Mod_LFO_1:OSC_2_Pitch",
+            "value": 0.5
+        },
+        {
+            "path": "/daw/main/ninavst/Mod_LFO_1:OSC_3_Pitch",
+            "value": 0.5358163118362427
+        },
+        {
+            "path": "/daw/main/ninavst/Mod_LFO_1:Filter_Cutoff",
+            "value": 0.4983886182308197
+        },
+        {
+            "path": "/daw/main/ninavst/VCF_Env_Mod",
+            "value": 0.5
+        },
+        {
+            "path": "/daw/main/ninavst/Mod_Amp_Envelope:VCA_In",
+            "value": 1.0
+        },
+        {
+            "path": "/daw/main/ninavst/Mod_Key_Pitch:OSC_1_Pitch",
+            "value": 1.0
+        },
+        {
+            "path": "/daw/main/ninavst/Mod_Key_Pitch:OSC_2_Pitch",
+            "value": 1.0
+        },
+        {
+            "path": "/daw/main/ninavst/Mod_Key_Pitch:OSC_3_Pitch",
+            "value": 1.0
+        },
+        {
+            "path": "/daw/main/ninavst/Mod_Pan_Position:Pan",
+            "value": 0.625
+        },
+        {
+            "path": "/daw/main/ninavst/Main_Mute_L",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Main_Mute_R",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Tuning_Gain",
+            "value": 0.3
+        },
+        {
+            "path": "/daw/main/ninavst/Pan_Number",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Pan_Mode",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/VCO_1_Tune_Octave",
+            "value": 0.4000000059604645
+        },
+        {
+            "path": "/daw/main/ninavst/VCO_1_Tune_Semitone",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/VCO_2_Tune_Octave",
+            "value": 0.4000000059604645
+        },
+        {
+            "path": "/daw/main/ninavst/VCO_2_Tune_Semitone",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/LFO_2_Shape",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/LFO_2_Slew",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/LFO_2_Retrigger",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Noise_Mode",
+            "value": 0.25
+        },
+        {
+            "path": "/daw/main/ninavst/VCA_unipolar_mode",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Spin_Reset",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Amp_Env_Reset",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Filt_Env_Reset",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Fine_Tune_Range",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Current_Morph_Value",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/LFO_1_Gain",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/LFO_2_Rate",
+            "value": 0.5
+        },
+        {
+            "path": "/daw/main/ninavst/LFO_2_Gain",
+            "value": 0.5
+        },
+        {
+            "path": "/daw/main/ninavst/Mod_Setting:VCA_In",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Mod_Setting:Drive",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Mod_Setting:VCF_Level",
+            "value": 1.0
+        },
+        {
+            "path": "/daw/main/ninavst/Mod_Setting:VCA_Level",
+            "value": 1.0
+        },
+        {
+            "path": "/cmn/wt_name",
+            "str_value": "Wavetable32_12"
+        },
+        {
+            "path": "/daw/main/ninavst/Filter_Cal",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Mix_Vca_Cal",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Main_Vca_Cal",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Aftertouch",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Time_Rate",
+            "value": 0.25
+        },
+        {
+            "path": "/daw/main/ninavst/CV_Offset_4",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/CV_Gain_4",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/CV_Input_Mode_4",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Ex_Input_Mode",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Ex_Input_Gain",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Lfo_1_Tempo_Sync",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Lfo_2_Tempo_Sync",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Glide_Mode",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Write_Temps",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Reload_Cal",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/LFO_1_Sync_Rate",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/LFO_2_Sync_Rate",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/VCF_2_Pole_Mode",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Patch_Volume",
+            "value": 1.0
+        },
+        {
+            "path": "/daw/main/ninavst/Amp_Env_Drone",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Mod_LFO_1:OSC_2_Width",
+            "value": 1.0
+        },
+        {
+            "path": "/daw/main/ninavst/Mod_LFO_1:OSC_1_Width",
+            "value": 1.0
+        }
+    ],
+    "state_b": [
+        {
+            "path": "/daw/main/ninavst/VCO_1_Tune_Fine",
+            "value": 0.500109851360321
+        },
+        {
+            "path": "/daw/main/ninavst/VCO_1_Tune_Coarse",
+            "value": 0.5
+        },
+        {
+            "path": "/daw/main/ninavst/VCO_2_Tune_Fine",
+            "value": 0.49989014863967896
+        },
+        {
+            "path": "/daw/main/ninavst/VCO_2_Tune_Coarse",
+            "value": 0.5
+        },
+        {
+            "path": "/daw/main/ninavst/Wave_Tune_Fine",
+            "value": 0.50018310546875
+        },
+        {
+            "path": "/daw/main/ninavst/Wave_Tune_Coarse",
+            "value": 0.5
+        },
+        {
+            "path": "/daw/main/ninavst/WT_Select",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/LFO_Shape",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/VCF_Drive",
+            "value": 0.46846845746040344
+        },
+        {
+            "path": "/daw/main/ninavst/VCF_Overdrive",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/VCF_Key_Track",
+            "value": 1.0
+        },
+        {
+            "path": "/daw/main/ninavst/Glide",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Sub_Osc",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Hard_Sync",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Amp_Env_Velocity_Sense",
+            "value": 0.5
+        },
+        {
+            "path": "/daw/main/ninavst/Filt_Env_Velocity_Sense",
+            "value": 0.5
+        },
+        {
+            "path": "/daw/main/ninavst/Unison_Spread",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Key_Pitch_Offset",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/LFO_Slew",
+            "value": 1.0
+        },
+        {
+            "path": "/daw/main/ninavst/LFO_Retrigger",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/LFO_1_Rate",
+            "value": 0.27719181776046753
+        },
+        {
+            "path": "/daw/main/ninavst/LFO_1_Mod",
+            "value": 0.5
+        },
+        {
+            "path": "/daw/main/ninavst/Mod_Constant:LFO_2_Gain",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/VCO_1_Width",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/VCO_1_Blend",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Mix_VCO_1",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/VCO_2_Width",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/VCO_2_Blend",
+            "value": 1.0
+        },
+        {
+            "path": "/daw/main/ninavst/Mix_VCO_2",
+            "value": 1.0
+        },
+        {
+            "path": "/daw/main/ninavst/Wave_Shape",
+            "value": 0.7874093651771545
+        },
+        {
+            "path": "/daw/main/ninavst/Mix_Wave",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Mix_XOR",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/VCF_Cutoff",
+            "value": 1.0
+        },
+        {
+            "path": "/daw/main/ninavst/VCF_Resonance",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/VCF_Attack",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/VCF_Decay",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/VCF_Sustain",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/VCF_Release",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Mod_Constant:VCF_Level",
+            "value": 1.0
+        },
+        {
+            "path": "/daw/main/ninavst/VCA_Attack",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/VCA_Decay",
+            "value": 1.0
+        },
+        {
+            "path": "/daw/main/ninavst/VCA_Sustain",
+            "value": 1.0
+        },
+        {
+            "path": "/daw/main/ninavst/VCA_Release",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Mod_Constant:VCA_Level",
+            "value": 1.0
+        },
+        {
+            "path": "/daw/main/ninavst/Spin_Rate",
+            "value": 0.5
+        },
+        {
+            "path": "/daw/main/ninavst/Mod_LFO_1:OSC_2_Pitch",
+            "value": 0.5362557768821716
+        },
+        {
+            "path": "/daw/main/ninavst/Mod_LFO_1:OSC_3_Pitch",
+            "value": 0.5358163118362427
+        },
+        {
+            "path": "/daw/main/ninavst/Mod_LFO_1:Filter_Cutoff",
+            "value": 0.4983886182308197
+        },
+        {
+            "path": "/daw/main/ninavst/VCF_Env_Mod",
+            "value": 1.0
+        },
+        {
+            "path": "/daw/main/ninavst/Mod_Amp_Envelope:VCA_In",
+            "value": 1.0
+        },
+        {
+            "path": "/daw/main/ninavst/Mod_Key_Pitch:OSC_1_Pitch",
+            "value": 1.0
+        },
+        {
+            "path": "/daw/main/ninavst/Mod_Key_Pitch:OSC_2_Pitch",
+            "value": 1.0
+        },
+        {
+            "path": "/daw/main/ninavst/Mod_Key_Pitch:OSC_3_Pitch",
+            "value": 1.0
+        },
+        {
+            "path": "/daw/main/ninavst/Mod_Pan_Position:Pan",
+            "value": 0.625
+        },
+        {
+            "path": "/daw/main/ninavst/Main_Mute_L",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Main_Mute_R",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Tuning_Gain",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Pan_Number",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Pan_Mode",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/VCO_1_Tune_Octave",
+            "value": 0.20000000298023224
+        },
+        {
+            "path": "/daw/main/ninavst/VCO_1_Tune_Semitone",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/VCO_2_Tune_Octave",
+            "value": 0.4000000059604645
+        },
+        {
+            "path": "/daw/main/ninavst/VCO_2_Tune_Semitone",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/LFO_2_Shape",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/LFO_2_Slew",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/LFO_2_Retrigger",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Noise_Mode",
+            "value": 0.25
+        },
+        {
+            "path": "/daw/main/ninavst/VCA_unipolar_mode",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Spin_Reset",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Amp_Env_Reset",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Filt_Env_Reset",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Fine_Tune_Range",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Current_Morph_Value",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Mod_Modwheel:LFO_1_Gain",
+            "value": 1.0
+        },
+        {
+            "path": "/daw/main/ninavst/Mod_Modwheel:Filter_Cutoff",
+            "value": 0.587489902973175
+        },
+        {
+            "path": "/daw/main/ninavst/LFO_1_Gain",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/LFO_2_Rate",
+            "value": 0.5
+        },
+        {
+            "path": "/daw/main/ninavst/LFO_2_Gain",
+            "value": 0.5
+        },
+        {
+            "path": "/daw/main/ninavst/Mod_Setting:VCA_In",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Mod_Setting:Drive",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Mod_Setting:VCF_Level",
+            "value": 1.0
+        },
+        {
+            "path": "/daw/main/ninavst/Mod_Setting:VCA_Level",
+            "value": 1.0
+        },
+        {
+            "path": "/cmn/wt_name",
+            "str_value": "PWM_Inception"
+        },
+        {
+            "path": "/daw/main/ninavst/Filter_Cal",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Mix_Vca_Cal",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Main_Vca_Cal",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Aftertouch",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Time_Rate",
+            "value": 0.25
+        },
+        {
+            "path": "/daw/main/ninavst/CV_Offset_4",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/CV_Gain_4",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/CV_Input_Mode_4",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Ex_Input_Mode",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Ex_Input_Gain",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Lfo_1_Tempo_Sync",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Lfo_2_Tempo_Sync",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Glide_Mode",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Write_Temps",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Reload_Cal",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/LFO_1_Sync_Rate",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/LFO_2_Sync_Rate",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/VCF_2_Pole_Mode",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/main/ninavst/Patch_Volume",
+            "value": 1.0
+        },
+        {
+            "path": "/daw/main/ninavst/Amp_Env_Drone",
+            "value": 0.0
+        }
+    ],
+    "revision": 26
+}

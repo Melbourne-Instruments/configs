@@ -1,0 +1,12 @@
+[
+    { "name": "NINA Default",
+      "colour": "FF0000" },
+    { "name": "High Contrast",
+      "colour": "FFFFFF" },      
+    { "name": "Blue",
+      "colour": "00CCCC" },
+    { "name": "Pink",
+      "colour": "C0006F" },
+    { "name": "Green",
+      "colour": "33FF33" }           
+]

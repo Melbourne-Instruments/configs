@@ -1,0 +1,239 @@
+{
+    "host_config": {
+        "samplerate": 96000
+    },
+    "tracks": [
+        {
+            "name": "sampler track",
+            "mode": "multibus",
+            "input_busses": 3,
+            "output_busses": 1,
+            "inputs": [
+                {
+                    "engine_channel": 0,
+                    "track_channel": 0
+                },
+                {
+                    "engine_channel": 1,
+                    "track_channel": 1
+                },
+                {
+                    "engine_channel": 2,
+                    "track_channel": 2
+                },
+                {
+                    "engine_channel": 3,
+                    "track_channel": 3
+                },
+                {
+                    "engine_channel": 4,
+                    "track_channel": 4
+                },
+                {
+                    "engine_channel": 5,
+                    "track_channel": 5
+                }
+
+            ],
+            "outputs": [
+                 {
+                    "engine_channel": 0,
+                    "track_channel": 0
+                },
+                {
+                    "engine_channel": 1,
+                    "track_channel": 1
+                }
+            ],
+            "plugins": [
+                {
+                    "path": "/udata/sushi/synthia_vst.vst3",
+                    "name": "sampler",
+                    "type": "vst3x",
+                    "uid": "factory sampler"
+                }
+            ]
+        },
+        {
+            "name": "main",
+            "mode": "multibus",
+            "input_busses": 1,
+            "output_busses": 18,
+            "inputs": [
+                {
+                    "engine_channel": 7,
+                    "track_channel": 0
+                },
+                {
+                    "engine_channel": 8,
+                    "track_channel": 1
+                }
+            ],
+            "outputs": [
+                {
+                    "engine_channel": 2,
+                    "track_channel": 0
+                },
+                {
+                    "engine_channel": 5,
+                    "track_channel": 1
+                },
+                {
+                    "engine_channel": 8,
+                    "track_channel": 2
+                },
+                {
+                    "engine_channel": 11,
+                    "track_channel": 3
+                },
+                {
+                    "engine_channel": 14,
+                    "track_channel": 4
+                },
+                {
+                    "engine_channel": 17,
+                    "track_channel": 5
+                },
+                {
+                    "engine_channel": 20,
+                    "track_channel": 6
+                },
+                {
+                    "engine_channel": 23,
+                    "track_channel": 7
+                },
+                {
+                    "engine_channel": 26,
+                    "track_channel": 8
+                },
+                {
+                    "engine_channel": 29,
+                    "track_channel": 9
+                },
+                {
+                    "engine_channel": 32,
+                    "track_channel": 10
+                },
+                {
+                    "engine_channel": 35,
+                    "track_channel": 11
+                },
+                {
+                    "engine_channel": 3,
+                    "track_channel": 12
+                },
+                {
+                    "engine_channel": 4,
+                    "track_channel": 13
+                },
+                {
+                    "engine_channel": 6,
+                    "track_channel": 14
+                },
+                {
+                    "engine_channel": 7,
+                    "track_channel": 15
+                },
+                {
+                    "engine_channel": 9,
+                    "track_channel": 16
+                },
+                {
+                    "engine_channel": 10,
+                    "track_channel": 17
+                },
+                {
+                    "engine_channel": 12,
+                    "track_channel": 18
+                },
+                {
+                    "engine_channel": 13,
+                    "track_channel": 19
+                },
+                {
+                    "engine_channel": 15,
+                    "track_channel": 20
+                },
+                {
+                    "engine_channel": 16,
+                    "track_channel": 21
+                },
+                {
+                    "engine_channel": 18,
+                    "track_channel": 22
+                },
+                {
+                    "engine_channel": 19,
+                    "track_channel": 23
+                },
+                {
+                    "engine_channel": 21,
+                    "track_channel": 24
+                },
+                {
+                    "engine_channel": 22,
+                    "track_channel": 25
+                },
+                {
+                    "engine_channel": 24,
+                    "track_channel": 26
+                },
+                {
+                    "engine_channel": 25,
+                    "track_channel": 27
+                },
+                {
+                    "engine_channel": 27,
+                    "track_channel": 28
+                },
+                {
+                    "engine_channel": 28,
+                    "track_channel": 29
+                },
+                {
+                    "engine_channel": 30,
+                    "track_channel": 30
+                },
+                {
+                    "engine_channel": 31,
+                    "track_channel": 31
+                },
+                {
+                    "engine_channel": 33,
+                    "track_channel": 32
+                },
+                {
+                    "engine_channel": 34,
+                    "track_channel": 33
+                },
+                {
+                    "engine_channel": 36,
+                    "track_channel": 34
+                },
+                {
+                    "engine_channel": 37,
+                    "track_channel": 35
+                }
+            ],
+            "plugins": [
+                {
+                    "path": "/udata/sushi/synthia_vst.vst3",
+                    "name": "nina",
+                    "type": "vst3x",
+                    "uid": "factory test"
+                }
+            ]
+        }
+
+    ],
+    "midi": {
+        "track_connections": [
+            {
+                "port": 0,
+                "channel": "all",
+                "track": "main",
+                "raw_midi": false
+            }
+        ]
+    }
+}
