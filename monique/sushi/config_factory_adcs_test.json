@@ -1,0 +1,144 @@
+{
+    "host_config": {
+        "samplerate": 96000
+    },
+    "tracks": [
+        {
+            "name": "analog in",
+            "mode": "multibus",
+            "input_busses": 2,
+            "output_busses": 2,
+            "inputs": [
+
+                {
+                    "engine_channel": 0,
+                    "track_channel": 0
+                },
+                {
+                    "engine_channel": 3,
+                    "track_channel": 1
+                },
+
+                {
+                    "engine_channel": 2,
+                    "track_channel": 2
+                },
+                {
+                    "engine_channel": 4,
+                    "track_channel": 3
+                }
+            ],
+            "outputs": [
+                {
+                    "engine_channel": 8,
+                    "track_channel": 0
+                },
+                {
+                    "engine_channel": 11,
+                    "track_channel": 1
+                },
+                {
+                    "engine_channel": 14,
+                    "track_channel": 2
+                },
+                {
+                    "engine_channel": 17,
+                    "track_channel": 3
+                }
+            ],
+            "plugins": [
+                {
+                    "uid" : "sushi.testing.passthrough",
+                    "name" : "passthrough",
+                    "type" : "internal"
+                }
+            ]
+        },
+        {
+            "name": "main",
+            "mode": "multibus",
+            "input_busses": 0,
+            "output_busses": 7,
+            "inputs":[],
+            "outputs": [
+                {
+                    "engine_channel": 0,
+                    "track_channel": 0
+                },
+                {
+                    "engine_channel": 1,
+                    "track_channel": 1
+                },
+
+                {
+                    "engine_channel": 2,
+                    "track_channel": 2
+                },
+                {
+                    "engine_channel": 5,
+                    "track_channel": 3
+                },
+                {
+                    "engine_channel": 8,
+                    "track_channel": 4
+                },
+                {
+                    "engine_channel": 11,
+                    "track_channel": 5
+                },
+                {
+                    "engine_channel": 14,
+                    "track_channel": 6
+                },
+                {
+                    "engine_channel": 17,
+                    "track_channel": 7
+                },
+
+                {
+                    "engine_channel": 4,
+                    "track_channel": 8
+                },
+                {
+                    "engine_channel": 7,
+                    "track_channel": 9
+                },
+                {
+                    "engine_channel": 10,
+                    "track_channel": 10
+                },
+                {
+                    "engine_channel": 13,
+                    "track_channel": 11
+                },
+                {
+                    "engine_channel": 16,
+                    "track_channel": 12
+                },
+                {
+                    "engine_channel": 19,
+                    "track_channel": 13
+                }
+            ],
+            "plugins": [
+                {
+                    "path": "/home/root/monique/monique_vst.vst3",
+                    "name": "monique",
+                    "type": "vst3x",
+                    "uid": "factory test"
+                }
+            ]
+        }
+
+    ],
+    "midi": {
+        "track_connections": [
+            {
+                "port": 0,
+                "channel": "all",
+                "track": "main",
+                "raw_midi": false
+            }
+        ]
+    }
+}

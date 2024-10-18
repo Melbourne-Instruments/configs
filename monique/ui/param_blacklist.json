@@ -1,0 +1,5 @@
+[
+    {"param": "/daw/main/gain"},
+    {"param": "/daw/main/moniquevst/Tuning_Gain"},
+    {"param": "/daw/main/moniquevst/Current_Morph_Value"}
+]

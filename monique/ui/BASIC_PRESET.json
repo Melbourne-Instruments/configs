@@ -1,0 +1,1880 @@
+{
+    "version": "0.1.0",
+    "params": [
+        {
+            "path": "/seq/num_steps",
+            "value": 1.0
+        },
+        {
+            "path": "/seq/tempo_note_value",
+            "value": 0.0
+        },
+        {
+            "path": "/seq/hold",
+            "value": 0.0
+        },
+        {
+            "path": "/seq/step_1",
+            "str_value": "00FFFFFFFFFFFFFFFFFFFFFFFF"
+        },
+        {
+            "path": "/seq/step_2",
+            "str_value": "00FFFFFFFFFFFFFFFFFFFFFFFF"
+        },
+        {
+            "path": "/seq/step_3",
+            "str_value": "00FFFFFFFFFFFFFFFFFFFFFFFF"
+        },
+        {
+            "path": "/seq/step_4",
+            "str_value": "00FFFFFFFFFFFFFFFFFFFFFFFF"
+        },
+        {
+            "path": "/seq/step_5",
+            "str_value": "00FFFFFFFFFFFFFFFFFFFFFFFF"
+        },
+        {
+            "path": "/seq/step_6",
+            "str_value": "00FFFFFFFFFFFFFFFFFFFFFFFF"
+        },
+        {
+            "path": "/seq/step_7",
+            "str_value": "00FFFFFFFFFFFFFFFFFFFFFFFF"
+        },
+        {
+            "path": "/seq/step_8",
+            "str_value": "00FFFFFFFFFFFFFFFFFFFFFFFF"
+        },
+        {
+            "path": "/seq/step_9",
+            "str_value": "00FFFFFFFFFFFFFFFFFFFFFFFF"
+        },
+        {
+            "path": "/seq/step_10",
+            "str_value": "00FFFFFFFFFFFFFFFFFFFFFFFF"
+        },
+        {
+            "path": "/seq/step_11",
+            "str_value": "00FFFFFFFFFFFFFFFFFFFFFFFF"
+        },
+        {
+            "path": "/seq/step_12",
+            "str_value": "00FFFFFFFFFFFFFFFFFFFFFFFF"
+        },
+        {
+            "path": "/seq/step_13",
+            "str_value": "00FFFFFFFFFFFFFFFFFFFFFFFF"
+        },
+        {
+            "path": "/seq/step_14",
+            "str_value": "00FFFFFFFFFFFFFFFFFFFFFFFF"
+        },
+        {
+            "path": "/seq/step_15",
+            "str_value": "00FFFFFFFFFFFFFFFFFFFFFFFF"
+        },
+        {
+            "path": "/seq/step_16",
+            "str_value": "00FFFFFFFFFFFFFFFFFFFFFFFF"
+        },
+        {
+            "path": "/arp/enable",
+            "value": 0.0
+        },
+        {
+            "path": "/arp/dirmode",
+            "value": 0.0
+        },
+        {
+            "path": "/arp/tempo_note_value",
+            "value": 2.0
+        },
+        {
+            "path": "/arp/hold",
+            "value": 0.0
+        },
+        {
+            "path": "/syp/tempo_bpm",
+            "value": 120.0
+        },
+        {
+            "path": "/syp/seq_arp_midi_channel",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/delia/Layer_1_Num_Voices",
+            "value": 6.0
+        },
+        {
+            "path": "/daw/delia/Layer_2_Num_Voices",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/delia/FX_1_Type",
+            "value": 1.0
+        },
+        {
+            "path": "/daw/delia/FX_2_Type",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/delia/FX_1_Slot",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/delia/FX_2_Slot",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/delia/Chorus_Mode",
+            "value": 1.0
+        },
+        {
+            "path": "/daw/delia/Chorus_Level",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/delia/Delay_Time",
+            "value": 0.5063020586967468
+        },
+        {
+            "path": "/daw/delia/Delay_Feedback",
+            "value": 0.5322733521461487
+        },
+        {
+            "path": "/daw/delia/Delay_Level",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/delia/Delay_Filter",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/delia/Delay_Mode",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/delia/Reverb_Time",
+            "value": 0.48805201053619385
+        },
+        {
+            "path": "/daw/delia/Reverb_Preset",
+            "value": 4.0
+        },
+        {
+            "path": "/daw/delia/Reverb_Level",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/delia/Mod_Constant:FX_Send_Level",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/delia/Mod_Constant:FX_Macro_Level",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/delia/FX_Macro_Select",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/delia/Morph_Mode",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/delia/Delay_Time_Sync",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/delia/Delay_Sync",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/delia/Delay_Tone",
+            "value": 0.7949766516685486
+        },
+        {
+            "path": "/daw/delia/Reverb_Predelay",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/delia/Reverb_Tone",
+            "value": 0.24375133216381073
+        },
+        {
+            "path": "/daw/delia/Reverb_Shimmer",
+            "value": 0.0
+        },
+        {
+            "path": "/seq/mode",
+            "value": 0.0
+        },
+        {
+            "path": "/daw/delia/FX_1_Mix",
+            "value": 1.0
+        },
+        {
+            "path": "/daw/delia/FX_2_Mix",
+            "value": 1.0
+        },
+        {
+            "path": "/daw/delia/Mod_Offset:FX_Macro_Level",
+            "value": 0.0
+        },
+        {
+            "path": "/seq/phrase_quantisation",
+            "value": 0.0
+        },
+        {
+            "path": "/seq/phrase_beats_per_bar",
+            "value": 1.0
+        }         
+    ],
+    "layers": [
+        {
+            "layer_id": "d0",
+            "params": [
+                {
+                    "path": "/daw/delia/Split_Low_Note",
+                    "value": 0.0
+                },
+                {
+                    "path": "/daw/delia/Split_High_Note",
+                    "value": 127.0
+                },
+                {
+                    "path": "/daw/delia/Channel_Filter",
+                    "value": 0.0
+                },
+                {
+                    "path": "/daw/delia/Output_Routing",
+                    "value": 2.0
+                },
+                {
+                    "path": "/daw/delia/Layer_Volume",
+                    "value": 1.0
+                },
+                {
+                    "path": "/daw/delia/Octave_Offset",
+                    "value": 0.0
+                },
+                {
+                    "path": "/daw/delia/Midi_Mod_Src_1_Sel",
+                    "value": 70.0
+                },
+                {
+                    "path": "/daw/delia/Midi_Mod_Src_2_Sel",
+                    "value": 71.0
+                },
+                {
+                    "path": "/daw/delia/Ext_In_Gain",
+                    "value": 0.0
+                },
+                {
+                    "path": "/syp/cutoff_link",
+                    "value": 0.0
+                }
+            ],
+            "patch": {
+                "name": "INIT L1",
+                "common": [
+                    {
+                        "path": "/daw/delia/Morph",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Unison_Voices",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Pan_Num",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Poly_Mode",
+                        "value": 3.0
+                    },
+                    {
+                        "path": "/daw/delia/LFO_1_Tempo_Sync",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/LFO_2_Tempo_Sync",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/LFO_3_Tempo_Sync",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/WT_Interpolate",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Pitch_Bend_Range",
+                        "value": 7.0
+                    },
+                    {
+                        "path": "/daw/delia/Glide_Mode",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/LFO_1_Global",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/LFO_2_Global",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/LFO_3_Global",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Vintage_Level",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/12_Note_Mode",
+                        "value": 0.0
+                    }
+                ],
+                "state_a": [
+                    {
+                        "path": "/daw/delia/Osc_1_Fine_Tune",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Volume",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Glide_Time",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Osc_1_Coarse_Tune",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Osc_2_Coarse_Tune",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Osc_3_Coarse_Tune",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Osc_2_Fine_Tune",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Osc_3_Fine_Tune",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Sub_Osc_En",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Hard_Sync_En",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Amp_Eg_Vel",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Filt_Eg_Vel",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Aux_Eg_Vel",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Amp_Eg_Reset",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Aux_Eg_Reset",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Unison_Detune",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Offset",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Osc_4_Mode",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Osc_4_Tone",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Filter_LP_Mode",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Filter_HP_Mode",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Spin_Reset",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_1_Shape",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_2_Shape",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_3_Shape",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_1_Slew",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_2_Slew",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_3_Slew",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_1_Retrigger",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_2_Retrigger",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_3_Retrigger",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Key_Pitch:Osc_1_Pitch",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Key_Pitch:Osc_2_Pitch",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Key_Pitch:Osc_3_Pitch",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Osc_1_Level",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Filt_Eg_Lvl",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Amp_Eg_Sus",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Amp_Eg_Lvl",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Aux_Eg_Lvl",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Osc_1_Pitch",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Osc_1_Shape",
+                        "value": 0.333333333333333
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Osc_2_Pitch",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Osc_2_Shape",
+                        "value": 0.3333333333333333
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Osc_2_Level",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Osc_3_Pitch",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Osc_3_Shape",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Osc_3_Level",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Osc_4_Level",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Filter_LP_Cutoff",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Filter_LP_Resonance",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Filter_HP_Cutoff",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Filter_HP_Resonance",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:LFO_1_Rate",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:LFO_1_Gain",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:LFO_2_Rate",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:LFO_2_Gain",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:LFO_3_Rate",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:LFO_3_Gain",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Drive",
+                        "value": 0.45
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Filt_Eg_Att",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Filt_Eg_Dec",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Filt_Eg_Rel",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Filt_Eg_Sus",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Amp_Eg_Att",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Amp_Eg_Dec",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Amp_Eg_Rel",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Aux_Eg_Att",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Aux_Eg_Dec",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Aux_Eg_Rel",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Aux_Eg_Sus",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Spin",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Pan",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Morph",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/syp/wt_name",
+                        "str_value": "WT_80s_19"
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Filt_Env:Morph",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Filt_Eg_Reset",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Key_Pitch_Offset",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_1_Sync_Rate",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_2_Sync_Rate",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_3_Sync_Rate",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Filt_Eg:Filter_LP_Cutoff",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Aux_Eg_Slow",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_1_Unipolar",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_2_Unipolar",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_3_Unipolar",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Pan:Pan",
+                        "value": 0.25
+                    },
+                    {
+                        "path": "/daw/delia/LFO_1_Unipolar",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/LFO_2_Unipolar",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/LFO_3_Unipolar",
+                        "value": 0.0
+                    }
+                ],
+                "state_b": [
+                    {
+                        "path": "/daw/delia/Osc_1_Fine_Tune",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Volume",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Glide_Time",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Osc_1_Coarse_Tune",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Osc_2_Coarse_Tune",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Osc_3_Coarse_Tune",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Osc_2_Fine_Tune",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Osc_3_Fine_Tune",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Sub_Osc_En",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Hard_Sync_En",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Amp_Eg_Vel",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Filt_Eg_Vel",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Aux_Eg_Vel",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Amp_Eg_Reset",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Aux_Eg_Reset",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Unison_Detune",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Offset",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Osc_4_Mode",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Osc_4_Tone",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Filter_LP_Mode",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Filter_HP_Mode",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Spin_Reset",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_1_Shape",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_2_Shape",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_3_Shape",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_1_Slew",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_2_Slew",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_3_Slew",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_1_Retrigger",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_2_Retrigger",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_3_Retrigger",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Key_Pitch:Osc_1_Pitch",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Key_Pitch:Osc_2_Pitch",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Key_Pitch:Osc_3_Pitch",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Osc_1_Level",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Filt_Eg_Lvl",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Amp_Eg_Sus",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Amp_Eg_Lvl",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Aux_Eg_Lvl",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Osc_1_Pitch",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Osc_1_Shape",
+                        "value": 0.333333333333333
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Osc_2_Pitch",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Osc_2_Shape",
+                        "value": 0.3333333333333333
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Osc_2_Level",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Osc_3_Pitch",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Osc_3_Shape",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Osc_3_Level",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Osc_4_Level",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Filter_LP_Cutoff",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Filter_LP_Resonance",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Filter_HP_Cutoff",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Filter_HP_Resonance",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:LFO_1_Rate",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:LFO_1_Gain",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:LFO_2_Rate",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:LFO_2_Gain",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:LFO_3_Rate",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:LFO_3_Gain",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Drive",
+                        "value": 0.45
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Filt_Eg_Att",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Filt_Eg_Dec",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Filt_Eg_Rel",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Filt_Eg_Sus",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Amp_Eg_Att",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Amp_Eg_Dec",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Amp_Eg_Rel",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Aux_Eg_Att",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Aux_Eg_Dec",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Aux_Eg_Rel",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Aux_Eg_Sus",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Spin",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Pan",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Morph",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/syp/wt_name",
+                        "str_value": "WT_80s_19"
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Filt_Env:Morph",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Filt_Eg_Reset",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Key_Pitch_Offset",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_1_Sync_Rate",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_2_Sync_Rate",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_3_Sync_Rate",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Filt_Eg:Filter_LP_Cutoff",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Aux_Eg_Slow",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_1_Unipolar",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_2_Unipolar",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_3_Unipolar",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/LFO_1_Unipolar",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/LFO_2_Unipolar",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/LFO_3_Unipolar",
+                        "value": 0.0
+                    }
+                ]
+            }
+        },
+        {
+            "layer_id": "d1",
+            "params": [
+                {
+                    "path": "/daw/delia/Split_Low_Note",
+                    "value": 0.0
+                },
+                {
+                    "path": "/daw/delia/Split_High_Note",
+                    "value": 127.0
+                },
+                {
+                    "path": "/daw/delia/Channel_Filter",
+                    "value": 0.0
+                },
+                {
+                    "path": "/daw/delia/Output_Routing",
+                    "value": 2.0
+                },
+                {
+                    "path": "/daw/delia/Layer_Volume",
+                    "value": 1.0
+                },
+                {
+                    "path": "/daw/delia/Octave_Offset",
+                    "value": 0.0
+                },
+                {
+                    "path": "/daw/delia/Midi_Mod_Src_1_Sel",
+                    "value": 70.0
+                },
+                {
+                    "path": "/daw/delia/Midi_Mod_Src_2_Sel",
+                    "value": 71.0
+                },
+                {
+                    "path": "/daw/delia/Ext_In_Gain",
+                    "value": 0.0
+                },
+                {
+                    "path": "/syp/cutoff_link",
+                    "value": 0.0
+                }
+            ],
+            "patch": {
+                "name": "INIT L2",
+                "common": [
+                    {
+                        "path": "/daw/delia/Morph",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Unison_Voices",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Pan_Num",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Poly_Mode",
+                        "value": 3.0
+                    },
+                    {
+                        "path": "/daw/delia/LFO_1_Tempo_Sync",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/LFO_2_Tempo_Sync",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/LFO_3_Tempo_Sync",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/WT_Interpolate",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Pitch_Bend_Range",
+                        "value": 7.0
+                    },
+                    {
+                        "path": "/daw/delia/Glide_Mode",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/LFO_1_Global",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/LFO_2_Global",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/LFO_3_Global",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Vintage_Level",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/12_Note_Mode",
+                        "value": 0.0
+                    }
+                ],
+                "state_a": [
+                    {
+                        "path": "/daw/delia/Osc_1_Fine_Tune",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Volume",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Glide_Time",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Osc_1_Coarse_Tune",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Osc_2_Coarse_Tune",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Osc_3_Coarse_Tune",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Osc_2_Fine_Tune",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Osc_3_Fine_Tune",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Sub_Osc_En",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Hard_Sync_En",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Amp_Eg_Vel",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Filt_Eg_Vel",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Aux_Eg_Vel",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Amp_Eg_Reset",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Aux_Eg_Reset",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Unison_Detune",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Offset",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Osc_4_Mode",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Osc_4_Tone",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Filter_LP_Mode",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Filter_HP_Mode",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Spin_Reset",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_1_Shape",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_2_Shape",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_3_Shape",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_1_Slew",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_2_Slew",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_3_Slew",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_1_Retrigger",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_2_Retrigger",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_3_Retrigger",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Key_Pitch:Osc_1_Pitch",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Key_Pitch:Osc_2_Pitch",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Key_Pitch:Osc_3_Pitch",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Osc_1_Level",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Filt_Eg_Lvl",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Amp_Eg_Sus",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Amp_Eg_Lvl",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Aux_Eg_Lvl",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Osc_1_Pitch",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Osc_1_Shape",
+                        "value": 0.333333333333333
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Osc_2_Pitch",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Osc_2_Shape",
+                        "value": 0.3333333333333333
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Osc_2_Level",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Osc_3_Pitch",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Osc_3_Shape",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Osc_3_Level",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Osc_4_Level",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Filter_LP_Cutoff",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Filter_LP_Resonance",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Filter_HP_Cutoff",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Filter_HP_Resonance",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:LFO_1_Rate",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:LFO_1_Gain",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:LFO_2_Rate",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:LFO_2_Gain",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:LFO_3_Rate",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:LFO_3_Gain",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Drive",
+                        "value": 0.45
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Filt_Eg_Att",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Filt_Eg_Dec",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Filt_Eg_Rel",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Filt_Eg_Sus",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Amp_Eg_Att",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Amp_Eg_Dec",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Amp_Eg_Rel",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Aux_Eg_Att",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Aux_Eg_Dec",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Aux_Eg_Rel",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Aux_Eg_Sus",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Spin",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Pan",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Morph",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/syp/wt_name",
+                        "str_value": "WT_80s_19"
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Filt_Env:Morph",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Filt_Eg_Reset",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Key_Pitch_Offset",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_1_Sync_Rate",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_2_Sync_Rate",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_3_Sync_Rate",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Filt_Eg:Filter_LP_Cutoff",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Aux_Eg_Slow",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_1_Unipolar",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_2_Unipolar",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_3_Unipolar",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Pan:Pan",
+                        "value": 0.25
+                    },
+                    {
+                        "path": "/daw/delia/LFO_1_Unipolar",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/LFO_2_Unipolar",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/LFO_3_Unipolar",
+                        "value": 0.0
+                    }
+                ],
+                "state_b": [
+                    {
+                        "path": "/daw/delia/Osc_1_Fine_Tune",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Volume",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Glide_Time",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Osc_1_Coarse_Tune",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Osc_2_Coarse_Tune",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Osc_3_Coarse_Tune",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Osc_2_Fine_Tune",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Osc_3_Fine_Tune",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Sub_Osc_En",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Hard_Sync_En",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Amp_Eg_Vel",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Filt_Eg_Vel",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Aux_Eg_Vel",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Amp_Eg_Reset",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Aux_Eg_Reset",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Unison_Detune",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Offset",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Osc_4_Mode",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Osc_4_Tone",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Filter_LP_Mode",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Filter_HP_Mode",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Spin_Reset",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_1_Shape",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_2_Shape",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_3_Shape",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_1_Slew",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_2_Slew",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_3_Slew",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_1_Retrigger",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_2_Retrigger",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_3_Retrigger",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Key_Pitch:Osc_1_Pitch",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Key_Pitch:Osc_2_Pitch",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Key_Pitch:Osc_3_Pitch",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Osc_1_Level",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Filt_Eg_Lvl",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Amp_Eg_Sus",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Amp_Eg_Lvl",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Aux_Eg_Lvl",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Osc_1_Pitch",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Osc_1_Shape",
+                        "value": 0.333333333333333
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Osc_2_Pitch",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Osc_2_Shape",
+                        "value": 0.3333333333333333
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Osc_2_Level",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Osc_3_Pitch",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Osc_3_Shape",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Osc_3_Level",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Osc_4_Level",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Filter_LP_Cutoff",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Filter_LP_Resonance",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Filter_HP_Cutoff",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Filter_HP_Resonance",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:LFO_1_Rate",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:LFO_1_Gain",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:LFO_2_Rate",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:LFO_2_Gain",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:LFO_3_Rate",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:LFO_3_Gain",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Drive",
+                        "value": 0.45
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Filt_Eg_Att",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Filt_Eg_Dec",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Filt_Eg_Rel",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Filt_Eg_Sus",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Amp_Eg_Att",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Amp_Eg_Dec",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Amp_Eg_Rel",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Aux_Eg_Att",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Aux_Eg_Dec",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Aux_Eg_Rel",
+                        "value": 0.1
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Aux_Eg_Sus",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Spin",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Pan",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Constant:Morph",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/syp/wt_name",
+                        "str_value": "WT_80s_19"
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Filt_Env:Morph",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Filt_Eg_Reset",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Key_Pitch_Offset",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_1_Sync_Rate",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_2_Sync_Rate",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_3_Sync_Rate",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Mod_Filt_Eg:Filter_LP_Cutoff",
+                        "value": 1.0
+                    },
+                    {
+                        "path": "/daw/delia/Aux_Eg_Slow",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_1_Unipolar",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_2_Unipolar",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/Lfo_3_Unipolar",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/LFO_1_Unipolar",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/LFO_2_Unipolar",
+                        "value": 0.0
+                    },
+                    {
+                        "path": "/daw/delia/LFO_3_Unipolar",
+                        "value": 0.0
+                    }
+                ]
+            }
+        }
+    ],
+    "revision": 1
+}

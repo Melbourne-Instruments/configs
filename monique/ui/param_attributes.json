@@ -1,0 +1,2236 @@
+[
+    {
+        "param_path": "/daw/delia/Mod_\\w{1,}:Osc_1_Pitch",
+        "display_name": "OSC 1 Tune"
+    },
+    {
+        "param_path": "/daw/delia/Mod_\\w{1,}:Osc_1_Shape",
+        "display_name": "OSC 1 Shape"
+    },
+    {
+        "param_path": "/daw/delia/Mod_\\w{1,}:Osc_1_Level",
+        "display_name": "OSC 1 Level"
+    },
+    {
+        "param_path": "/daw/delia/Mod_\\w{1,}:Osc_2_Pitch",
+        "display_name": "OSC 2 Tune"
+    },
+    {
+        "param_path": "/daw/delia/Mod_\\w{1,}:Osc_2_Shape",
+        "display_name": "OSC 2 Shape"
+    },
+    {
+        "param_path": "/daw/delia/Mod_\\w{1,}:Osc_2_Level",
+        "display_name": "OSC 2 Level"
+    },    
+    {
+        "param_path": "/daw/delia/Mod_\\w{1,}:Osc_3_Pitch",
+        "display_name": "OSC 3 Tune"
+    },
+    {
+        "param_path": "/daw/delia/Mod_\\w{1,}:Osc_3_Shape",
+        "display_name": "OSC 3 Position"
+    },
+    {
+        "param_path": "/daw/delia/Mod_\\w{1,}:Osc_3_Level",
+        "display_name": "OSC 3 Level"
+    },
+    {
+        "param_path": "/daw/delia/Mod_\\w{1,}:Osc_4_Tone",
+        "display_name": "OSC 4 Tone"
+    },    
+    {
+        "param_path": "/daw/delia/Mod_\\w{1,}:Osc_4_Level",
+        "display_name": "OSC 4 Level"
+    },    
+    {
+        "param_path": "/daw/delia/Mod_\\w{1,}:LFO_1_Rate",
+        "display_name": "LFO 1 Rate"
+    },
+    {
+        "param_path": "/daw/delia/Mod_\\w{1,}:LFO_1_Gain",
+        "display_name": "LFO 1 Level"
+    },        
+    {
+        "param_path": "/daw/delia/Mod_\\w{1,}:LFO_2_Rate",
+        "display_name": "LFO 2 Rate"
+    },
+    {
+        "param_path": "/daw/delia/Mod_\\w{1,}:LFO_2_Gain",
+        "display_name": "LFO 2 Level"
+    },
+    {
+        "param_path": "/daw/delia/Mod_\\w{1,}:LFO_3_Rate",
+        "display_name": "LFO 3 Rate"
+    },
+    {
+        "param_path": "/daw/delia/Mod_\\w{1,}:LFO_3_Gain",
+        "display_name": "LFO 3 Level"
+    },
+    {
+        "param_path": "/daw/delia/Mod_\\w{1,}:Filter_LP_Cutoff",
+        "display_name": "Cutoff LP"
+    },    
+    {
+        "param_path": "/daw/delia/Mod_\\w{1,}:Filter_HP_Cutoff",
+        "display_name": "Cutoff HP"
+    },     
+    {
+        "param_path": "/daw/delia/Mod_\\w{1,}:Filter_LP_Resonance",
+        "display_name": "Resonance LP"
+    },
+    {
+        "param_path": "/daw/delia/Mod_\\w{1,}:Filter_HP_Resonance",
+        "display_name": "Resonance HP"
+    },
+    {
+        "param_path": "/daw/delia/Mod_\\w{1,}:Drive",
+        "display_name": "Drive"
+    },
+    {
+        "param_path": "/daw/delia/Mod_\\w{1,}:Filt_Eg_Att",
+        "display_name": "VCF EG Attack"
+    },
+    {
+        "param_path": "/daw/delia/Mod_\\w{1,}:Filt_Eg_Dec",
+        "display_name": "VCF EG Decay"
+    },
+    {
+        "param_path": "/daw/delia/Mod_\\w{1,}:Filt_Eg_Sus",
+        "display_name": "VCF EG Sustain"
+    },
+    {
+        "param_path": "/daw/delia/Mod_\\w{1,}:Filt_Eg_Rel",
+        "display_name": "VCF EG Release"
+    },
+    {
+        "param_path": "/daw/delia/Mod_\\w{1,}:Filt_Eg_Lvl",
+        "display_name": "VCF EG Level"
+    },
+    {
+        "param_path": "/daw/delia/Mod_\\w{1,}:Amp_Eg_Att",
+        "display_name": "VCA EG Attack"
+    },
+    {
+        "param_path": "/daw/delia/Mod_\\w{1,}:Amp_Eg_Dec",
+        "display_name": "VCA EG Decay"
+    },
+    {
+        "param_path": "/daw/delia/Mod_\\w{1,}:Amp_Eg_Sus",
+        "display_name": "VCA EG Sustain"
+    },
+    {
+        "param_path": "/daw/delia/Mod_\\w{1,}:Amp_Eg_Rel",
+        "display_name": "VCA EG Release"
+    },
+    {
+        "param_path": "/daw/delia/Mod_\\w{1,}:Amp_Eg_Lvl",
+        "display_name": "VCA EG Level"
+    },
+    {
+        "param_path": "/daw/delia/Mod_\\w{1,}:Aux_Eg_Att",
+        "display_name": "AUX EG Attack"
+    },
+    {
+        "param_path": "/daw/delia/Mod_\\w{1,}:Aux_Eg_Dec",
+        "display_name": "AUX EG Decay"
+    },
+    {
+        "param_path": "/daw/delia/Mod_\\w{1,}:Aux_Eg_Sus",
+        "display_name": "AUX EG Sustain"
+    },
+    {
+        "param_path": "/daw/delia/Mod_\\w{1,}:Aux_Eg_Rel",
+        "display_name": "AUX EG Release"
+    },
+    {
+        "param_path": "/daw/delia/Mod_\\w{1,}:Aux_Eg_Lvl",
+        "display_name": "AUX EG Level"
+    },
+    {
+        "param_path": "/daw/delia/Mod_\\w{1,}:FX_Macro_Level",
+        "display_name": "FX Macro Level"
+    },
+    {
+        "param_path": "/daw/delia/Mod_\\w{1,}:FX_Send_Level",
+        "display_name": "FX Send Level"
+    },
+    {
+        "param_path": "/daw/delia/Mod_\\w{1,}:Dummy_FX_Macro",
+        "preset": false
+    },
+    {
+        "param_path": "/daw/delia/Mod_\\w{1,}:Dummy_FX_Send",
+        "preset": false
+    },
+    {
+        "param_path": "/daw/delia/Mod_\\w{1,}:Spin",
+        "display_name": "Spin"
+    },
+    {
+        "param_path": "/daw/delia/Mod_\\w{1,}:Pan",
+        "display_name": "Pan"
+    },
+    {
+        "param_path": "/daw/delia/Mod_Key_Vel:Filt_Eg_Lvl",
+        "preset": false
+    },
+    {
+        "param_path": "/daw/delia/Mod_Key_Vel:Amp_Eg_Lvl",
+        "preset": false
+    },         
+    {
+        "param_path": "/daw/delia/Mod_Key_Vel:Aux_Eg_Lvl",
+        "preset": false
+    },    
+    {
+        "param_path": "/daw/delia/Mod_\\w{1,}:Morph",
+        "display_name": "Morph",
+        "state_a_only_param": true
+    },
+    {
+        "param_path": "/daw/delia/Mod_Constant:Morph",
+        "preset": false
+    }, 
+    {
+        "param_path": "/daw/delia/Mod_\\w{1,}:\\w{1,}",
+        "display_min_value": -100,
+        "display_max_value": 100,
+        "display_decimal_places": 1
+    },
+    {
+        "param_path": "/daw/delia/Filt_Eg_Vel",
+        "display_name": "VCF EG Level",
+        "display_min_value": -100,
+        "display_max_value": 100,
+        "display_decimal_places": 1,
+        "param_list": "param_list_key_vel_mod"
+    },
+    {
+        "param_path": "/daw/delia/Amp_Eg_Vel",
+        "display_name": "VCA EG Level",
+        "display_min_value": -100,
+        "display_max_value": 100,
+        "display_decimal_places": 1,
+        "param_list": "param_list_key_vel_mod"
+    },
+    {
+        "param_path": "/daw/delia/Aux_Eg_Vel",
+        "display_name": "AUX EG Level",
+        "display_min_value": -100,
+        "display_max_value": 100,
+        "display_decimal_places": 1,
+        "param_list": "param_list_key_vel_mod"
+    },    
+    {
+        "param_path": "/daw/delia/Mod_Constant:\\w{1,}",
+        "display_min_value": 0,
+        "display_max_value": 100,
+        "display_decimal_places": 1
+    },       
+    {
+        "param_path": "/daw/delia/Osc_1_Fine_Tune",
+        "display_name": "OSC 1 Tune",
+        "ref": "OSC_1_Fine_Tune",
+        "haptic_mode": "300_deg_with_top_indent",
+        "display_min_value": -700,
+        "display_max_value": 700,
+        "display_decimal_places": 0,
+        "value_tag": "Cents",        
+        "param_list": "param_list_osc_1"
+    },
+    {
+        "param_path": "/daw/delia/Mod_Constant:Osc_1_Pitch",
+        "preset": false
+    },    
+    {
+        "param_path": "/daw/delia/WT_Interpolate",
+        "display_name": "Interpolate",
+        "num_positions": 2,
+        "value_strings": [
+            {"string": "Off"},
+            {"string": "On"}
+        ],
+        "display_enum_list": false,
+        "param_list": "param_list_osc_3"
+    },    
+    {
+        "param_path": "/daw/delia/Vintage_Level",
+        "display_min_value": 0,
+        "display_max_value": 100,
+        "display_decimal_places": 1,
+        "param_list": "param_list_patch"
+    },       
+    {
+        "param_path": "/daw/delia/12_Note_Mode",
+        "ref": "12_Note_Mode",
+        "num_positions": 5,
+        "value_strings": [
+            {"string": "OFF"},
+            {"string": "ON Time Rtrig"},
+            {"string": "ON Time Based "},
+            {"string": "ON Dist Rtrig "},
+            {"string": "ON Dist Based"}
+        ],
+        "param_list": "param_list_patch"
+    },    
+    {
+        "param_path": "/daw/delia/Osc_1_Coarse_Tune",
+        "display_name": "OSC 1 Octave",
+        "num_positions": 5,
+        "display_min_value": -2,
+        "display_max_value": 2,
+        "value_tags": [
+            {"string": "32'"},
+            {"string": "16'"},
+            {"string": "8'"},
+            {"string": "4'"},
+            {"string": "2'"}
+        ],
+        "display_enum_list": false,
+        "param_list": "param_list_osc_1"
+    },    
+    {
+        "param_path": "/daw/delia/Mod_Constant:Osc_1_Shape",
+        "display_name": "OSC 1 Shape",
+        "ref": "OSC_1_Shape",
+        "param_list": "param_list_osc_1"
+    },
+    {
+        "param_path": "/daw/delia/Mod_Constant:Osc_1_Level",
+        "display_name": "OSC 1 Level",
+        "ref": "OSC_1_Level",
+        "param_list": "param_list_osc_1"
+    },
+    {
+        "param_path": "/daw/delia/Sub_Osc_En",
+        "display_name": "Sub Osc",
+        "num_positions" : 2,
+        "value_strings": [
+			{ "string": "Off" },
+            { "string": "On" }
+		],
+        "display_enum_list": false,
+        "param_list": "param_list_osc_1"
+    },    
+    {
+        "param_path": "/daw/delia/Osc_2_Fine_Tune",
+        "display_name": "OSC 2 Tune",
+        "ref": "OSC_2_Fine_Tune",
+        "haptic_mode": "300_deg_with_top_indent",
+        "display_min_value": -700,
+        "display_max_value": 700,
+        "display_decimal_places": 0,
+        "value_tag": "Cents",           
+        "param_list": "param_list_osc_2"
+    },
+    {
+        "param_path": "/daw/delia/Mod_Constant:Osc_2_Pitch",
+        "preset": false
+    },    
+    {
+        "param_path": "/daw/delia/Osc_2_Coarse_Tune",
+        "display_name": "OSC 2 Octave",
+        "num_positions": 5,
+        "display_min_value": -2,
+        "display_max_value": 2,
+        "value_tags": [
+            {"string": "32'"},
+            {"string": "16'"},
+            {"string": "8'"},
+            {"string": "4'"},
+            {"string": "2'"}
+        ],
+        "display_enum_list": false,
+        "param_list": "param_list_osc_2"
+    },
+    {
+        "param_path": "/daw/delia/Mod_Constant:Osc_2_Shape",
+        "display_name": "OSC 2 Shape",
+        "ref": "OSC_2_Shape",
+        "param_list": "param_list_osc_2"
+    },
+    {
+        "param_path": "/daw/delia/Mod_Constant:Osc_2_Level",
+        "display_name": "OSC 2 Level",
+        "ref": "OSC_2_Level",
+        "param_list": "param_list_osc_2"
+    },
+    {
+        "param_path": "/daw/delia/Hard_Sync_En",
+        "display_name": "Hard Sync",
+        "num_positions" : 2,
+        "value_strings": [
+			{ "string": "Off" },
+            { "string": "On" }
+		],
+        "display_enum_list": false,
+        "param_list": "param_list_osc_2"
+    },    
+    {
+        "param_path": "/daw/delia/WT_Select",
+        "save": false,
+        "ref": "WT_Select",
+        "display_name": "Wave",
+        "param_list": "param_list_osc_3"        
+    },
+    {
+        "param_path": "/daw/delia/Osc_3_Fine_Tune",
+        "display_name": "OSC 3 Tune",
+        "ref": "OSC_3_Fine_Tune",
+        "haptic_mode": "300_deg_with_top_indent",
+        "display_min_value": -700,
+        "display_max_value": 700,
+        "display_decimal_places": 0,
+        "value_tag": "Cents",          
+        "param_list": "param_list_osc_3"
+    },
+    {
+        "param_path": "/daw/delia/Mod_Constant:Osc_3_Pitch",
+        "preset": false
+    },    
+    {
+        "param_path": "/daw/delia/Osc_3_Coarse_Tune",
+        "display_name": "OSC 3 Octave",
+        "num_positions": 5,
+        "display_min_value": -2,
+        "display_max_value": 2,
+        "value_tags": [
+            {"string": "32'"},
+            {"string": "16'"},
+            {"string": "8'"},
+            {"string": "4'"},
+            {"string": "2'"}
+        ],
+        "display_enum_list": false,
+        "param_list": "param_list_osc_3"
+    },
+    {
+        "param_path": "/daw/delia/Mod_Constant:Osc_3_Shape",
+        "display_name": "OSC 3 Position",
+        "ref": "OSC_3_Pos",
+        "param_list": "param_list_osc_3"
+    },
+    {
+        "param_path": "/daw/delia/Mod_Constant:Osc_3_Level",
+        "display_name": "OSC 3 Level",
+        "ref": "OSC_3_Level",
+        "param_list": "param_list_osc_3"
+    },
+    {
+        "param_path": "/daw/delia/Osc_4_Mode",
+        "display_name": "OSC 4 Type",
+        "ref": "OSC_4_Noise_Mode",
+        "num_positions": 5,
+        "value_strings" :[
+            {"string": "Noise"},
+            {"string": "XOR"},
+            {"string": "Ext 1"},
+            {"string": "Ext 2"},
+            {"string": "Loop"}
+        ],
+        "display_enum_list": false,
+        "param_list": "param_list_osc_4"
+    },    
+    {
+        "param_path": "/daw/delia/Mod_Constant:Osc_4_Tone",
+        "display_name": "OSC 4 Tone",
+        "param_list": "param_list_osc_4"
+    },    
+    {
+        "param_path": "/daw/delia/Mod_Constant:Osc_4_Level",
+        "display_name": "OSC 4 Level",
+        "param_list": "param_list_osc_4"
+    },    
+    {
+        "param_path": "/daw/delia/Mod_Constant:LFO_1_Rate",
+        "display_name": "LFO 1 Rate",
+        "ref": "LFO_1_Rate",
+        "param_list": "param_list_lfo_1"
+    },
+    {
+        "param_path": "/daw/delia/Lfo_1_Sync_Rate",
+        "display_name": "LFO 1 Sync Rate",
+        "ref": "LFO_1_Sync_Rate",
+        "num_positions" : 16,
+        "display_enum_list": false,
+        "display_as_numeric": true,
+        "value_strings" :[
+            {"string": "0.125"},
+            {"string": "0.25"},
+            {"string": "0.5"},
+            {"string": "1D"},
+            {"string": "1"},
+            {"string": "2D"},
+            {"string": "2"},
+            {"string": "4D"},
+            {"string": "4"},
+            {"string": "8D"},
+            {"string": "8"},
+            {"string": "8T"},
+            {"string": "16"},
+            {"string": "16T"},
+            {"string": "32"},
+            {"string": "32T"}
+        ],
+        "param_list": "param_list_lfo_1"
+    },     
+    {
+        "param_path": "/daw/delia/Mod_Constant:LFO_1_Gain",
+        "display_name": "LFO 1 Level",
+        "param_list": "param_list_lfo_1"
+    },
+    {
+        "param_path": "/daw/delia/Lfo_1_Shape",
+        "display_name": "LFO 1 Shape",
+        "ref": "LFO_1_Shape",
+        "num_positions": 6,
+        "value_strings": [
+			{ "string": "Sine" },
+            { "string": "Triangle" },
+            { "string": "Square" },
+            { "string": "Ramp Up" },
+            { "string": "Ramp Down" },
+            { "string": "Random" }
+		],
+        "param_list": "param_list_lfo_1"
+    },
+    {
+        "param_path": "/daw/delia/Lfo_1_Slew",
+        "display_name": "LFO 1 Slew",
+        "ref": "LFO_1_Slew",
+        "param_list": "param_list_lfo_1"
+    },    
+    {
+        "param_path": "/daw/delia/Lfo_1_Retrigger",
+        "display_name": "LFO 1 Retrigger",
+        "num_positions" : 2,
+        "value_strings" :[
+            {"string": "Off"},
+            {"string": "On"}
+        ],
+        "display_enum_list": false,
+        "param_list": "param_list_lfo_1"
+    },
+    {
+        "param_path": "/daw/delia/LFO_1_Unipolar",
+        "display_name": "LFO 1 Polarity",
+        "num_positions" : 2,
+        "value_strings" :[
+            {"string": "Bipolar"},
+            {"string": "Unipolar"}
+        ],
+        "display_enum_list": false,
+        "param_list": "param_list_lfo_1"
+    },
+    {
+        "param_path": "/daw/delia/LFO_1_Tempo_Sync",
+        "ref": "LFO_1_Tempo_Sync",
+        "display_name": "LFO 1 Tempo Sync",
+        "num_positions" : 2,
+        "value_strings" :[
+            {"string": "Off"},
+            {"string": "On"}
+        ],
+        "display_enum_list": false,
+        "param_list": "param_list_lfo_1"
+    },    
+    {
+        "param_path": "/daw/delia/LFO_1_Global",
+        "num_positions" : 2,
+        "value_strings" :[
+            {"string": "Off"},
+            {"string": "On"}
+        ],
+        "display_enum_list": false,
+        "param_list": "param_list_lfo_1"
+    },    
+    {
+        "param_path": "/daw/delia/LFO_2_Global",
+        "num_positions" : 2,
+        "value_strings" :[
+            {"string": "Off"},
+            {"string": "On"}
+        ],
+        "display_enum_list": false,
+        "param_list": "param_list_lfo_2"
+    },    
+    {
+        "param_path": "/daw/delia/LFO_3_Global",
+        "num_positions" : 2,
+        "value_strings" :[
+            {"string": "Off"},
+            {"string": "On"}
+        ],
+        "display_enum_list": false,
+        "param_list": "param_list_lfo_3"
+    },    
+    {
+        "param_path": "/daw/delia/Mod_Constant:LFO_2_Rate",
+        "display_name": "LFO 2 Rate",
+        "ref": "LFO_2_Rate",
+        "param_list": "param_list_lfo_2"
+    },
+    {
+        "param_path": "/daw/delia/Lfo_2_Sync_Rate",
+        "display_name": "LFO 2 Sync Rate",
+        "ref": "LFO_2_Sync_Rate",
+        "num_positions" : 16,
+        "display_enum_list": false,
+        "display_as_numeric": true,
+        "value_strings" :[
+            {"string": "0.125"},
+            {"string": "0.25"},
+            {"string": "0.5"},
+            {"string": "1D"},
+            {"string": "1"},
+            {"string": "2D"},
+            {"string": "2"},
+            {"string": "4D"},
+            {"string": "4"},
+            {"string": "8D"},
+            {"string": "8"},
+            {"string": "8T"},
+            {"string": "16"},
+            {"string": "16T"},
+            {"string": "32"},
+            {"string": "32T"}
+        ],
+        "param_list": "param_list_lfo_2"
+    },     
+    {
+        "param_path": "/daw/delia/Mod_Constant:LFO_2_Gain",
+        "display_name": "LFO 2 Level",
+        "param_list": "param_list_lfo_2"
+    },
+    {
+        "param_path": "/daw/delia/Lfo_2_Shape",
+        "display_name": "LFO 2 Shape",
+        "ref": "LFO_2_Shape",
+        "num_positions": 6,
+        "value_strings": [
+			{ "string": "Sine" },
+            { "string": "Triangle" },
+            { "string": "Square" },
+            { "string": "Ramp Up" },
+            { "string": "Ramp Down" },
+            { "string": "Random" }
+		],
+        "param_list": "param_list_lfo_2"
+    },
+    {
+        "param_path": "/daw/delia/Lfo_2_Slew",
+        "display_name": "LFO 2 Slew",
+        "ref": "LFO_2_Slew",
+        "param_list": "param_list_lfo_2"
+    },          
+    {
+        "param_path": "/daw/delia/LFO_2_Unipolar",
+        "display_name": "LFO 2 Polarity",
+        "num_positions" : 2,
+        "value_strings" :[
+            {"string": "Bipolar"},
+            {"string": "Unipolar"}
+        ],
+        "display_enum_list": false,
+        "param_list": "param_list_lfo_2"
+    },
+    {
+        "param_path": "/daw/delia/Lfo_2_Retrigger",
+        "display_name": "LFO 2 Retrigger",
+        "num_positions" : 2,
+        "value_strings" :[
+            {"string": "Off"},
+            {"string": "On"}
+        ],
+        "display_enum_list": false,
+        "param_list": "param_list_lfo_1"
+    },
+    {
+        "param_path": "/daw/delia/LFO_2_Tempo_Sync",
+        "ref": "LFO_2_Tempo_Sync",
+        "display_name": "LFO 2 Tempo Sync",
+        "num_positions" : 2,
+        "value_strings" :[
+            {"string": "Off"},
+            {"string": "On"}
+        ],
+        "display_enum_list": false,
+        "param_list": "param_list_lfo_2"
+    },     
+    {
+        "param_path": "/daw/delia/Mod_Constant:LFO_3_Rate",
+        "display_name": "LFO 3 Rate",
+        "ref": "LFO_3_Rate",
+        "param_list": "param_list_lfo_3"
+    },
+    {
+        "param_path": "/daw/delia/Lfo_3_Sync_Rate",
+        "display_name": "LFO 3 Sync Rate",
+        "ref": "LFO_3_Sync_Rate",
+        "num_positions" : 16,
+        "display_enum_list": false,
+        "display_as_numeric": true,
+        "value_strings" :[
+            {"string": "0.125"},
+            {"string": "0.25"},
+            {"string": "0.5"},
+            {"string": "1D"},
+            {"string": "1"},
+            {"string": "2D"},
+            {"string": "2"},
+            {"string": "4D"},
+            {"string": "4"},
+            {"string": "8D"},
+            {"string": "8"},
+            {"string": "8T"},
+            {"string": "16"},
+            {"string": "16T"},
+            {"string": "32"},
+            {"string": "32T"}
+        ],
+        "param_list": "param_list_lfo_3"
+    },     
+    {
+        "param_path": "/daw/delia/Mod_Constant:LFO_3_Gain",
+        "display_name": "LFO 3 Level",
+        "param_list": "param_list_lfo_3"
+    },
+    {
+        "param_path": "/daw/delia/Lfo_3_Shape",
+        "display_name": "LFO 3 Shape",
+        "ref": "LFO_3_Shape",
+        "num_positions": 6,
+        "value_strings": [
+			{ "string": "Sine" },
+            { "string": "Triangle" },
+            { "string": "Square" },
+            { "string": "Ramp Up" },
+            { "string": "Ramp Down" },
+            { "string": "Random" }
+		],
+        "param_list": "param_list_lfo_3"
+    },
+    {
+        "param_path": "/daw/delia/Lfo_3_Slew",
+        "display_name": "LFO 3 Slew",
+        "ref": "LFO_3_Slew",
+        "param_list": "param_list_lfo_3"
+    },         
+    {
+        "param_path": "/daw/delia/LFO_3_Unipolar",
+        "display_name": "LFO 3 Polarity",
+        "num_positions" : 2,
+        "value_strings" :[
+            {"string": "Bipolar"},
+            {"string": "Unipolar"}
+        ],
+        "display_enum_list": false,
+        "param_list": "param_list_lfo_3"
+    },
+    {
+        "param_path": "/daw/delia/Lfo_3_Retrigger",
+        "display_name": "LFO 3 Retrigger",
+        "num_positions" : 2,
+        "value_strings" :[
+            {"string": "Off"},
+            {"string": "On"}
+        ],
+        "display_enum_list": false,
+        "param_list": "param_list_lfo_1"
+    },
+    {
+        "param_path": "/daw/delia/LFO_3_Tempo_Sync",
+        "ref": "LFO_3_Tempo_Sync",
+        "display_name": "LFO 3 Tempo Sync",
+        "num_positions" : 2,
+        "value_strings" :[
+            {"string": "Off"},
+            {"string": "On"}
+        ],
+        "display_enum_list": false,
+        "param_list": "param_list_lfo_3"
+    },     
+    {
+        "param_path": "/daw/delia/Mod_Constant:Filter_LP_Resonance",
+        "ref": "Filter_LP_Resonance",
+        "display_name": "Resonance LP",
+        "param_list": "param_list_vcf"
+    },
+    {
+        "param_path": "/daw/delia/Mod_Constant:Filter_HP_Resonance",
+        "ref": "Filter_HP_Resonance",
+        "display_name": "Resonance HP",
+        "param_list": "param_list_vcf"
+    }, 
+    {
+        "param_path": "/daw/delia/Mod_Constant:Filter_LP_Cutoff",
+        "display_name": "Cutoff LP",
+        "param_list": "param_list_vcf"
+    },
+    {
+        "param_path": "/daw/delia/Mod_Constant:Filter_HP_Cutoff",
+        "ref": "Filter_HP_Cutoff",
+        "display_name": "Cutoff HP",
+        "param_list": "param_list_vcf"
+    },   
+    {
+        "param_path": "/daw/delia/Filter_LP_Mode",
+        "ref": "Filter_LP_Mode",
+        "display_name": "Slope",
+        "num_positions" : 2,
+        "value_strings" :[
+            {"string": "12"},
+            {"string": "24"}
+        ],
+        "display_enum_list": false,
+        "value_tag": "dB",
+        "param_list": "param_list_vcf"
+    }, 
+    {
+        "param_path": "/daw/delia/Mod_Constant:Drive",
+        "display_name": "Drive",
+        "param_list": "param_list_vcf"
+    },            
+    {
+        "param_path": "/daw/delia/Mod_Constant:Filt_Eg_Att",
+        "display_name": "VCF EG Attack",
+        "ref": "VCF_Env_Attack",
+        "param_list": "param_list_vcf_eg"
+    },    
+    {
+        "param_path": "/daw/delia/Mod_Constant:Filt_Eg_Dec",
+        "display_name": "VCF EG Decay",       
+        "param_list": "param_list_vcf_eg"
+    },    
+    {
+        "param_path": "/daw/delia/Mod_Constant:Filt_Eg_Sus",
+        "display_name": "VCF EG Sustain",      
+        "param_list": "param_list_vcf_eg"
+    },    
+    {
+        "param_path": "/daw/delia/Mod_Constant:Filt_Eg_Rel",
+        "display_name": "VCF EG Release",       
+        "param_list": "param_list_vcf_eg"
+    },
+    {
+        "param_path": "/daw/delia/Filt_Eg_Reset",
+        "ref": "VCF_EG_Reset",
+        "display_name": "VCF EG Reset",
+        "num_positions" : 2,
+        "value_strings" :[
+            {"string": "Off"},
+            {"string": "On"}
+        ],
+        "display_enum_list": false,
+        "param_list": "param_list_vcf_eg"
+    },
+    {
+        "param_path": "/daw/delia/Mod_Constant:Filt_Eg_Lvl",
+        "display_name": "VCF EG Level",
+        "param_list": "param_list_vcf_eg"
+    },    
+    {
+        "param_path": "/daw/delia/Mod_Constant:Amp_Eg_Att",
+        "display_name": "VCA EG Attack",
+        "ref": "VCA_Env_Attack",
+        "param_list": "param_list_vca_eg"
+    },    
+    {
+        "param_path": "/daw/delia/Mod_Constant:Amp_Eg_Dec",
+        "display_name": "VCA EG Decay",       
+        "param_list": "param_list_vca_eg"
+    },    
+    {
+        "param_path": "/daw/delia/Mod_Constant:Amp_Eg_Sus",
+        "display_name": "VCA EG Sustain",      
+        "param_list": "param_list_vca_eg"
+    },    
+    {
+        "param_path": "/daw/delia/Mod_Constant:Amp_Eg_Rel",
+        "display_name": "VCA EG Release",       
+        "param_list": "param_list_vca_eg"
+    },    
+    {
+        "param_path": "/daw/delia/Amp_Eg_Reset",
+        "ref": "VCA_EG_Reset",
+        "display_name": "VCA EG Reset",
+        "num_positions" : 2,
+        "value_strings" :[
+            {"string": "Off"},
+            {"string": "On"}
+        ],
+        "display_enum_list": false,
+        "param_list": "param_list_vca_eg"
+    },
+    {
+        "param_path": "/daw/delia/Mod_Constant:Amp_Eg_Lvl",
+        "display_name": "VCA EG Level",
+        "param_list": "param_list_vca_eg"
+    },            
+    {
+        "param_path": "/daw/delia/Mod_Constant:Aux_Eg_Att",
+        "display_name": "AUX EG Attack",
+        "ref": "AUX_Env_Attack",
+        "param_list": "param_list_aux_eg"
+    },    
+    {
+        "param_path": "/daw/delia/Mod_Constant:Aux_Eg_Dec",
+        "display_name": "AUX EG Decay",       
+        "param_list": "param_list_aux_eg"
+    },    
+    {
+        "param_path": "/daw/delia/Mod_Constant:Aux_Eg_Sus",
+        "display_name": "AUX EG Sustain",      
+        "param_list": "param_list_aux_eg"
+    },    
+    {
+        "param_path": "/daw/delia/Mod_Constant:Aux_Eg_Rel",
+        "display_name": "AUX EG Release",       
+        "param_list": "param_list_aux_eg"
+    },
+    {
+        "param_path": "/daw/delia/Aux_Eg_Reset",
+        "ref": "AUX_EG_Reset",
+        "display_name": "AUX EG Reset",
+        "num_positions" : 2,
+        "value_strings" :[
+            {"string": "Off"},
+            {"string": "On"}
+        ],
+        "display_enum_list": false,
+        "param_list": "param_list_aux_eg"
+    },    
+    {
+        "param_path": "/daw/delia/Aux_Eg_Slow",
+        "display_name": "Slow Mode",
+        "num_positions" : 2,
+        "value_strings" :[
+            {"string": "Off"},
+            {"string": "On"}
+        ],
+        "display_enum_list": false,
+        "param_list": "param_list_aux_eg"
+    },    
+    {
+        "param_path": "/daw/delia/Mod_Constant:Aux_Eg_Lvl",
+        "display_name": "AUX EG Level",
+        "param_list": "param_list_aux_eg"
+    },
+    {
+        "param_path": "/daw/delia/Morph",
+        "ref": "Morph_Value",
+        "display_name": "Morph Position",
+        "param_list": "param_list_morph"
+    },
+    {
+        "param_path": "/daw/delia/Morph_Mode",
+        "ref": "Morph_Mode",
+        "display_name": "Morph Mode",
+        "num_positions" : 2,
+        "value_strings" :[
+            {"string": "Dance"},
+            {"string": "DJ"}
+        ],
+        "display_enum_list": false,
+        "param_list": "param_list_patch"  
+    },    
+    {
+        "param_path": "/daw/delia/Morphing",
+        "preset": false
+    },
+    {
+        "param_path": "/daw/delia/State",
+        "ref": "State",
+        "preset": false
+    },    
+    {
+        "param_path": "/daw/delia/Glide_Time",
+        "ref": "Glide",
+        "display_name": "Glide",
+        "param_list": "param_list_glide"
+    },
+    {
+        "param_path": "/daw/delia/Glide_Mode",
+        "ref": "Glide_Mode",
+        "display_name": "Glide Type",
+        "num_positions": 3,
+        "value_strings": [
+			{ "string": "Logarithmic" },
+			{ "string": "Linear" },
+			{ "string": "Legato Linear" }
+        ],
+        "param_list": "param_list_glide"
+    },    
+    {
+		"param_path": "/daw/delia/Selected_Layer",
+        "ref": "Selected_Layer",
+        "preset": false        
+    },    
+    {
+        "param_path": "/daw/delia/Layer_1_Num_Voices",
+        "ref": "Layer_1_Num_Voices",
+        "display_name": "Layer Voices",
+        "num_positions": 6,
+        "display_min_value": 1,
+        "display_max_value": 6,
+        "display_enum_list": false,
+        "param_list": "param_list_multi"
+    },
+    {
+        "param_path": "/daw/delia/Layer_2_Num_Voices",
+        "ref": "Layer_2_Num_Voices",
+        "display_name": "Layer Voices",
+        "num_positions": 6,
+        "display_min_value": 0,
+        "display_max_value": 5,
+        "display_enum_list": false,
+        "param_list": "param_list_multi"
+    },    
+    {
+		"param_path": "/daw/delia/Channel_Filter",
+        "ref": "Midi_Channel_Filter",
+        "display_name": "MIDI Channel",
+        "num_positions": 17,
+        "display_min_value": 0,
+        "display_max_value": 16,        
+        "display_enum_list": false,
+        "param_list": "param_list_multi",
+        "value_tags": [
+            {"string": "Omni"},
+            {"string": ""}
+        ]
+    },
+    {
+		"param_path": "/daw/delia/Layer_Volume",
+        "display_name": "Volume",
+        "display_decimal_places": 1,
+        "param_list": "param_list_multi"
+    },
+    {
+		"param_path": "/daw/delia/Split_Low_Note",
+        "ref": "Midi_Low_Note_Filter",
+        "display_name": "Low Note",
+        "num_positions": 128,
+        "display_min_value": 0,
+        "display_max_value": 127,
+        "display_enum_list": false,
+        "param_list": "param_list_multi",
+        "value_tags": [
+            {"string": "C-1"},
+            {"string": "C#-1"},
+            {"string": "D-1"},
+            {"string": "D#-1"},
+            {"string": "E-1"},
+            {"string": "F-1"},
+            {"string": "F#-1"},
+            {"string": "G-1"},
+            {"string": "G#-1"},
+            {"string": "A0"},
+            {"string": "A#0"},
+            {"string": "B0"},
+            {"string": "C0"},
+            {"string": "C#0"},
+            {"string": "D0"},
+            {"string": "D#0"},
+            {"string": "E0"},
+            {"string": "F0"},
+            {"string": "F#0"},
+            {"string": "G0"},
+            {"string": "G#0"},
+            {"string": "A1"},
+            {"string": "A#1"},
+            {"string": "B1"},
+            {"string": "C1"},
+            {"string": "C#1"},
+            {"string": "D1"},
+            {"string": "D#1"},
+            {"string": "E1"},
+            {"string": "F1"},
+            {"string": "F#1"},
+            {"string": "G1"},
+            {"string": "G#1"},
+            {"string": "A2"},
+            {"string": "A#2"},
+            {"string": "B2"},
+            {"string": "C2"},
+            {"string": "C#2"},
+            {"string": "D2"},
+            {"string": "D#2"},
+            {"string": "E2"},
+            {"string": "F2"},
+            {"string": "F#2"},
+            {"string": "G2"},
+            {"string": "G#2"},
+            {"string": "A3"},
+            {"string": "A#3"},
+            {"string": "B3"},
+            {"string": "C3"},
+            {"string": "C#3"},
+            {"string": "D3"},
+            {"string": "D#3"},
+            {"string": "E3"},
+            {"string": "F3"},
+            {"string": "F#3"},
+            {"string": "G3"},
+            {"string": "G#3"},
+            {"string": "A4"},
+            {"string": "A#4"},
+            {"string": "B4"},
+            {"string": "C4"},
+            {"string": "C#4"},
+            {"string": "D4"},
+            {"string": "D#4"},
+            {"string": "E4"},
+            {"string": "F4"},
+            {"string": "F#4"},
+            {"string": "G4"},
+            {"string": "G#4"},
+            {"string": "A5"},
+            {"string": "A#5"},
+            {"string": "B5"},
+            {"string": "C5"},
+            {"string": "C#5"},
+            {"string": "D5"},
+            {"string": "D#5"},
+            {"string": "E5"},
+            {"string": "F5"},
+            {"string": "F#5"},
+            {"string": "G5"},
+            {"string": "G#5"},
+            {"string": "A6"},
+            {"string": "A#6"},
+            {"string": "B6"},
+            {"string": "C6"},
+            {"string": "C#6"},
+            {"string": "D6"},
+            {"string": "D#6"},
+            {"string": "E6"},
+            {"string": "F6"},
+            {"string": "F#6"},
+            {"string": "G6"},
+            {"string": "G#6"},
+            {"string": "A7"},
+            {"string": "A#7"},
+            {"string": "B7"},
+            {"string": "C7"},
+            {"string": "C#7"},
+            {"string": "D7"},
+            {"string": "D#7"},
+            {"string": "E7"},
+            {"string": "F7"},
+            {"string": "F#7"},
+            {"string": "G7"},
+            {"string": "G#7"},
+            {"string": "A8"},
+            {"string": "A#8"},
+            {"string": "B8"},
+            {"string": "C8"},
+            {"string": "C#8"},
+            {"string": "D8"},
+            {"string": "D#8"},
+            {"string": "E8"},
+            {"string": "F8"},
+            {"string": "F#8"},
+            {"string": "G8"},
+            {"string": "G#8"},
+            {"string": "A9"},
+            {"string": "A#9"},
+            {"string": "B9"},
+            {"string": "C9"},
+            {"string": "C#9"},
+            {"string": "D9"},
+            {"string": "D#9"},
+            {"string": "E9"},
+            {"string": "F9"},
+            {"string": "F#9"},
+            {"string": "G9"}
+        ]
+    },
+    {
+		"param_path": "/daw/delia/Split_High_Note",
+        "ref": "Midi_High_Note_Filter",
+        "display_name": "High Note",
+        "num_positions": 128,
+        "display_min_value": 0,
+        "display_max_value": 127,
+        "display_enum_list": false,
+        "param_list": "param_list_multi",
+        "value_tags": [
+            {"string": "C-1"},
+            {"string": "C#-1"},
+            {"string": "D-1"},
+            {"string": "D#-1"},
+            {"string": "E-1"},
+            {"string": "F-1"},
+            {"string": "F#-1"},
+            {"string": "G-1"},
+            {"string": "G#-1"},
+            {"string": "A0"},
+            {"string": "A#0"},
+            {"string": "B0"},
+            {"string": "C0"},
+            {"string": "C#0"},
+            {"string": "D0"},
+            {"string": "D#0"},
+            {"string": "E0"},
+            {"string": "F0"},
+            {"string": "F#0"},
+            {"string": "G0"},
+            {"string": "G#0"},
+            {"string": "A1"},
+            {"string": "A#1"},
+            {"string": "B1"},
+            {"string": "C1"},
+            {"string": "C#1"},
+            {"string": "D1"},
+            {"string": "D#1"},
+            {"string": "E1"},
+            {"string": "F1"},
+            {"string": "F#1"},
+            {"string": "G1"},
+            {"string": "G#1"},
+            {"string": "A2"},
+            {"string": "A#2"},
+            {"string": "B2"},
+            {"string": "C2"},
+            {"string": "C#2"},
+            {"string": "D2"},
+            {"string": "D#2"},
+            {"string": "E2"},
+            {"string": "F2"},
+            {"string": "F#2"},
+            {"string": "G2"},
+            {"string": "G#2"},
+            {"string": "A3"},
+            {"string": "A#3"},
+            {"string": "B3"},
+            {"string": "C3"},
+            {"string": "C#3"},
+            {"string": "D3"},
+            {"string": "D#3"},
+            {"string": "E3"},
+            {"string": "F3"},
+            {"string": "F#3"},
+            {"string": "G3"},
+            {"string": "G#3"},
+            {"string": "A4"},
+            {"string": "A#4"},
+            {"string": "B4"},
+            {"string": "C4"},
+            {"string": "C#4"},
+            {"string": "D4"},
+            {"string": "D#4"},
+            {"string": "E4"},
+            {"string": "F4"},
+            {"string": "F#4"},
+            {"string": "G4"},
+            {"string": "G#4"},
+            {"string": "A5"},
+            {"string": "A#5"},
+            {"string": "B5"},
+            {"string": "C5"},
+            {"string": "C#5"},
+            {"string": "D5"},
+            {"string": "D#5"},
+            {"string": "E5"},
+            {"string": "F5"},
+            {"string": "F#5"},
+            {"string": "G5"},
+            {"string": "G#5"},
+            {"string": "A6"},
+            {"string": "A#6"},
+            {"string": "B6"},
+            {"string": "C6"},
+            {"string": "C#6"},
+            {"string": "D6"},
+            {"string": "D#6"},
+            {"string": "E6"},
+            {"string": "F6"},
+            {"string": "F#6"},
+            {"string": "G6"},
+            {"string": "G#6"},
+            {"string": "A7"},
+            {"string": "A#7"},
+            {"string": "B7"},
+            {"string": "C7"},
+            {"string": "C#7"},
+            {"string": "D7"},
+            {"string": "D#7"},
+            {"string": "E7"},
+            {"string": "F7"},
+            {"string": "F#7"},
+            {"string": "G7"},
+            {"string": "G#7"},
+            {"string": "A8"},
+            {"string": "A#8"},
+            {"string": "B8"},
+            {"string": "C8"},
+            {"string": "C#8"},
+            {"string": "D8"},
+            {"string": "D#8"},
+            {"string": "E8"},
+            {"string": "F8"},
+            {"string": "F#8"},
+            {"string": "G8"},
+            {"string": "G#8"},
+            {"string": "A9"},
+            {"string": "A#9"},
+            {"string": "B9"},
+            {"string": "C9"},
+            {"string": "C#9"},
+            {"string": "D9"},
+            {"string": "D#9"},
+            {"string": "E9"},
+            {"string": "F9"},
+            {"string": "F#9"},
+            {"string": "G9"}
+        ]
+    },
+    {
+        "param_path": "/daw/delia/Output_Routing",
+        "display_name": "Output Routing",
+        "num_positions" : 3,
+        "value_strings" :[
+            {"string": "1"},
+            {"string": "2"},
+            {"string": "1-2"}
+        ],
+        "param_list": "param_list_multi"
+    },
+    {
+		"param_path": "/daw/delia/Octave_Offset",
+        "ref": "Octave_Offset",
+        "display_name": "Octave Offset",
+        "num_positions": 5,
+        "display_min_value" : -2,
+        "display_max_value" : 2,
+        "display_enum_list": false,
+        "param_list": "param_list_multi"
+    },
+    {
+        "param_path": "/daw/delia/Midi_Mod_Src_1_Sel",
+        "ref": "Midi_Mod_Src_1_Sel",
+        "display_name": "MIDI CC1 MOD Src",
+        "num_positions": 128,
+        "display_min_value": 0,
+        "display_max_value": 127,
+        "display_enum_list": false,
+        "param_list": "param_list_multi"
+    },
+    {
+        "param_path": "/daw/delia/Midi_Mod_Src_2_Sel",
+        "ref": "Midi_Mod_Src_2_Sel",
+        "display_name": "MIDI CC2 MOD Src",
+        "num_positions": 128,
+        "display_min_value": 0,
+        "display_max_value": 127,
+        "display_enum_list": false,
+        "param_list": "param_list_multi"
+    },
+    {
+        "param_path": "/daw/delia/Ext_In_Gain",
+        "display_decimal_places": 1,      
+        "param_list": "param_list_multi"
+    },          
+    {
+        "param_path": "/daw/delia/Unison_Voices",
+        "display_name": "Unison Voices",
+        "ref": "Unison_Voices",
+        "num_positions": 6,
+        "display_min_value": 1,
+        "display_max_value": 6,
+        "display_enum_list": false,
+        "param_list": "param_list_patch"
+    },
+    {
+        "param_path": "/daw/delia/Unison_Detune",
+        "display_name": "Unison Detune",
+        "param_list": "param_list_patch"
+    },
+    {
+        "param_path": "/daw/delia/Pan_Num",
+        "display_name": "Panner Positions",
+        "num_positions": 6,
+        "display_min_value": 1,
+        "display_max_value": 6,
+        "display_enum_list": false,
+        "value_tags": [
+            {"string": "OFF"},
+            {"string": ""}
+        ],
+        "param_list": "param_list_patch"
+    },       
+    {
+        "param_path": "/daw/delia/Poly_Mode",
+        "num_positions" : 4,
+        "value_strings" :[
+            {"string": "Auto Low"},
+            {"string": "Legato"},
+            {"string": "Mono Retrigger"},
+            {"string": "Poly"}
+        ],
+        "param_list": "param_list_patch"
+    },
+    {
+        "param_path": "/daw/delia/Pitch_Bend_Range",
+        "num_positions" : 13,
+        "display_min_value": 0,
+        "display_max_value": 12,
+        "display_enum_list": false,
+        "value_tag": "semitones",   
+        "param_list": "param_list_patch"
+    },     
+    {
+		"param_path": "/daw/delia/Spin_Reset",
+        "display_name": "Spin Retrigger",
+        "num_positions" : 2,
+        "value_strings" :[
+            {"string": "Off"},
+            {"string": "On"}
+        ],
+        "display_enum_list": false,
+        "param_list": "param_list_patch"
+    },    
+    {
+        "param_path": "/syp/tempo_bpm",
+        "display_min_value": 20,
+        "display_max_value": 240,
+        "display_decimal_places": 1,
+        "value_tag": "BPM",       
+        "param_list": "param_list_tempo"
+    },   
+    {
+        "param_path": "/daw/delia/Chorus_Mode",
+        "num_positions" : 3,
+        "value_strings" :[
+            {"string": "I"},
+            {"string": "II"},
+            {"string": "I + II"}
+        ],
+        "param_list": "param_list_fx1"
+    },       
+    {
+        "param_path": "/daw/delia/Delay_Feedback",
+        "display_decimal_places": 1,    
+        "param_list": "param_list_fx1"
+    },
+    {
+        "param_path": "/daw/delia/Delay_Time",
+        "display_decimal_places": 1,    
+        "param_list": "param_list_fx1"
+    },
+    {
+        "param_path": "/daw/delia/Delay_Filter",
+        "display_decimal_places": 1,    
+        "param_list": "param_list_fx1"
+    },
+    {
+        "param_path": "/daw/delia/Delay_Time_Sync",
+        "num_positions" : 16,
+        "display_enum_list": true,
+        "display_as_numeric": true,
+        "value_strings" :[
+            {"string": "0.125"},
+            {"string": "0.25"},
+            {"string": "0.5"},
+            {"string": "1D"},
+            {"string": "1"},
+            {"string": "2D"},
+            {"string": "2"},
+            {"string": "4D"},
+            {"string": "4"},
+            {"string": "8D"},
+            {"string": "8"},
+            {"string": "8T"},
+            {"string": "16"},
+            {"string": "16T"},
+            {"string": "32"},
+            {"string": "32T"}
+        ],
+        "param_list": "param_list_fx1"
+    },
+    {
+        "param_path": "/daw/delia/Delay_Sync",
+        "num_positions" : 2,
+        "value_strings" :[
+            {"string": "Off"},
+            {"string": "On"}
+        ],
+        "display_enum_list": false,
+        "param_list": "param_list_fx1"
+    },
+    {
+        "param_path": "/daw/delia/Delay_Tone",
+        "display_decimal_places": 1,    
+        "param_list": "param_list_fx1"
+    },                
+    {
+        "param_path": "/daw/delia/Reverb_Time",
+        "display_decimal_places": 1,    
+        "param_list": "param_list_fx1"
+    },    
+    {
+		"param_path": "/daw/delia/Reverb_Preset" ,
+        "num_positions" : 5,
+        "value_strings" :[
+            {"string": "room"},
+            {"string": "plate 1"},
+            {"string": "plate 2"},
+            {"string": "hall 1"},
+            {"string": "hall 2"}
+        ],
+        "param_list": "param_list_fx1"
+    },
+    {
+        "param_path": "/daw/delia/Reverb_Predelay",
+        "display_decimal_places": 1,    
+        "param_list": "param_list_fx1"
+    },
+    {
+        "param_path": "/daw/delia/Reverb_Early_Mix",
+        "display_decimal_places": 1,    
+        "param_list": "param_list_fx1"
+    },
+    {
+        "param_path": "/daw/delia/Reverb_Tone",
+        "display_decimal_places": 1,    
+        "param_list": "param_list_fx1"
+    },
+    {
+        "param_path": "/daw/delia/Reverb_Shimmer",
+        "display_decimal_places": 1,    
+        "param_list": "param_list_fx1"
+    },                    
+    {
+        "param_path": "/daw/delia/FX_1_Type",
+        "ref": "FX_1_Type",
+        "display_name": "Type",
+        "num_positions" : 4,
+        "value_strings" :[
+            {"string": "None"},
+            {"string": "Chorus"},
+            {"string": "Delay"},
+            {"string": "Reverb"}
+        ],
+        "param_list": "param_list_fx1"
+    },
+    {
+        "param_path": "/daw/delia/FX_2_Type",
+        "ref": "FX_2_Type",
+        "display_name": "Type",
+        "num_positions" : 4,
+        "value_strings" :[
+            {"string": "None"},
+            {"string": "Chorus"},
+            {"string": "Delay"},
+            {"string": "Reverb"}
+        ],
+        "param_list": "param_list_fx2"
+    },
+    {
+        "param_path": "/daw/delia/FX_1_Slot",
+        "display_name": "Slot",
+        "num_positions" : 2,
+        "value_strings" :[
+            {"string": "1"},
+            {"string": "2"}
+        ],
+        "display_enum_list": false,
+        "param_list": "param_list_fx1"
+    },
+    {
+        "param_path": "/daw/delia/FX_2_Slot",
+        "display_name": "Slot",
+        "num_positions" : 2,
+        "value_strings" :[
+            {"string": "1"},
+            {"string": "2"}
+        ],
+        "display_enum_list": false,
+        "param_list": "param_list_fx2"
+    },
+    {
+        "param_path": "/daw/delia/FX_1_Mix",
+        "display_name": "FX 1 Mix",
+        "display_decimal_places": 1,
+        "param_list": "param_list_fx1"
+    },
+    {
+        "param_path": "/daw/delia/FX_2_Mix",
+        "display_name": "FX 2 Mix",
+        "display_decimal_places": 1,
+        "param_list": "param_list_fx2"
+    },                  
+    {
+        "param_path": "/daw/delia/Mod_Constant:FX_Macro_Level",
+        "preset": false,        
+        "ref": "FX_Macro_Level"
+    },
+    {
+        "param_path": "/daw/delia/Mod_Constant:FX_Send_Level",
+        "param_list": "param_list_fx1"
+    },    
+    {
+        "param_path": "/daw/delia/FX_Macro_Select",
+        "ref": "FX_Macro_Select",
+        "param_list": "param_list_fx1"
+    },
+    {
+        "param_path": "/daw/delia/Midi_Pitch_Bend",
+        "ref": "MIDI_Pitch_Bend",
+        "preset": false
+    },   
+    {
+        "param_path": "/daw/delia/Midi_Aftertouch",
+        "ref": "MIDI_Aftertouch",
+        "preset": false
+    },   
+    {
+        "param_path": "/daw/delia/Midi_Modwheel",
+        "ref": "MIDI_Modwheel",
+        "preset": false
+    },   
+    {
+        "param_path": "/daw/delia/Midi_Sustain",
+        "ref": "Midi_Sustain",
+        "preset": false
+    },
+    {
+        "param_path": "/daw/delia/Midi_Expression",
+        "ref": "Midi_Expression",
+        "preset": false
+    },
+    {
+        "param_path": "/daw/delia/MIDI_CC_1_Mod_Source",
+        "ref": "MIDI_CC_1_Mod_Source",
+        "preset": false
+    },
+    {
+        "param_path": "/daw/delia/MIDI_CC_2_Mod_Source",
+        "ref": "MIDI_CC_2_Mod_Source",
+        "preset": false
+    },    
+    {
+        "param_path": "/syp/midi_clk_in",
+        "display_name": "MIDI Clock In",
+        "num_positions": 2,
+        "value_strings": [
+            {"string": "Off"},
+            {"string": "On"}
+        ],
+        "display_enum_list": false,
+        "param_list": "param_list_global_settings"
+    },
+    {
+        "param_path": "/syp/midi_echo_filter",
+        "display_name": "MIDI Echo Filter",
+        "num_positions": 3,
+        "value_strings": [
+            {"string": "No Filter"},
+            {"string": "Echo Filter"},
+            {"string": "Filter All"}
+		],
+        "param_list": "param_list_global_settings"
+    },    
+    {
+        "param_path": "/daw/delia/Master_Tune",
+        "display_min_value": -200,
+        "display_max_value": 200,
+        "value_tag": "Cents",
+        "param_list": "param_list_global_settings"
+    },   
+    {
+        "param_path": "/syp/kbd_midi_channel",
+        "display_name": "KBD MIDI Channel",
+        "num_positions": 17,
+        "display_min_value": 0,
+        "display_max_value": 16,        
+        "display_enum_list": false,
+        "value_tags": [
+            {"string": "Local"},
+            {"string": ""}
+        ],       
+        "param_list": "param_list_global_settings"
+    },
+    {
+        "param_path": "/syp/at_sensitivity",
+        "display_name": "AT Sensitivity",
+        "num_positions": 16,
+        "display_enum_list": false,
+        "display_as_numeric": true,
+        "value_strings" :[
+            {"string": "0.5"},
+            {"string": "0.6"},
+            {"string": "0.7"},
+            {"string": "0.8"},
+            {"string": "0.9"},
+            {"string": "1.0"},
+            {"string": "1.1"},
+            {"string": "1.2"},
+            {"string": "1.3"},
+            {"string": "1.4"},
+            {"string": "1.5"},
+            {"string": "1.6"},
+            {"string": "1.7"},
+            {"string": "1.8"},
+            {"string": "1.9"},
+            {"string": "2.0"}
+        ],
+        "param_list": "param_list_global_settings"
+    },
+    {
+        "param_path": "/daw/delia/CV_1_Offset",
+        "display_decimal_places": 1,
+        "display_min_value": -100,
+        "display_max_value": 100,
+        "haptic_mode": "300_deg_with_top_indent",
+        "param_list": "param_list_global_settings"
+    },   
+    {
+        "param_path": "/daw/delia/CV_1_Gain",
+        "display_decimal_places": 1,
+        "display_min_value": -100,
+        "display_max_value": 100,
+        "haptic_mode": "300_deg_with_top_indent",
+        "param_list": "param_list_global_settings"
+    },   
+    {
+        "param_path": "/daw/delia/CV_1_Mode",
+        "num_positions" : 4,
+        "value_strings" :[
+            {"string": "-10:10"},
+            {"string": "0:10"},
+            {"string": "-5:5"},
+            {"string": "0:5"}
+        ],
+        "param_list": "param_list_global_settings"
+    },   
+    {
+        "param_path": "/daw/delia/CV_2_Offset",
+        "display_decimal_places": 1,
+        "display_min_value": -100,
+        "display_max_value": 100,
+        "haptic_mode": "300_deg_with_top_indent",
+        "param_list": "param_list_global_settings"
+    },   
+    {
+        "param_path": "/daw/delia/CV_2_Gain",
+        "display_decimal_places": 1,
+        "display_min_value": -100,
+        "display_max_value": 100,
+        "haptic_mode": "300_deg_with_top_indent",
+        "param_list": "param_list_global_settings"
+    },   
+    {
+        "param_path": "/daw/delia/CV_2_Mode",
+        "num_positions" : 4,
+        "value_strings" :[
+            {"string": "-10:10"},
+            {"string": "0:10"},
+            {"string": "-5:5"},
+            {"string": "0:5"}
+        ],
+        "param_list": "param_list_global_settings"
+    },
+    {
+        "param_path": "/syp/sustain_polarity",
+        "display_name": "Sustain Polarity",
+        "num_positions": 2,
+        "value_strings": [
+            {"string": "Normal"},
+            {"string": "Inverted"}
+        ],
+        "display_enum_list": false,
+        "param_list": "param_list_global_settings"
+    },    
+    {
+        "param_path": "/daw/delia/Run_Filter_Cal",
+        "preset": false
+    },     
+    {
+        "param_path": "/daw/delia/Run_VCA_Cal",
+        "preset": false
+    },
+    {
+        "param_path": "/daw/delia/Run_DC_Cal",
+        "preset": false
+    },
+    {
+        "param_path": "/daw/delia/Run_DC_OD_Cal",
+        "preset": false
+    },        
+    {
+        "param_path": "/daw/delia/Reload_Cal",
+        "preset": false
+    },        
+    {
+        "param_path": "/daw/delia/DEBUG_1",
+        "preset": false
+    },     
+    {
+        "param_path": "/daw/delia/Metronome_Trigger",
+        "ref": "Metronome_Trigger",
+        "preset": false
+    },
+    {
+        "param_path": "/daw/delia/All_Notes_Off",
+        "ref": "All_Notes_Off",
+        "preset": false
+    },        
+    {
+        "param_path": "/syp/seq_arp_midi_channel",
+        "display_name": "MIDI Channel",
+        "num_positions": 17,
+        "display_min_value": 0,
+        "display_max_value": 16,        
+        "display_enum_list": false,
+        "value_tags": [
+            {"string": "Omni"},
+            {"string": ""}
+        ],
+        "param_list": "param_list_seq"
+    },
+    {
+        "param_path": "/seq/mode",
+        "num_positions" : 2,
+        "value_strings" :[
+            {"string": "Step"},
+            {"string": "Phrase Looper"}
+        ],
+        "param_list": "param_list_seq"
+    },    
+    {
+        "param_path": "/seq/num_steps",
+        "display_name": "Num Steps",
+        "num_positions": 16,
+        "display_min_value": 1,
+        "display_max_value": 16,
+        "display_enum_list": false,
+        "param_list": "param_list_seq"
+    },      
+    {
+        "param_path": "/seq/hold",
+        "num_positions" : 2,
+        "value_strings" :[
+            {"string": "Off"},
+            {"string": "On"}
+        ],
+        "display_enum_list": false,
+        "param_list": "param_list_seq"
+    },    
+    {
+        "param_path": "/seq/tempo_note_value",
+        "display_name": "Note Value",
+        "num_positions": 8,
+        "value_strings": [
+            { "string": "1/4" },
+            { "string": "1/8" },
+            { "string": "1/16" },
+            { "string": "1/32" },
+            { "string": "1/4T" },
+            { "string": "1/8T" },
+            { "string": "1/16T" },
+            { "string": "1/32T" }
+        ],
+        "param_list": "param_list_seq"
+    },
+    {
+        "param_path": "/seq/phrase_quantisation",
+        "display_name": "Quantisation",
+        "num_positions" : 9,
+        "value_strings" :[
+            {"string": "None"},
+            { "string": "1/4" },
+            { "string": "1/8" },
+            { "string": "1/16" },
+            { "string": "1/32" },
+            { "string": "1/4T" },
+            { "string": "1/8T" },
+            { "string": "1/16T" },
+            { "string": "1/32T" }
+        ],
+        "param_list": "param_list_seq"
+    },
+    {
+        "param_path": "/seq/phrase_beats_per_bar",
+        "display_name": "Beats Per Bar",
+        "num_positions": 5,
+        "value_strings": [
+            { "string": "None" },
+            { "string": "4" },
+            { "string": "3" },
+            { "string": "2" },
+            { "string": "5" }
+        ],
+        "param_list": "param_list_seq"
+    },                 
+    {
+        "param_path": "/syf/seq_reset",
+        "display_name": "Reset",
+        "param_list": "param_list_seq"
+    },     
+    {
+        "param_path": "/arp/enable",
+        "display_name": "Enable",
+        "num_positions": 2,
+        "value_strings": [
+            { "string": "Off" },
+            { "string": "On" }
+        ],
+        "display_enum_list": false,
+        "param_list": "param_list_arp"
+    },      
+    {
+        "param_path": "/arp/dirmode",
+        "display_name": "Dir Mode",
+        "num_positions": 5,
+        "value_strings": [
+            { "string": "Up" },
+            { "string": "Down" },
+            { "string": "Up-down" },
+            { "string": "Random" },
+            { "string": "Assigned" }
+        ],
+        "param_list": "param_list_arp"
+    },    
+    {
+        "param_path": "/arp/hold",
+        "display_name": "Hold",
+        "num_positions" : 2,
+        "value_strings" :[
+            {"string": "Off"},
+            {"string": "On"}
+        ],
+        "display_enum_list": false,
+        "param_list": "param_list_arp"
+    },        
+    {
+        "param_path": "/arp/tempo_note_value",
+        "display_name": "Note Value",
+        "num_positions": 8,
+        "value_strings": [
+            { "string": "1/4" },
+            { "string": "1/8" },
+            { "string": "1/16" },
+            { "string": "1/32" },
+            { "string": "1/4T" },
+            { "string": "1/8T" },
+            { "string": "1/16T" },
+            { "string": "1/32T" }
+        ],
+        "param_list": "param_list_arp"
+    },
+    {
+		"param_path": "/daw/delia/All_Notes_Off",
+        "ref": "All_Notes_Off",
+        "preset": false       
+    },    
+    {
+        "param_path": "/syp/patch_name",
+        "display_name": "Name",
+        "param_list": "param_list_patch"
+    },    
+    {
+        "param_path": "/syp/system_colour",
+        "display_name": "System Color",
+        "param_list": "param_list_global_settings"
+    },
+    {
+        "param_path": "/syf/reset_global_settings",
+        "display_name": "Reset to Factory",
+        "param_list": "param_list_global_settings"
+    },     
+    {
+        "param_path": "/daw/delia/Mod_Key_Pitch:\\w{1,}",
+        "param_list": "param_list_key_pitch_mod"
+    },
+    {
+        "param_path": "/daw/delia/Mod_Key_Pitch:Pan",
+        "param_list": "param_list_key_pitch_mod_additional"
+    },    
+    {
+        "param_path": "/daw/delia/Mod_Key_Pitch:Spin",
+        "param_list": "param_list_key_pitch_mod_additional"
+    },    
+    {
+        "param_path": "/daw/delia/Mod_Key_Vel:\\w{1,}",
+        "param_list": "param_list_key_vel_mod"
+    },
+    {
+        "param_path": "/daw/delia/Mod_Key_Vel:Pan",
+        "param_list": "param_list_key_vel_mod_additional"
+    },    
+    {
+        "param_path": "/daw/delia/Mod_Key_Vel:Spin",
+        "param_list": "param_list_key_vel_mod_additional"
+    },     
+    {
+        "param_path": "/daw/delia/Mod_Aftertouch:\\w{1,}",
+        "param_list": "param_list_aftertouch_mod"
+    },
+    {
+        "param_path": "/daw/delia/Mod_Aftertouch:Pan",
+        "param_list": "param_list_aftertouch_mod_additional"
+    },    
+    {
+        "param_path": "/daw/delia/Mod_Aftertouch:Spin",
+        "param_list": "param_list_aftertouch_mod_additional"
+    },     
+    {
+        "param_path": "/daw/delia/Mod_Modwheel:\\w{1,}",
+        "param_list": "param_list_modwheel_mod"
+    },
+    {
+        "param_path": "/daw/delia/Mod_Modwheel:Pan",
+        "param_list": "param_list_modwheel_mod_additional"
+    },    
+    {
+        "param_path": "/daw/delia/Mod_Modwheel:Spin",
+        "param_list": "param_list_modwheel_mod_additional"
+    },     
+    {
+        "param_path": "/daw/delia/Mod_LFO_1:\\w{1,}",
+        "param_list": "param_list_lfo_1_mod"
+    },
+    {
+        "param_path": "/daw/delia/Mod_LFO_1:Pan",
+        "param_list": "param_list_lfo_1_mod_additional"
+    },    
+    {
+        "param_path": "/daw/delia/Mod_LFO_1:Spin",
+        "param_list": "param_list_lfo_1_mod_additional"
+    },     
+    {
+        "param_path": "/daw/delia/Mod_LFO_2:\\w{1,}",
+        "param_list": "param_list_lfo_2_mod"
+    },
+    {
+        "param_path": "/daw/delia/Mod_LFO_2:Pan",
+        "param_list": "param_list_lfo_2_mod_additional"
+    },    
+    {
+        "param_path": "/daw/delia/Mod_LFO_2:Spin",
+        "param_list": "param_list_lfo_2_mod_additional"
+    },     
+    {
+        "param_path": "/daw/delia/Mod_LFO_3:\\w{1,}",
+        "param_list": "param_list_lfo_3_mod"
+    },
+    {
+        "param_path": "/daw/delia/Mod_LFO_3:Pan",
+        "param_list": "param_list_lfo_3_mod_additional"
+    },    
+    {
+        "param_path": "/daw/delia/Mod_LFO_3:Spin",
+        "param_list": "param_list_lfo_3_mod_additional"
+    },     
+    {
+        "param_path": "/daw/delia/Mod_Filt_Eg:\\w{1,}",
+        "param_list": "param_list_eg_vcf_mod"
+    },
+    {
+        "param_path": "/daw/delia/Mod_Filt_Eg:Pan",
+        "param_list": "param_list_eg_vcf_mod_additional"
+    },    
+    {
+        "param_path": "/daw/delia/Mod_Filt_Eg:Spin",
+        "param_list": "param_list_eg_vcf_mod_additional"
+    },     
+    {
+        "param_path": "/daw/delia/Mod_Amp_Eg:\\w{1,}",
+        "param_list": "param_list_eg_vca_mod"
+    },
+    {
+        "param_path": "/daw/delia/Mod_Amp_Eg:Pan",
+        "param_list": "param_list_eg_vca_mod_additional"
+    },    
+    {
+        "param_path": "/daw/delia/Mod_Amp_Eg:Spin",
+        "param_list": "param_list_eg_vca_mod_additional"
+    },     
+    {
+        "param_path": "/daw/delia/Mod_Aux_Eg:\\w{1,}",
+        "param_list": "param_list_eg_aux_mod"
+    },
+    {
+        "param_path": "/daw/delia/Mod_Aux_Eg:Pan",
+        "param_list": "param_list_eg_aux_mod_additional"
+    },    
+    {
+        "param_path": "/daw/delia/Mod_Aux_Eg:Spin",
+        "param_list": "param_list_eg_aux_mod_additional"
+    },     
+    {
+        "param_path": "/daw/delia/Mod_OSC_1:\\w{1,}",
+        "param_list": "param_list_osc_1_mod"
+    },
+    {
+        "param_path": "/daw/delia/Mod_OSC_1:Pan",
+        "param_list": "param_list_osc_1_mod_additional"
+    },    
+    {
+        "param_path": "/daw/delia/Mod_OSC_1:Spin",
+        "param_list": "param_list_osc_1_mod_additional"
+    },     
+    {
+        "param_path": "/daw/delia/Mod_OSC_2:\\w{1,}",
+        "param_list": "param_list_osc_2_mod"
+    },
+    {
+        "param_path": "/daw/delia/Mod_OSC_2:Pan",
+        "param_list": "param_list_osc_2_mod_additional"
+    },    
+    {
+        "param_path": "/daw/delia/Mod_OSC_2:Spin",
+        "param_list": "param_list_osc_2_mod_additional"
+    },     
+    {
+        "param_path": "/daw/delia/Mod_OSC_3:\\w{1,}",
+        "param_list": "param_list_osc_3_mod"
+    },
+    {
+        "param_path": "/daw/delia/Mod_OSC_3:Pan",
+        "param_list": "param_list_osc_3_mod_additional"
+    },    
+    {
+        "param_path": "/daw/delia/Mod_OSC_3:Spin",
+        "param_list": "param_list_osc_3_mod_additional"
+    },     
+    {
+        "param_path": "/daw/delia/Mod_Pan:\\w{1,}",
+        "param_list": "param_list_panner_mod"
+    },
+    {
+        "param_path": "/daw/delia/Mod_Pan:Pan",
+        "param_list": "param_list_panner_mod_additional"
+    },    
+    {
+        "param_path": "/daw/delia/Mod_Pan:Spin",
+        "param_list": "param_list_panner_mod_additional"
+    },     
+    {
+        "param_path": "/daw/delia/Mod_Expression:\\w{1,}",
+        "param_list": "param_list_expression_mod"
+    },
+    {
+        "param_path": "/daw/delia/Mod_Expression:Pan",
+        "param_list": "param_list_expression_mod_additional"
+    },    
+    {
+        "param_path": "/daw/delia/Mod_Expression:Spin",
+        "param_list": "param_list_expression_mod_additional"
+    },     
+    {
+        "param_path": "/daw/delia/Mod_CV_1:\\w{1,}",
+        "param_list": "param_list_cv_1_mod"
+    },
+    {
+        "param_path": "/daw/delia/Mod_CV_1:Pan",
+        "param_list": "param_list_cv_1_mod_additional"
+    },    
+    {
+        "param_path": "/daw/delia/Mod_CV_1:Spin",
+        "param_list": "param_list_cv_1_mod_additional"
+    },     
+    {
+        "param_path": "/daw/delia/Mod_CV_2:\\w{1,}",
+        "param_list": "param_list_cv_2_mod"
+    },
+    {
+        "param_path": "/daw/delia/Mod_CV_2:Pan",
+        "param_list": "param_list_cv_2_mod_additional"
+    },    
+    {
+        "param_path": "/daw/delia/Mod_CV_2:Spin",
+        "param_list": "param_list_cv_2_mod_additional"
+    },     
+    {
+        "param_path": "/daw/delia/Mod_Midi_CC_1:\\w{1,}",
+        "param_list": "param_list_cc_1_mod"
+    },
+    {
+        "param_path": "/daw/delia/Mod_Midi_CC_1:Pan",
+        "param_list": "param_list_cc_1_mod_additional"
+    },    
+    {
+        "param_path": "/daw/delia/Mod_Midi_CC_1:Spin",
+        "param_list": "param_list_cc_1_mod_additional"
+    },     
+    {
+        "param_path": "/daw/delia/Mod_Midi_CC_2:\\w{1,}",
+        "param_list": "param_list_cc_2_mod"
+    },
+    {
+        "param_path": "/daw/delia/Mod_Midi_CC_2:Pan",
+        "param_list": "param_list_cc_2_mod_additional"
+    },    
+    {
+        "param_path": "/daw/delia/Mod_Midi_CC_2:Spin",
+        "param_list": "param_list_cc_2_mod_additional"
+    },     
+    {
+        "param_path": "/daw/delia/Mod_Offset:\\w{1,}",
+        "param_list": "param_list_offset_mod"
+    },
+    {
+        "param_path": "/daw/delia/Mod_Offset:Pan",
+        "param_list": "param_list_offset_mod_additional"
+    },    
+    {
+        "param_path": "/daw/delia/Mod_Offset:Spin",
+        "param_list": "param_list_offset_mod_additional"
+    },  
+    {
+        "param_path": "/syf/wt_shape",
+        "linked_param": "/daw/delia/WT_Select"
+    },  
+    {
+        "param_path": "/syf/vcf_eg",
+        "linked_param": "/daw/delia/Filt_Eg_Reset"
+    },
+    {
+        "param_path": "/syf/vca_eg",
+        "linked_param": "/daw/delia/Amp_Eg_Reset"
+    },
+    {
+        "param_path": "/syf/aux_eg",
+        "linked_param": "/daw/delia/Aux_Eg_Reset"
+    },
+    {
+        "param_path": "/syf/vcf_lp_cutoff_mode",
+        "linked_param": "/daw/delia/Filter_LP_Mode"
+    },    
+    {
+        "param_path": "/syf/vcf_cutoff_link",
+        "linked_param": "/daw/delia/Mod_Constant:Filter_HP_Cutoff"
+    },
+    {
+        "param_path": "/syf/seq_menu",
+        "linked_param": "/seq/mode"
+    },   
+    {
+        "param_path": "/syf/patch_menu",
+        "linked_param": "/syp/patch_name"
+    }, 
+    {
+        "param_path": "/syf/arp_menu",
+        "linked_param": "/arp/enable"
+    },   
+    {
+        "param_path": "/syf/wave_menu",
+        "linked_param": "/daw/delia/WT_Select"
+    },        
+    {
+        "param_path": "/syf/vcf_menu",
+        "linked_param": "/daw/delia/Mod_Constant:Filter_HP_Cutoff"
+    },
+    {
+        "param_path": "/syf/fx1_menu",
+        "linked_param": "/daw/delia/FX_1_Type"
+    },
+    {
+        "param_path": "/syf/fx2_menu",
+        "linked_param": "/daw/delia/FX_2_Type"
+    }      
+]
